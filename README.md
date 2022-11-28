@@ -207,7 +207,7 @@
   <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo1">1. A</summary>
+<details><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="modulo1/apostila_nova_2022b-01.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
@@ -231,19 +231,37 @@
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-11.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
-   <img src="modulo1/apostila_nova_2022b-12.png" loading="lazy"/>
-   <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
-   <img src="modulo1/apostila_nova_2022b-13.png" loading="lazy"/>
-   <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
-   <img src="modulo1/apostila_nova_2022b-14.png" loading="lazy"/>
-   <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
-   <img src="modulo1/apostila_nova_2022b-15.png" loading="lazy"/>
-   <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo2">2. B</summary>
-  <p>Material da página 1 até a página 11.</p>
-   <img src="modulo2/apostila_nova_2022b-01.png" loading="lazy"/>
+<details><summary id="modulo2">2. Espirais e elipses</summary>
+  <p>Material da página 12 até a página 25.</p>
+   <img src="modulo2/apostila_nova_2022b-12.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-13.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-14.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-15.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-16.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-17.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-18.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-19.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-20.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-21.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-22.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-23.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-24.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
+   <img src="modulo2/apostila_nova_2022b-25.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -292,5 +310,5 @@
 	<li>Candido Gomes, M.E. Desenho Geométrico. Editora I.T.E.C., 1950.</li>
 	<li>Giovanny, J.R. Desenho Geométrico, vol.4. Editora FTD, 1996.</li>
 	<li>Putnoki, J.C. Elementos de Geometria e Desenho Geométrico. v. 1-3. Scipione, 1993.</li>
-	<li>Costa, D.M.B.; Siqueira, P.H. Apostila de Desenho Geométrico. UFPR, 2020.</li>
+	<li>Siqueira, P.H.; Costa, D.M.B. Apostila de Desenho Geométrico 2. UFPR, 2022.</li>
 <ol>

@@ -217,7 +217,7 @@
 			   <input type="radio" id="001" name="sl" checked>
 			   <label for="001"></label>
 			   <img src="modulo1/01_01_01.png" loading="lazy"/>
-			   <figcaption>Construímos as retas perpendiculares ao eixo <b>e</b> que pasam pelos pontos <b>A</b>, <b>B</b> e <b>C</b>.</figcaption>
+			   <figcaption>Construímos as retas perpendiculares ao eixo <b>e</b> que passam pelos pontos <b>A</b>, <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="002" name="sl">
@@ -254,7 +254,7 @@
 			   <input type="radio" id="006" name="sl">
 			   <label for="006"></label>
 			   <img src="modulo1/01_02_04.png" loading="lazy"/>
-			   <figcaption>... e <b>P'</b> em relação à reta <b>r</b>.</figcaption>
+			   <figcaption>... e de <b>P'</b> à reta <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="007" name="sl">
@@ -266,7 +266,7 @@
 			   <input type="radio" id="008" name="sl">
 			   <label for="008"></label>
 			   <img src="modulo1/01_02_06.png" loading="lazy"/>
-			   <figcaption>Como o triângulo tem base <b>BC</b>, temos que <b>AB = AC</b>. Usando o compasso com a ponta seca em <b>A</b> e raio <b>AB</b>...</figcaption>
+			   <figcaption>Como o triângulo isósceles tem base <b>BC</b>, temos que <b>AB = AC</b>. Usando o compasso com a ponta seca em <b>A</b> e raio <b>AB</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="009" name="sl">

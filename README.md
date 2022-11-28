@@ -279,6 +279,75 @@
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-02.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Em um triângulo, a bissetriz de um ângulo serve como eixo de simetria para os pontos dos lados adjacentes a este ângulo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="010" name="sl" checked>
+			   <label for="010"></label>
+			   <img src="modulo1/02_01_01.png" loading="lazy"/>
+			   <figcaption>A reta <b>s</b> é um eixo de simetria dos pontos <b>P</b> e <b>P'</b> que pertencem aos lados <b>AB</b> e <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="011" name="sl">
+			   <label for="011"></label>
+			   <img src="modulo1/02_01_02.png" loading="lazy"/>
+			   <figcaption>A reta <b>s</b> é também um eixo de simetria dos pontos <b>Q</b> e <b>Q'</b> que pertencem aos lados <b>AC</b> e <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="012" name="sl">
+			   <label for="012"></label>
+			   <img src="modulo1/02_01_03.png" loading="lazy"/>
+			   <figcaption>Determinando as retas <b>PQ'</b> e <b>P'Q</b>, encontramos os vértices do triângulo nas retas <b>r</b> e <b>s</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/02_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-02a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Em um triângulo, a bissetriz de um ângulo serve como eixo de simetria para os pontos dos lados adjacentes a este ângulo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="013" name="sl" checked>
+			   <label for="013"></label>
+			   <img src="modulo1/02_02_01.png" loading="lazy"/>
+			   <figcaption>A reta <b>r</b> é um eixo de simetria dos pontos <b>P</b> e <b>P'</b> que pertencem aos lados <b>AB</b> e <b>BC</b>. Se construirmos um arco de circunferência com centro em um ponto <b>B<sub>1</sub></b> sobre <b>r</b>, que passe por <b>P</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="014" name="sl">
+			   <label for="014"></label>
+			   <img src="modulo1/02_02_02.png" loading="lazy"/>
+			   <figcaption>... e outro arco com centro em um ponto <b>B<sub>2</sub></b> sobre <b>r</b>, que passe por <b>P</b>, encontramos <b>P'</b> simétrico de <b>P</b> em relação a <b>r</b> (pois os triângulos <b>&delta;PB<sub>1</sub>P'</b> e <b>&delta;PB<sub>2</sub>P'</b> são congruentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="015" name="sl">
+			   <label for="015"></label>
+			   <img src="modulo1/02_02_03.png" loading="lazy"/>
+			   <figcaption>Construindo da mesma forma, o arco de circunferência com centro em um ponto qualquer <b>A<sub>1</sub></b> de <b>s</b> e raio <b>QA<sub>1</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="016" name="sl" checked>
+			   <label for="016"></label>
+			   <img src="modulo1/02_02_04.png" loading="lazy"/>
+			   <figcaption>... e o arco de centro em <b>A<sub>2</sub></b> de <b>s</b> com raio <b>QA<sub>2</sub></b> encontramos o simétrico de <b>Q</b> em relação a <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="017" name="sl">
+			   <label for="017"></label>
+			   <img src="modulo1/02_02_05.png" loading="lazy"/>
+			   <figcaption>A reta <b>PQ'</b> determina os vértices <b>A</b> e <b>B</b> nas retas <b>r</b> e <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="018" name="sl">
+			   <label for="018"></label>
+			   <img src="modulo1/02_02_06.png" loading="lazy"/>
+			   <figcaption>As retas <b>AQ</b> e <b>BP'</b> determinam o vértice <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/02_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-02b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-03.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

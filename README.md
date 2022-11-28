@@ -467,11 +467,152 @@
    <img src="modulo1/apostila_nova_2022b-05b.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito de ângulos de incidência e reflexão, podemos encontrar os simétricos do foco <b>F</b> e do objeto <b>O</b> em relação aos espelhos planos <b>r</b> e <b>s</b>.</p>
-	<img src="modulo1/05_02_01.png" loading="lazy"/>
+	<img src="modulo1/05_03_01.png" loading="lazy"/>
 	<figcaption>Desta forma, temos que a trajetória da fonte de luz saindo de <b>F</b>, atingindo o espelho <b>r</b> em <b>X<sub>2</sub></b>, depois atingindo o espelho <b>s</b> em <b>X<sub>1</sub></b> para finalmente atingir o objeto em <b>O</b>.</figcaption>
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-06.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Considere o arco de ferradura mostrado nesta página. Vamos analisar quais são os elementos de um arco arquitetônico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="032" name="sl" checked>
+			   <label for="032"></label>
+			   <img src="modulo1/06_01_01.png" loading="lazy"/>
+			   <figcaption>Os pontos <b>A</b> e <b>B</b> definem o começo do arco e são chamados de pontos de nascença.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="033" name="sl">
+			   <label for="033"></label>
+			   <img src="modulo1/06_01_02.png" loading="lazy"/>
+			   <figcaption>A distância entre os pontos de nascença <b>AB</b> é chamada de vão ou abertura do arco. O segmento <b>AB</b> pode ser considerado também como a base do arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="034" name="sl">
+			   <label for="034"></label>
+			   <img src="modulo1/06_01_03.png" loading="lazy"/>
+			   <figcaption>A distância entre o ponto mais alto do arco e a base é chamada de flecha do arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="035" name="sl">
+			   <label for="035"></label>
+			   <img src="modulo1/06_01_04.png" loading="lazy"/>
+			   <figcaption>As semi-retas perpendiculares ao vão, que geralmente passam pelas extremidades deste segmento, são chamados de suportes do arco. São as semi-retas que sustentam o arco arquitetônico.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/06_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-06a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+	<p>O arco pleno tem o centro na metade do vão.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="036" name="sl" checked>
+			   <label for="036"></label>
+			   <img src="modulo1/06_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos construir a mediatriz do vão <b>AB</b>. Usando um arco de abertura maior do que a metade do vão, com centro em <b>A</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="037" name="sl">
+			   <label for="037"></label>
+			   <img src="modulo1/06_02_02.png" loading="lazy"/>
+			   <figcaption>... e outro arco de mesmo raio com centro em <b>B</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="038" name="sl">
+			   <label for="038"></label>
+			   <img src="modulo1/06_02_03.png" loading="lazy"/>
+			   <figcaption>... definimos a <b>med<sub>AB</sub></b> e o centro <b>C</b> do arco pleno.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="039" name="sl">
+			   <label for="039"></label>
+			   <img src="modulo1/06_02_04.png" loading="lazy"/>
+			   <figcaption>Alinhando um cateto de um dos esquadros com o vão e apoiando a hipotenusa com outro esquadro ou com a régua, podemos deslizar o esquadro alinhado...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="040" name="sl">
+			   <label for="040"></label>
+			   <img src="modulo1/06_02_05.png" loading="lazy"/>
+			   <figcaption>... até passar pela extremidade <b>B</b> do vão, definindo um dos suportes. Construindo o arco de centro em <b>C</b> e raio <b>CA = CB</b>, temos o arco pleno...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="041" name="sl">
+			   <label for="041"></label>
+			   <img src="modulo1/06_02_06.png" loading="lazy"/>
+			   <figcaption>.. e deslizando o esquadro até passar pela extremidade <b>A</b> do vão, encontramos o outro suporte do arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="042" name="sl">
+			   <label for="042"></label>
+			   <img src="modulo1/06_02_07.png" loading="lazy"/>
+			   <figcaption>Este é o arco pleno, um dos mais simples de construir.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/06_02_00.png" class="fundo" loading="lazy"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+	<p>Agora vamos construir o arco abatido, com o uso de 3 centros. A flecha está definida pelo segmento <b>CD</b>, que contém o ponto mais alto deste arco.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="043" name="sl" checked>
+			   <label for="043"></label>
+			   <img src="modulo1/06_03_01.png" loading="lazy"/>
+			   <figcaption>Com o uso do compasso, vamos usar a medida da flecha <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="044" name="sl">
+			   <label for="044"></label>
+			   <img src="modulo1/06_03_02.png" loading="lazy"/>
+			   <figcaption>Construa a semi-circunferência com centro em <b>C</b> e raio igual à flecha <b>CD</b>, determinando no vão os pontos <b>E</b> e <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="046" name="sl">
+			   <label for="046"></label>
+			   <img src="modulo1/06_03_04.png" loading="lazy"/>
+			   <figcaption>Com o compasso, construa os segmentos <b>DG = AE = BF</b> e <b>DH = AE = BF</b> nos segmentos <b>AD</b> e <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="048" name="sl">
+			   <label for="048"></label>
+			   <img src="modulo1/06_03_06.png" loading="lazy"/>
+			   <figcaption>Encontre as mediatrizes dos segmentos <b>AG</b> e <b>BH</b> e o ponto de interseção <b>I</b> destas mediatrizes: este é um dos centros do arco abatido.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="049" name="sl">
+			   <label for="049"></label>
+			   <img src="modulo1/06_03_07.png" loading="lazy"/>
+			   <figcaption>Com centro em <b>I</b> e raio <b>ID</b> a primeira parte do arco que começa na mediatriz de <b>AG</b> e termina na mediatriz de <b>BH</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="050" name="sl">
+			   <label for="050"></label>
+			   <img src="modulo1/06_03_08.png" loading="lazy"/>
+			   <figcaption>Os outros centros são <b>K</b> e <b>J</b>: as outras partes do arco abatido têm raios <b>AJ</b> e <b>BK</b>. Para finalizar o arco, alinhamos um dos esquadros para construir as semi-retas perpendiculares ao vão <b>AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="051" name="sl">
+			   <label for="051"></label>
+			   <img src="modulo1/06_03_09.png" loading="lazy"/>
+			   <figcaption>... que passam por <b>B</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="052" name="sl">
+			   <label for="052"></label>
+			   <img src="modulo1/06_03_10.png" loading="lazy"/>
+			   <figcaption>... e pelo ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="053" name="sl">
+			   <label for="053"></label>
+			   <img src="modulo1/06_03_11.png" loading="lazy"/>
+			   <figcaption>Este é um arco abatido com 3 centros: <b>I</b>, <b>J</b> e <b>K</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/06_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-06b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.3</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-07.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

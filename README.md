@@ -444,7 +444,7 @@
 			   <input type="radio" id="031" name="sl">
 			   <label for="031"></label>
 			   <img src="modulo1/04_01_04.png" loading="lazy"/>
-			   <figcaption>Unindo os pontos <b>X<sub>1</sub></b> com <b>Q'</b> temos o ponto <b>X<sub>2</sub></b> da trajetoria que a bola fará ao sair da posição <b>X<sub>1</sub></b> com tabela <b>BC</b>. Como o ângulo de incidência é igual ao ângulo de reflexão de cada tabela, a bola que estava na posição <b>P</b> atinge a bola que está na posição <b>Q</b> depois de fazer as tabelas <b>AB</b> e <b>BC</b> solicitadas.</figcaption>
+			   <figcaption>Unindo os pontos <b>X<sub>1</sub></b> com <b>Q'</b> temos o ponto <b>X<sub>2</sub></b> da trajetória que a bola fará ao sair da posição <b>X<sub>1</sub></b> com tabela <b>BC</b>. Como o ângulo de incidência é igual ao ângulo de reflexão de cada tabela, a bola que estava na posição <b>P</b> atinge a bola que está na posição <b>Q</b> depois de fazer as tabelas <b>AB</b> e <b>BC</b> solicitadas.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo1/04_01_00.png" class="fundo" loading="lazy"/>
@@ -453,6 +453,23 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.2</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-05.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Usando o conceito de distância mínima entre dois pontos, podemos encontrar os simétricos dos vértices <b>A</b> e <b>B</b> em relação aos lados do ângulo.</p>
+	<img src="modulo1/05_01_01.png" loading="lazy"/>
+	<figcaption>Desta forma, temos que as distâncias <b>BD</b> e <b>AC</b> são mínimas. Logo, o quadrilátero <b>ABCD</b> tem perímetro mínimo.</figcaption>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-05a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Usando o conceito de distância mínima entre dois pontos, podemos encontrar os simétricos do vértice <b>A</b> em relação aos lados do ângulo.</p>
+	<img src="modulo1/05_02_01.png" loading="lazy"/>
+	<figcaption>Desta forma, temos que as distâncias <b>AB</b> e <b>AC</b> são mínimas. Logo, o triângulo <b>ABC</b> tem perímetro mínimo.</figcaption>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-05b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Usando o conceito de ângulos de incidência e reflexão, podemos encontrar os simétricos do foco <b>F</b> e do objeto <b>O</b> em relação aos espelhos planos <b>r</b> e <b>s</b>.</p>
+	<img src="modulo1/05_02_01.png" loading="lazy"/>
+	<figcaption>Desta forma, temos que a trajetória da fonte de luz saindo de <b>F</b>, atingindo o espelho <b>r</b> em <b>X<sub>2</sub></b>, depois atingindo o espelho <b>s</b> em <b>X<sub>1</sub></b> para finalmente atingir o objeto em <b>O</b>.</figcaption>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-06.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

@@ -10,7 +10,7 @@
 <h2 id="inicio">Construções Geométricas</h2>
 
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
-<p>A apostila está disponível no link: <a href="basico/Apostila_DG2_2022.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
+<p>A apostila está disponível no link: <a href="basico/Apostila_DG2_2022.pdf" target="_blank">apostila de Desenho Geométrico 2</a></p>
 
 <details><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
@@ -328,7 +328,7 @@
 </details>
 
 <details><summary id="modulo5">5. Translação, Inversão e curvas</summary>
-  <p>Material da página 52 até a página 64.</p>
+  <p>Material da página 52 até a página 65.</p>
    <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-53.png" loading="lazy"/>

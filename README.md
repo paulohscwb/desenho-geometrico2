@@ -265,9 +265,39 @@
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo3">3. C</summary>
-  <p>Material da página 1 até a página 11.</p>
-   <img src="modulo3/apostila_nova_2022b-01.png" loading="lazy"/>
+<details><summary id="modulo3">3. Hipérboles e parábolas</summary>
+  <p>Material da página 26 até a página 41.</p>
+   <img src="modulo3/apostila_nova_2022b-26.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-27.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-28.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-29.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-30.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-31.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-32.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-33.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-34.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-35.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-36.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-37.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-38.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-39.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-40.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-41.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
 </details>
 

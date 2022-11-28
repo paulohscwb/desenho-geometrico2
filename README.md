@@ -210,6 +210,73 @@
 <details><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="modulo1/apostila_nova_2022b-01.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Dados os pontos <b>A</b>, <b>B</b> e <b>C</b>, os simétricos destes pontos são obtidos da seguinte maneira:</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="001" name="sl" checked>
+			   <label for="001"></label>
+			   <img src="modulo1/01_01_01.png" loading="lazy"/>
+			   <figcaption>Construímos as retas perpendiculares ao eixo <b>e</b> que pasam pelos pontos <b>A</b>, <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="002" name="sl">
+			   <label for="002"></label>
+			   <img src="modulo1/01_01_02.png" loading="lazy"/>
+			   <figcaption>Depois, basta definir os homólogos <b>A'</b>, <b>B'</b> e <b>C'</b> pertencentes às respectivas perpendiculares e equidistantes ao eixo, ou seja, <b>AM<sub>A</sub> = A'M<sub>A</sub></b>, <b>BM<sub>B</sub> = B'M<sub>B</sub></b> e <b>CM<sub>C</sub> = C'M<sub>C</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/01_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+  <img src="modulo1/apostila_nova_2022b-01a.png" loading="lazy"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Em um triângulo, a bissetriz de um ângulo serve como eixo de simetria para os pontos dos lados adjacentes a este ângulo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="003" name="sl" checked>
+			   <label for="003"></label>
+			   <img src="modulo1/01_02_01.png" loading="lazy"/>
+			   <figcaption>A reta <b>r</b> é um eixo de simetria dos pontos <b>P</b> e <b>P'</b>. Logo, podemos construir uma reta perpendicular a <b>r</b> que passa por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="004" name="sl">
+			   <label for="004"></label>
+			   <img src="modulo1/01_02_02.png" loading="lazy"/>
+			   <figcaption>Alinhando um catedo do esquadro de 45&deg; com a reta <b>r</b> e deixando o outro esquadro ou a régua como apoio na hipotenusa, podemos deslizar o esquadro de 45&deg; para construir com o outro cateto a reta perpendicular a <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="005" name="sl">
+			   <label for="005"></label>
+			   <img src="modulo1/01_02_03.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir com o compasso os segmentos congruentes das distâncias de <b>P</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="006" name="sl">
+			   <label for="006"></label>
+			   <img src="modulo1/01_02_04.png" loading="lazy"/>
+			   <figcaption>... e <b>P'</b> em relação à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="007" name="sl">
+			   <label for="007"></label>
+			   <img src="modulo1/01_02_05.png" loading="lazy"/>
+			   <figcaption>Unindo os pontos <b>A</b> e <b>P'</b>, encontramos <b>B</b> na interseção com a reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="008" name="sl">
+			   <label for="008"></label>
+			   <img src="modulo1/01_02_06.png" loading="lazy"/>
+			   <figcaption>Como o triângulo tem base <b>BC</b>, temos que <b>AB = AC</b>. Usando o compasso com a ponta seca em <b>A</b> e raio <b>AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="009" name="sl">
+			   <label for="009"></label>
+			   <img src="modulo1/01_02_07.png" loading="lazy"/>
+			   <figcaption>... encontramos o vértice <b>C</b> na reta suporte <b>BP</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/01_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-02.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

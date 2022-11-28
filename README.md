@@ -355,11 +355,35 @@
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-64.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-65.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. F</summary>
-  <p>Material da página 1 até a página 11.</p>
-   <img src="modulo6/apostila_nova_2022b-01.png" loading="lazy"/>
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. Curvas paramétricas</summary>
+  <p>Material da página 66 até a página 77.</p>
+   <img src="modulo6/apostila_nova_2022b-66.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-67.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-68.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-69.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-70.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-72.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-73.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-74.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-75.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-76.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-77.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
 </details>
 

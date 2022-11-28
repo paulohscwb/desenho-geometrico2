@@ -350,6 +350,73 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-03.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Em um triângulo isósceles, a mediatriz da base serve como eixo de simetria para os pontos das laterais deste triângulo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="019" name="sl" checked>
+			   <label for="019"></label>
+			   <img src="modulo1/03_01_01.png" loading="lazy"/>
+			   <figcaption>A reta <b>r</b> é um eixo de simetria dos pontos <b>P</b> e <b>P'</b> que pertencem aos lados <b>AB</b> e <b>AC</b>. Construa o simétrico de <b>P</b> em relação à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="020" name="sl">
+			   <label for="020"></label>
+			   <img src="modulo1/03_01_02.png" loading="lazy"/>
+			   <figcaption>A reta <b>r</b> é também um eixo de simetria dos pontos <b>Q</b> e <b>Q'</b> que pertencem aos lados <b>AC</b> e <b>AB</b>. Construa o simétrico de <b>Q</b> em relação à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="021" name="sl">
+			   <label for="021"></label>
+			   <img src="modulo1/03_01_03.png" loading="lazy"/>
+			   <figcaption>Vamos encontrar a metade da medida da base construindo a mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="022" name="sl" checked>
+			   <label for="022"></label>
+			   <img src="modulo1/03_01_04.png" loading="lazy"/>
+			   <figcaption>Escolhendo um ponto qualquer <b>R</b> da reta <b>r</b>, construa os segmentos <b>RB'</b> e <b>RC'</b> perpendiculares a <b>r</b> com medidas iguais a $\mathsf{BC \over 2}$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="023" name="sl">
+			   <label for="023"></label>
+			   <img src="modulo1/03_01_05.png" loading="lazy"/>
+			   <figcaption>Os pontos <b>B</b> e <b>C</b> pertencem às retas <b>AQ'</b> e <b>AP'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="024" name="sl">
+			   <label for="024"></label>
+			   <img src="modulo1/03_01_06.png" loading="lazy"/>
+			   <figcaption>Outro lugar geométrico dos pontos <b>B</b> e <b>C</b> é o par de retas paralelas à reta <b>r</b> que passam por <b>B'</b> e <b>C'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/03_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-03a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste problema, vamos usar o conceito da menor distância entre dois pontos de um plano.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="025" name="sl" checked>
+			   <label for="025"></label>
+			   <img src="modulo1/03_02_01.png" loading="lazy"/>
+			   <figcaption>Quando <b>A</b> e <b>B</b> estão em semi-planos opostos em relação à reta <b>r</b>, basta encontrar a menor distância entre <b>A</b> e <b>B</b> definida pelo segmento de reta <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="026" name="sl">
+			   <label for="026"></label>
+			   <img src="modulo1/03_02_02.png" loading="lazy"/>
+			   <figcaption>Usando o conceito anterior, se construirmos o simétrico de um dos pontos (<b>B</b>) em relação à reta <b>r</b>, a menor distância entre o outro ponto (<b>A</b>) e o simétrico encontrado (<b>B'</b>) será o segmento de reta (<b>AB'</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="027" name="sl">
+			   <label for="027"></label>
+			   <img src="modulo1/03_02_03.png" loading="lazy"/>
+			   <figcaption>Logo, temos que <b>BX = B'X</b>, e a trajetória mínima será <b>AX + XB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/03_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-04.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

@@ -327,9 +327,33 @@
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo5">5. E</summary>
-  <p>Material da página 1 até a página 11.</p>
-   <img src="modulo5/apostila_nova_2022b-01.png" loading="lazy"/>
+<details><summary id="modulo5">5. Translação, Inversão e curvas</summary>
+  <p>Material da página 52 até a página 64.</p>
+   <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-53.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-54.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-55.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-56.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-57.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-58.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-59.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-60.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-61.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-62.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-63.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
+   <img src="modulo5/apostila_nova_2022b-64.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
 </details>
 

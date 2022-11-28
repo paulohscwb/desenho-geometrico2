@@ -317,7 +317,7 @@
 			   <input type="radio" id="014" name="sl">
 			   <label for="014"></label>
 			   <img src="modulo1/02_02_02.png" loading="lazy"/>
-			   <figcaption>... e outro arco com centro em um ponto <b>B<sub>2</sub></b> sobre <b>r</b>, que passe por <b>P</b>, encontramos <b>P'</b> simétrico de <b>P</b> em relação a <b>r</b> (pois os triângulos <b>&delta;PB<sub>1</sub>P'</b> e <b>&delta;PB<sub>2</sub>P'</b> são congruentes.</figcaption>
+			   <figcaption>... e outro arco com centro em um ponto <b>B<sub>2</sub></b> sobre <b>r</b>, que passe por <b>P</b>, encontramos <b>P'</b> simétrico de <b>P</b> em relação a <b>r</b> (pois os triângulos <b>&#9651;PB<sub>1</sub>B<sub>2</sub></b> e <b>&#9651;P'B<sub>1</sub>B<sub>2</sub></b> são congruentes).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="015" name="sl">

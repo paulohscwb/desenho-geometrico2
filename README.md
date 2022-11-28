@@ -497,7 +497,7 @@
 			   <input type="radio" id="035" name="sl">
 			   <label for="035"></label>
 			   <img src="modulo1/06_01_04.png" loading="lazy"/>
-			   <figcaption>As semi-retas perpendiculares ao vão, que geralmente passam pelas extremidades deste segmento, são chamados de suportes do arco. São as semi-retas que sustentam o arco arquitetônico.</figcaption>
+			   <figcaption>As semi-retas perpendiculares ao vão, que geralmente passam pelas extremidades deste segmento, são chamadas de suportes do arco. São as semi-retas que sustentam o arco arquitetônico.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo1/06_01_00.png" class="fundo" loading="lazy"/>
@@ -558,7 +558,7 @@
 			   <input type="radio" id="043" name="sl" checked>
 			   <label for="043"></label>
 			   <img src="modulo1/06_03_01.png" loading="lazy"/>
-			   <figcaption>Com o uso do compasso, vamos usar a medida da flecha <b>CD</b>.</figcaption>
+			   <figcaption>Com o compasso, vamos usar a medida da flecha <b>CD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="044" name="sl">

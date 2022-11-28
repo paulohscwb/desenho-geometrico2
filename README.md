@@ -419,6 +419,38 @@
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-04.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste problema, vamos usar o conceito dos ângulos de incidência e reflexão nas tabelas da mesa de bilhar.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="028" name="sl" checked>
+			   <label for="028"></label>
+			   <img src="modulo1/04_01_01.png" loading="lazy"/>
+			   <figcaption>Se construirmos o simétrico de <b>Q</b> em relação à ultima tabela <b>BC</b>, teremos o ângulo de incidência igual ao ângulo de reflexão nesta tabela.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="029" name="sl">
+			   <label for="029"></label>
+			   <img src="modulo1/04_01_02.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio, se construirmos o simétrico de <b>Q'</b> em relação à primeira tabela <b>AB</b>, teremos o ângulo de incidência igual ao ângulo de reflexão nesta tabela.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="030" name="sl">
+			   <label for="030"></label>
+			   <img src="modulo1/04_01_03.png" loading="lazy"/>
+			   <figcaption>Unindo os pontos <b>P</b> e <b>Q''</b>, temos o ponto <b>X<sub>1</sub></b> da trajetória que a bola fará ao sair da posição <b>P</b> com tabela <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="031" name="sl">
+			   <label for="031"></label>
+			   <img src="modulo1/04_01_04.png" loading="lazy"/>
+			   <figcaption>Unindo os pontos <b>X<sub>1</sub></b> com <b>Q'</b> temos o ponto <b>X<sub>2</sub></b> da trajetoria que a bola fará ao sair da posição <b>X<sub>1</sub></b> com tabela <b>BC</b>. Como o ângulo de incidência é igual ao ângulo de reflexão de cada tabela, a bola que estava na posição <b>P</b> atinge a bola que está na posição <b>Q</b> depois de fazer as tabelas <b>AB</b> e <b>BC</b> solicitadas.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/04_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-04a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.2</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-05.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

@@ -301,9 +301,29 @@
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo4">4. D</summary>
-  <p>Material da página 1 até a página 11.</p>
-   <img src="modulo4/apostila_nova_2022b-01.png" loading="lazy"/>
+<details><summary id="modulo4">4. Homotetia, Rotação e curvas</summary>
+  <p>Material da página 42 até a página 52.</p>
+   <img src="modulo4/apostila_nova_2022b-42.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-43.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-44.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-45.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-46.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-47.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-48.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-49.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-50.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-51.png" loading="lazy"/>
+   <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
+   <img src="modulo4/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
 </details>
 

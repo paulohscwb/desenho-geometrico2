@@ -615,6 +615,127 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.3</span></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-07.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Quando a medida da flecha não for considerada, podemos definir a mediatriz do vão <b>AB</b> como eixo de simetria e escolher um centro <b>E</b> qualquer da mediatriz.</p>
+	<img src="modulo1/07_01_01.png" loading="lazy"/>
+	<figcaption>Definindo o centro <b>D</b> qualquer sobre o vão, temos o terceiro centro <b>D'</b> simétrico de <b>D</b> em relação à mediatriz. As retas <b>ED</b> e <b>ED'</b> são usadas como limites para os três arcos que formam o arco abatido de flecha com medida .</figcaption>
+  </details></div>
+  <img src="modulo1/apostila_nova_2022b-07a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos começar construindo os centros do arco maior com um retângulo de lados iguais ao vão <b>AB</b> e a flecha <b>CD</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="054" name="sl" checked>
+			   <label for="054"></label>
+			   <img src="modulo1/07_02_01.png" loading="lazy"/>
+			   <figcaption>Alinhe a hipotenusa de um dos esquadros com o vão <b>AB</b>, deixando o cateto apoiado com o outro esquadro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="055" name="sl">
+			   <label for="055"></label>
+			   <img src="modulo1/07_02_02.png" loading="lazy"/>
+			   <figcaption>Deslize o esquadro alinhado, construindo a reta paralela ao vão que passa por <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="056" name="sl">
+			   <label for="056"></label>
+			   <img src="modulo1/07_02_03.png" loading="lazy"/>
+			   <figcaption>Construa da mesma forma as paralelas à flecha <b>CD</b> que passam pelas extremidades do vão <b>A</b> e <b>B</b>. Temos o retângulo <b>AEFB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="058" name="sl">
+			   <label for="058"></label>
+			   <img src="modulo1/07_02_04.png" loading="lazy"/>
+			   <figcaption>Construa as bissetrizes dos ângulos <b>DÂE</b> e <b>ADE</b>, definindo o incentro <b>G</b> do <b>&#9651;ADE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="059" name="sl">
+			   <label for="059"></label>
+			   <img src="modulo1/07_02_05.png" loading="lazy"/>
+			   <figcaption>A reta <b>HG &perp; AD</b> define os centros <b>I</b> e <b>H</b> do arco abatido maior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="060" name="sl">
+			   <label for="060"></label>
+			   <img src="modulo1/07_02_06.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos sobre o vão do arco: <b>CJ = AI = CK = BL</b>. Note que os pontos <b>I</b> e <b>L</b> são simétricos em relação à flecha <b>CD</b>. O mesmo acontece com os pontos <b>J</b> e <b>K</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="061" name="sl">
+			   <label for="061"></label>
+			   <img src="modulo1/07_02_07.png" loading="lazy"/>
+			   <figcaption>Os centros <b>I</b> e <b>L</b> definem as duas partes simétricas do arco maior até as retas <b>HG</b> e <b>HL</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="062" name="sl">
+			   <label for="062"></label>
+			   <img src="modulo1/07_02_08.png" loading="lazy"/>
+			   <figcaption>A parte mais alta do arco maior tem centro em<b>H</b> e raio <b>HD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="063" name="sl">
+			   <label for="063"></label>
+			   <img src="modulo1/07_02_09.png" loading="lazy"/>
+			   <figcaption>Unindo os pontos <b>G</b> e <b>M</b> temos a reta que limita os arcos menores. Logo, podemos construir os arcos com centros em <b>J</b> e <b>K</b> e raios iguais a <b>CJ</b> até a reta <b>GM</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="064" name="sl">
+			   <label for="064"></label>
+			   <img src="modulo1/07_02_10.png" loading="lazy"/>
+			   <figcaption>Agora precisamos encontrar os centros dos arcos abatidos menores. As retas <b>NJ</b> e <b>OK</b> intersectam as retas <b>HG</b> e <b>HL</b> nos centros <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="065" name="sl">
+			   <label for="065"></label>
+			   <img src="modulo1/07_02_11.png" loading="lazy"/>
+			   <figcaption>Construindo os arcos de centros <b>P</b> e <b>Q</b> e os suportes, temos o arco abatido conjugado em dois arcos abatidos menores.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/07_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>  
+   <img src="modulo1/apostila_nova_2022b-07b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos o arco ogival de duas formas: considerando a flecha com tamanho fixo e com a flecha dependente da medida do vão <b>AB</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="066" name="sl" checked>
+			   <label for="066"></label>
+			   <img src="modulo1/07_03_01.png" loading="lazy"/>
+			   <figcaption>Neste primeiro caso, vamos considerar a flecha com a medida que depende da medida do vão <b>AB</b>. Construa o arco de circunferência com a medida do raio igual a <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="067" name="sl">
+			   <label for="067"></label>
+			   <img src="modulo1/07_03_02.png" loading="lazy"/>
+			   <figcaption>Fazendo o mesmo no ponto <b>B</b>, temos um arco ogival.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="068" name="sl">
+			   <label for="068"></label>
+			   <img src="modulo1/07_03_03.png" loading="lazy"/>
+			   <figcaption>Considerando a medida fixa da flecha <b>CD</b>, vamos encontrar o centro do arco que passa por <b>B</b> e <b>D</b> usando a mediatriz de <b>BD</b>. O ponto <b>E</b> pertencente ao prolongamento do vão é o centro do primeiro arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="069" name="sl">
+			   <label for="069"></label>
+			   <img src="modulo1/07_03_04.png" loading="lazy"/>
+			   <figcaption>O ponto <b>F</b>, centro do segundo arco, está na interseção da mediatriz de <b>AD</b> com o prolongamento do vão <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="070" name="sl">
+			   <label for="070"></label>
+			   <img src="modulo1/07_03_05.png" loading="lazy"/>
+			   <figcaption>Construa o primeiro arco, com centro em <b>E</b> e raio com medida <b>EB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="071" name="sl">
+			   <label for="071"></label>
+			   <img src="modulo1/07_03_06.png" loading="lazy"/>
+			   <figcaption>O segundo arco tem centro <b>F</b> e raio com medida <b>AF</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/07_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>  
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-08.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

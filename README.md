@@ -916,6 +916,8 @@
   </details></div> 
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-09.png" loading="lazy"/>
+   <img src="modulo1/apostila_nova_2022b-09a.png" loading="lazy"/>
+   <img src="modulo1/apostila_nova_2022b-09b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-10.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

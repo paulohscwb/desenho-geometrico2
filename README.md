@@ -618,7 +618,7 @@
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Quando a medida da flecha não for considerada, podemos definir a mediatriz do vão <b>AB</b> como eixo de simetria e escolher um centro <b>E</b> qualquer da mediatriz.</p>
 	<img src="modulo1/07_01_01.png" loading="lazy"/>
-	<figcaption>Definindo o centro <b>D</b> qualquer sobre o vão, temos o terceiro centro <b>D'</b> simétrico de <b>D</b> em relação à mediatriz. As retas <b>ED</b> e <b>ED'</b> são usadas como limites para os três arcos que formam o arco abatido de flecha com medida .</figcaption>
+	<figcaption>Definindo o centro <b>D</b> qualquer sobre o vão, temos o terceiro centro <b>D'</b> simétrico de <b>D</b> em relação à mediatriz. As retas <b>ED</b> e <b>ED'</b> são usadas como limites para os três arcos que formam o arco abatido.</figcaption>
   </details></div>
   <img src="modulo1/apostila_nova_2022b-07a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -628,7 +628,7 @@
 			   <input type="radio" id="054" name="sl" checked>
 			   <label for="054"></label>
 			   <img src="modulo1/07_02_01.png" loading="lazy"/>
-			   <figcaption>Alinhe a hipotenusa de um dos esquadros com o vão <b>AB</b>, deixando o cateto apoiado com o outro esquadro.</figcaption>
+			   <figcaption>Alinhe a hipotenusa de um dos esquadros com o vão <b>AB</b>, deixando um cateto apoiado com o outro esquadro ou com a régua.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="055" name="sl">
@@ -670,13 +670,13 @@
 			   <input type="radio" id="062" name="sl">
 			   <label for="062"></label>
 			   <img src="modulo1/07_02_08.png" loading="lazy"/>
-			   <figcaption>A parte mais alta do arco maior tem centro em<b>H</b> e raio <b>HD</b>.</figcaption>
+			   <figcaption>A parte mais alta do arco maior tem centro em <b>H</b> e raio <b>HD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="063" name="sl">
 			   <label for="063"></label>
 			   <img src="modulo1/07_02_09.png" loading="lazy"/>
-			   <figcaption>Unindo os pontos <b>G</b> e <b>M</b> temos a reta que limita os arcos menores. Logo, podemos construir os arcos com centros em <b>J</b> e <b>K</b> e raios iguais a <b>CJ</b> até a reta <b>GM</b>.</figcaption>
+			   <figcaption>A reta <b>GM</b> serve como limite dos arcos menores. Logo, podemos construir os arcos com centros em <b>J</b> e <b>K</b> e raios iguais a <b>CJ</b> até intersectar a reta <b>GM</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="064" name="sl">

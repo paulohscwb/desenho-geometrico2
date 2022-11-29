@@ -1150,13 +1150,13 @@
 			   <input type="radio" id="131" name="sl" checked>
 			   <label for="131"></label>
 			   <img src="modulo1/10_02_01.png" loading="lazy"/>
-			   <figcaption>As ovais possuem sempre eixos com duas medidas: o eixo maior e o eixo menor.</figcaption>
+			   <figcaption>As ovais possuem sempre eixos com duas medidas: o eixo maior e o eixo menor. As ovais regulares têm os dois eixos de simetria.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="132" name="sl">
 			   <label for="132"></label>
 			   <img src="modulo1/10_02_01.png" loading="lazy"/>
-			   <figcaption>Assim como fizemos nos arcos arquitetônicos, os arcos concordantes são utilizados para construções das falsas elipses.</figcaption>
+			   <figcaption>As ovais irregulares têm apenas um eixo de simetria. Assim como fizemos nos arcos arquitetônicos, os arcos concordantes são utilizados para construções das falsas elipses.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo1/10_02_00.png" class="fundo" loading="lazy"/>
@@ -1383,7 +1383,6 @@
 			   <input type="radio" id="165" name="sl" checked>
 			   <label for="165"></label>
 			   <img src="modulo1/11_03_01.png" loading="lazy"/>
-			   <figcaption>Construa o retângulo <b>AOCE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="166" name="sl">

@@ -806,7 +806,7 @@
 			   <input type="radio" id="081" name="sl">
 			   <label for="081"></label>
 			   <img src="modulo1/08_02_02.png" loading="lazy"/>
-			   <figcaption>Encontre os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{{1 \over 4}}$ e $\mathsf{{3 \over 4}}$ do vão.</figcaption>
+			   <figcaption>Encontre os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{ {1 \over 4}}$ e $\mathsf{ {3 \over 4}}$ do vão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="082" name="sl">
@@ -842,7 +842,7 @@
 			   <input type="radio" id="087" name="sl">
 			   <label for="087"></label>
 			   <img src="modulo1/08_02_08.png" loading="lazy"/>
-			   <figcaption>Determine os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{{3 \over 8}}$ e $\mathsf{{5 \over 8}}$ do vão.</figcaption>
+			   <figcaption>Determine os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{ {3 \over 8}}$ e $\mathsf{ {5 \over 8}}$ do vão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="088" name="sl">
@@ -916,8 +916,164 @@
   </details></div> 
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-09.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos assimétricos denominados esconsos.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="098" name="sl" checked>
+			   <label for="098"></label>
+			   <img src="modulo1/09_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos encontrando o ponto <b>D</b> no prolongamento de <b>AC</b>, tal que <b>CD = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="099" name="sl">
+			   <label for="099"></label>
+			   <img src="modulo1/09_01_02.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz de <b>AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="100" name="sl">
+			   <label for="100"></label>
+			   <img src="modulo1/09_01_03.png" loading="lazy"/>
+			   <figcaption>O primeiro arco tem centro em <b>E</b>, raio <b>AE</b> e amplitude de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="101" name="sl">
+			   <label for="101"></label>
+			   <img src="modulo1/09_01_04.png" loading="lazy"/>
+			   <figcaption>O centro do segundo arco está na mediatriz de <b>AD</b>, tal que <b>BG // AC</b> e o raio mede <b>BG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="102" name="sl">
+			   <label for="102"></label>
+			   <img src="modulo1/09_01_05.png" loading="lazy"/>
+			   <figcaption>O arco esconso com a medida <b>BC</b> menor do que $\mathsf{ {AC \over 3}}$ pode ser feita de maneira similar.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/09_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo1/apostila_nova_2022b-09a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos Tudor e Mourisco.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="103" name="sl" checked>
+			   <label for="103"></label>
+			   <img src="modulo1/09_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos dividindo o vão <b>AB</b> em 3 partes iguais usando o teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="104" name="sl">
+			   <label for="104"></label>
+			   <img src="modulo1/09_02_02.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz do vão <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="105" name="sl">
+			   <label for="105"></label>
+			   <img src="modulo1/09_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>F</b> na mediatriz do vão, tal que <b>EF = EC = ED</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="106" name="sl">
+			   <label for="106"></label>
+			   <img src="modulo1/09_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o quadrado de lado <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="107" name="sl">
+			   <label for="107"></label>
+			   <img src="modulo1/09_02_05.png" loading="lazy"/>
+			   <figcaption>As semi-retas <b>HC</b> e <b>GF</b> serão usadas para delimitar o arco Tudor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="108" name="sl">
+			   <label for="108"></label>
+			   <img src="modulo1/09_02_06.png" loading="lazy"/>
+			   <figcaption>Construa os arcos simétricos em relação à mediatriz do vão: centros em <b>C</b> e <b>D</b>, raios iguais a <b>AC = BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="109" name="sl">
+			   <label for="109"></label>
+			   <img src="modulo1/09_02_07.png" loading="lazy"/>
+			   <figcaption>Com centros em <b>H</b> e <b>G</b> e raio <b>HI = GJ</b>, construa os arcos que determinam o ponto mais alto do arco Tudor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="110" name="sl">
+			   <label for="110"></label>
+			   <img src="modulo1/09_02_08.png" loading="lazy"/>
+			   <figcaption>No arco Mourisco, determine os arcos com centros em <b>A</b> e <b>B</b> e raios iguais a <b>AB</b>. Assim encontramos o ponto mais alto deste arco arquitetônico.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="111" name="sl">
+			   <label for="111"></label>
+			   <img src="modulo1/09_02_09.png" loading="lazy"/>
+			   <figcaption>Determine os segmentos perpendiculares <b>AC</b> e <b>AD</b>. Construa um segmento <b>DE</b> com medida qualquer no prolongamento de <b>AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="112" name="sl">
+			   <label for="112"></label>
+			   <img src="modulo1/09_02_11.png" loading="lazy"/>
+			   <figcaption>Para finalizar o arco Mourisco, determine o segmento <b>FG</b> simétrico de <b>DE</b> em relação à mediatriz do vão <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/09_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo1/apostila_nova_2022b-09b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos geminado e trilobado.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="113" name="sl" checked>
+			   <label for="113"></label>
+			   <img src="modulo1/09_03_01.png" loading="lazy"/>
+			   <figcaption>Começamos dividindo o vão <b>AB</b> na metade. A mediatriz funciona como eixo de simetria deste arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="114" name="sl">
+			   <label for="114"></label>
+			   <img src="modulo1/09_03_02.png" loading="lazy"/>
+			   <figcaption>Podemos começar com o centro <b>C</b>, raio <b>CA</b>, com arco começando em <b>A</b> até o segmento <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="115" name="sl">
+			   <label for="115"></label>
+			   <img src="modulo1/09_03_03.png" loading="lazy"/>
+			   <figcaption>O próximo arco tem centro <b>D</b>, começa no segmento <b>CD</b> e termina no próximo segmento <b>ED</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="116" name="sl">
+			   <label for="116"></label>
+			   <img src="modulo1/09_03_04.png" loading="lazy"/>
+			   <figcaption>Para finalizar uma das partes do arco geminado, construa o arco com centro <b>E</b>, que começa em <b>ED</b> e termina na mediatriz do vão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="117" name="sl">
+			   <label for="117"></label>
+			   <img src="modulo1/09_03_05.png" loading="lazy"/>
+			   <figcaption>Determine os centros simétricos em relação à mediatriz do vão: <b>C'</b>, <b>D'</b> e <b>E'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="118" name="sl">
+			   <label for="118"></label>
+			   <img src="modulo1/09_03_06.png" loading="lazy"/>
+			   <figcaption>Construa os arcos simétricos em relação à mediatriz da mesma forma mostrada nos arcos da parte esquerda deste arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="119" name="sl">
+			   <label for="119"></label>
+			   <img src="modulo1/09_03_07.png" loading="lazy"/>
+			   <figcaption>O arco trilobado é parecido com o ogival de ferradura. Porém os centros <b>C</b>, <b>D</b> e <b>E</b> são de arcos com raios iguais. Note que o ponto <b>E</b> deve estar na mediatriz do vão para que este arco tenha simetria em relação a esta reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="120" name="sl">
+			   <label for="120"></label>
+			   <img src="modulo1/09_03_08.png" loading="lazy"/>
+			   <figcaption>Construa os arcos com centros em <b>C</b>, <b>D</b> e <b>E</b> e raios iguais a <b>AC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/09_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-10.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

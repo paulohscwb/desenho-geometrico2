@@ -695,7 +695,7 @@
   </details></div>  
    <img src="modulo1/apostila_nova_2022b-07b.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos o arco ogival de duas formas: considerando a flecha com tamanho fixo e com a flecha dependente da medida do vão <b>AB</b>.</p>
+	<p>Vamos construir o arco ogival de duas formas: considerando a flecha com tamanho fixo e com a flecha dependente da medida do vão <b>AB</b>.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="066" name="sl" checked>
@@ -738,6 +738,182 @@
   </details></div>  
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-08.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir um arco ogival com a flecha com tamanho menor do que o vão e um arco gótico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="072" name="sl" checked>
+			   <label for="072"></label>
+			   <img src="modulo1/08_01_01.png" loading="lazy"/>
+			   <figcaption>A construção fica parecida com o exercício anterior, porém, os centros <b>E</b> e <b>F</b> ficam entre as extremidades do vão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="073" name="sl">
+			   <label for="073"></label>
+			   <img src="modulo1/08_01_02.png" loading="lazy"/>
+			   <figcaption>Para construir o arco gótico, começamos com  a mediatriz do vão <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="074" name="sl">
+			   <label for="074"></label>
+			   <img src="modulo1/08_01_03.png" loading="lazy"/>
+			   <figcaption>A metade do vão é usada para encontrar <b>CD</b> na mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="075" name="sl">
+			   <label for="075"></label>
+			   <img src="modulo1/08_01_04.png" loading="lazy"/>
+			   <figcaption>Uma parte do arco gótico tem centro em <b>A</b>, raio <b>AB</b>, começando em <b>B</b> até o prolongamento da semi-reta <b>AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="076" name="sl">
+			   <label for="076"></label>
+			   <img src="modulo1/08_01_05.png" loading="lazy"/>
+			   <figcaption>O arco simétrico, com centro em <b>B</b> e raio com medida <b>AB</b> começa em <b>A</b> e vai até o prolongamento de <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="077" name="sl">
+			   <label for="077"></label>
+			   <img src="modulo1/08_01_06.png" loading="lazy"/>
+			   <figcaption>Determine os segmentos <b>EG = AD</b> no prolongamento de <b>AD</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="078" name="sl">
+			   <label for="078"></label>
+			   <img src="modulo1/08_01_07.png" loading="lazy"/>
+			   <figcaption>... e <b>HF = AD</b> no prolongamento de <b>BF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="079" name="sl">
+			   <label for="079"></label>
+			   <img src="modulo1/08_01_08.png" loading="lazy"/>
+			   <figcaption>Os arcos com centros em <b>H</b> e <b>G</b> e raios iguais a <b>EG = HF</b> determinam o ponto mais alto do arco gótico.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/08_01_00.png" class="fundo" loading="lazy"/>
+  </details></div> 
+   <img src="modulo1/apostila_nova_2022b-08a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos gótico flamejante e otomano.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="080" name="sl" checked>
+			   <label for="080"></label>
+			   <img src="modulo1/08_02_01.png" loading="lazy"/>
+			   <figcaption>No arco gótico flamejante, começamos dividindo o vão <b>AB</b> em 4 partes iguais usando o teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="081" name="sl">
+			   <label for="081"></label>
+			   <img src="modulo1/08_02_02.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{\alpha = {1 \over 4}}$ e $\mathsf{\alpha = {3 \over 4}}$ do vão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="082" name="sl">
+			   <label for="082"></label>
+			   <img src="modulo1/08_02_03.png" loading="lazy"/>
+			   <figcaption>Construa as semi-retas perpendiculares ao vão que passam por <b>C</b> e <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="083" name="sl">
+			   <label for="083"></label>
+			   <img src="modulo1/08_02_04.png" loading="lazy"/>
+			   <figcaption>Uma parte do arco gótico flamejante tem centro em <b>C</b>, raio <b>AC</b> e amplitude de 90&deg;. O arco simétrico tem centro em <b>D</b> e raio <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="084" name="sl">
+			   <label for="084"></label>
+			   <img src="modulo1/08_02_05.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>G</b> e <b>H</b> nos prolongamentos de <b>CF</b> e de <b>DE</b>, tais que <b>FG = CF = ED = HE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="085" name="sl">
+			   <label for="085"></label>
+			   <img src="modulo1/08_02_06.png" loading="lazy"/>
+			   <figcaption>Os arcos com centros em <b>H</b> e <b>G</b> e raios iguais a <b>FG = HE</b> determinam o ponto mais alto do árco gótico flamejante.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="086" name="sl">
+			   <label for="086"></label>
+			   <img src="modulo1/08_02_07.png" loading="lazy"/>
+			   <figcaption>Para começar o arco otomando, vamos dividir o vão <b>AB</b> em 8 partes iguais usando o teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="087" name="sl">
+			   <label for="087"></label>
+			   <img src="modulo1/08_02_08.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{\alpha = {3 \over 8}}$ e $\mathsf{\alpha = {5 \over 8}}$ do vão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="088" name="sl">
+			   <label for="088"></label>
+			   <img src="modulo1/08_02_09.png" loading="lazy"/>
+			   <figcaption>Construa o <b>&#9651;ACE</b> equilátero: uma parte do arco otomano tem centro em <b>C</b>, raio igual a <b>CA</b> e amplitude de 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="089" name="sl">
+			   <label for="089"></label>
+			   <img src="modulo1/08_02_10.png" loading="lazy"/>
+			   <figcaption>O arco simétrico tem centro em <b>D</b> e raio <b>DB</b>. Construa os segmentos <b>EC</b> e <b>DF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="090" name="sl">
+			   <label for="090"></label>
+			   <img src="modulo1/08_02_11.png" loading="lazy"/>
+			   <figcaption>O ponto mais alto do arco otomano é determinado pelos segmentos tangentes aos arcos construídos nos pontos <b>E</b> e <b>F</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/08_02_00.png" class="fundo" loading="lazy"/>
+  </details></div> 
+   <img src="modulo1/apostila_nova_2022b-08b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos ogivais de ferradura com ângulos centrais de 30&deg; e 45&deg;.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="091" name="sl" checked>
+			   <label for="091"></label>
+			   <img src="modulo1/08_03_01.png" loading="lazy"/>
+			   <figcaption>Começamos dividindo o vão na metade com a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="092" name="sl">
+			   <label for="092"></label>
+			   <img src="modulo1/08_03_02.png" loading="lazy"/>
+			   <figcaption>Posicione o esquadro de 60&deg; com o cateto maior alinhado com o vão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="093" name="sl">
+			   <label for="093"></label>
+			   <img src="modulo1/08_03_03.png" loading="lazy"/>
+			   <figcaption>Deslize o esquadro de 60&deg; com o outro esquadro apoiado no cateto maior até o ponto <b>C</b>. Logo, temos o ângulo central construído com medida de 30&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="094" name="sl">
+			   <label for="094"></label>
+			   <img src="modulo1/08_03_04.png" loading="lazy"/>
+			   <figcaption>Faça o mesmo do outro lado para construirmos os arcos simétricos em relação à mediatriz do vão com centro em <b>C</b>, raios <b>AC = BC</b> e amplitude de 30&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="095" name="sl">
+			   <label for="095"></label>
+			   <img src="modulo1/08_03_05.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>D</b> na mediatriz tal que <b>CD = AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="096" name="sl">
+			   <label for="096"></label>
+			   <img src="modulo1/08_03_06.png" loading="lazy"/>
+			   <figcaption>O arco ogival de ferradura tem o terceiro arco com centro em <b>D</b> e raio <b>DA' = DB'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="097" name="sl">
+			   <label for="097"></label>
+			   <img src="modulo1/08_03_07.png" loading="lazy"/>
+			   <figcaption>A construção do arco ogival de ferradura com ângulo central de 45&deg; é feita da mesma forma apresentada com 30&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/08_03_00.png" class="fundo" loading="lazy"/>
+  </details></div> 
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-09.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

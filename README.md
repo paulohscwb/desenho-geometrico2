@@ -1089,7 +1089,7 @@
 			   <input type="radio" id="122" name="sl">
 			   <label for="122"></label>
 			   <img src="modulo1/10_01_02.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Tales, divida <b>AB</b>e <b>CD</b> em 4 partes iguais.</figcaption>
+			   <figcaption>Usando o teorema de Tales, divida <b>AB</b> e <b>CD</b> em 4 partes iguais.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="123" name="sl">
@@ -1193,7 +1193,7 @@
 			   <input type="radio" id="137" name="sl">
 			   <label for="137"></label>
 			   <img src="modulo1/10_03_05.png" loading="lazy"/>
-			   <figcaption>O quarto centro desta oval é o ponto <b>D </b>, que define o arco de raio com medida <b>DE = DF</b>.</figcaption>
+			   <figcaption>O quarto centro desta oval é o ponto <b>D</b>, que define o arco de raio com medida <b>DE = DF</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="138" name="sl">
@@ -1242,6 +1242,188 @@
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-11.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma oval irregular encurtada e uma oval regular. Os diâmetros das ovais regulares são eixos de simetria das curvas.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="145" name="sl" checked>
+			   <label for="145"></label>
+			   <img src="modulo1/11_01_01.png" loading="lazy"/>
+			   <figcaption>A oval irregular encurtada tem a medida de  <b>CD</b> menor do que a metade de <b>AB</b>. A construção fica similar à da oval alongada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="146" name="sl">
+			   <label for="146"></label>
+			   <img src="modulo1/11_01_02.png" loading="lazy"/>
+			   <figcaption>No caso da oval regular, vamos construir a mediatriz do diâmetro menor, que funciona como eixo de simetria da curva. Neste caso, o eixo maior não está definido e depende das construções consideradas do eixo menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="147" name="sl">
+			   <label for="147"></label>
+			   <img src="modulo1/11_01_03.png" loading="lazy"/>
+			   <figcaption>Encontre a metade de <b>BC</b> e o ponto simétrico de <b>D</b> em relação à mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="148" name="sl">
+			   <label for="148"></label>
+			   <img src="modulo1/11_01_04.png" loading="lazy"/>
+			   <figcaption>As semi-retas <b>DE</b>, <b>DE'</b>, <b>D'E</b> e <b>D'E'</b> serão os limites dos arcos da oval regular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="149" name="sl">
+			   <label for="149"></label>
+			   <img src="modulo1/11_01_05.png" loading="lazy"/>
+			   <figcaption>Construa o arco com centro em <b>D'</b> com raio <b>D'B</b> até as semi-retas limites.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="150" name="sl">
+			   <label for="150"></label>
+			   <img src="modulo1/11_01_06.png" loading="lazy"/>
+			   <figcaption>Construa o arco simétrico com centro em <b>D</b> com raio <b>DA</b> até as semi-retas limites correspondentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="151" name="sl">
+			   <label for="151"></label>
+			   <img src="modulo1/11_01_07.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir os arcos de centros <b>E</b> e <b>E'</b> da oval regular.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/11_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-11a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir ovais regulares: uma com apenas a medida do eixo maior e a outra com as medidas dos dois eixos.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="152" name="sl" checked>
+			   <label for="152"></label>
+			   <img src="modulo1/11_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos construir a mediatriz do diâmetro maior, que funciona como eixo de simetria da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="153" name="sl">
+			   <label for="153"></label>
+			   <img src="modulo1/11_02_02.png" loading="lazy"/>
+			   <figcaption>Encontre a metade de <b>BC</b> e o ponto simétrico de <b>D</b> em relação à mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="154" name="sl">
+			   <label for="154"></label>
+			   <img src="modulo1/11_02_03.png" loading="lazy"/>
+			   <figcaption>As semi-retas <b>DE</b>, <b>DE'</b>, <b>D'E</b> e <b>D'E'</b> serão os limites dos arcos da oval regular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="155" name="sl">
+			   <label for="155"></label>
+			   <img src="modulo1/11_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o arco com centro em <b>D'</b> com raio <b>D'A</b> até as semi-retas limites. Construa o arco com centro em <b>D</b> com raio <b>DB</b> até as semi-retas limites correspondentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="156" name="sl">
+			   <label for="156"></label>
+			   <img src="modulo1/11_02_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir os arcos de centros <b>E</b> e <b>E'</b> da oval regular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="157" name="sl">
+			   <label for="157"></label>
+			   <img src="modulo1/11_02_06.png" loading="lazy"/>
+			   <figcaption>Considerando as medidas fixas dos eixos de uma oval regular, começamos a construção com a diferença entre as medidas dos eixos: <b>AE = AB - CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="158" name="sl">
+			   <label for="158"></label>
+			   <img src="modulo1/11_02_07.png" loading="lazy"/>
+			   <figcaption>Divida o segmento <b>AE</b> em 3 partes iguais e encontre o ponto <b>F'</b> tal que  $\mathsf{AF' = {2 \over 3}AE}$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="159" name="sl">
+			   <label for="159"></label>
+			   <img src="modulo1/11_02_08.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos <b>F</b> e <b>G</b> no diâmetro maior, tais que <b>OF = OG = AF'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="160" name="sl">
+			   <label for="160"></label>
+			   <img src="modulo1/11_02_09.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência de centro <b>F</b> e raio <b>FG</b>, determinando os pontos <b>H</b> e <b>I</b> no diâmetro menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="161" name="sl">
+			   <label for="161"></label>
+			   <img src="modulo1/11_02_10.png" loading="lazy"/>
+			   <figcaption>As semi-retas <b>HF</b>, <b>HG</b>, <b>IF</b> e <b>IG</b> serão os limites dos arcos da oval regular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="162" name="sl">
+			   <label for="162"></label>
+			   <img src="modulo1/11_02_11.png" loading="lazy"/>
+			   <figcaption>Construa o arco de centro <b>G</b> e raio <b>GB</b> até as retas limites.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="163" name="sl">
+			   <label for="163"></label>
+			   <img src="modulo1/11_02_12.png" loading="lazy"/>
+			   <figcaption>Construa o arco simétrico de centro <b>F</b> e raio <b>FA</b> até as retas limites correspondentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="164" name="sl">
+			   <label for="164"></label>
+			   <img src="modulo1/11_02_13.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir os arcos de centros <b>H</b> e <b>I</b> da oval regular.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/11_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-11b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma oval com as medidas dos dois eixos dadas. O método do retângulo foi usado para construirmos um arco abatido.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="165" name="sl" checked>
+			   <label for="165"></label>
+			   <img src="modulo1/11_03_01.png" loading="lazy"/>
+			   <figcaption>Construia o retângulo <b>AOCE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="166" name="sl">
+			   <label for="166"></label>
+			   <img src="modulo1/11_03_02.png" loading="lazy"/>
+			   <figcaption>Determine o incentro <b>F</b> do <b>&#9651;ACE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="167" name="sl">
+			   <label for="167"></label>
+			   <img src="modulo1/11_03_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>HF &perp; AC</b>, determinando <b>G</b> sobre o diâmetro maior da oval regular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="168" name="sl">
+			   <label for="168"></label>
+			   <img src="modulo1/11_03_04.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>G</b> em relação ao eixo menor e a reta <b>F'F // AB</b>. As semi-retas <b>HF</b> e <b>HF'</b> serão usadas como limites de arcos da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="169 name="sl">
+			   <label for="169"></label>
+			   <img src="modulo1/11_03_05.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos simétricos de <b>F</b>, de <b>H</b> e de <b>F'</b> em relação ao diâmetro <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="170" name="sl">
+			   <label for="170"></label>
+			   <img src="modulo1/11_03_06.png" loading="lazy"/>
+			   <figcaption>Construa os arcos de centros <b>G</b> e <b>G'</b> até as respectivas semi-retas limites.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="171" name="sl">
+			   <label for="171"></label>
+			   <img src="modulo1/11_03_07.png" loading="lazy"/>
+			   <figcaption>Para finalizar, construa os arcos de centros <b>H</b> e <b>H'</b> até as respectivas semi-retas limites.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/11_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
 </details>
 

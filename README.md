@@ -1155,8 +1155,8 @@
 		   <li>
 			   <input type="radio" id="132" name="sl">
 			   <label for="132"></label>
-			   <img src="modulo1/10_02_01.png" loading="lazy"/>
-			   <figcaption>As ovais irregulares têm apenas um eixo de simetria. Assim como fizemos nos arcos arquitetônicos, os arcos concordantes são utilizados para construções das falsas elipses.</figcaption>
+			   <img src="modulo1/10_02_02.png" loading="lazy"/>
+			   <figcaption>As ovais irregulares têm apenas um eixo de simetria. Assim como fizemos nos arcos arquitetônicos, os arcos de concordância são utilizados para construções das falsas elipses.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo1/10_02_00.png" class="fundo" loading="lazy"/>

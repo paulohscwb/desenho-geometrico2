@@ -1045,7 +1045,7 @@
 			   <input type="radio" id="116" name="sl">
 			   <label for="116"></label>
 			   <img src="modulo1/09_03_04.png" loading="lazy"/>
-			   <figcaption>Para finalizar uma das partes do arco geminado, construa o arco com centro <b>E</b>, que começa em <b>ED</b> e termina na mediatriz do vão.</figcaption>
+			   <figcaption>Para finalizar a parte esquerda do arco geminado, construa o arco com centro <b>E</b>, que começa em <b>ED</b> e termina na mediatriz do vão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="117" name="sl">

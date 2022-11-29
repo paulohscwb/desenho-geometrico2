@@ -806,7 +806,7 @@
 			   <input type="radio" id="081" name="sl">
 			   <label for="081"></label>
 			   <img src="modulo1/08_02_02.png" loading="lazy"/>
-			   <figcaption>Encontre os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{\alpha = {1 \over 4}}$ e $\mathsf{\alpha = {3 \over 4}}$ do vão.</figcaption>
+			   <figcaption>Encontre os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{{1 \over 4}}$ e $\mathsf{{3 \over 4}}$ do vão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="082" name="sl">
@@ -842,7 +842,7 @@
 			   <input type="radio" id="087" name="sl">
 			   <label for="087"></label>
 			   <img src="modulo1/08_02_08.png" loading="lazy"/>
-			   <figcaption>Determine os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{\alpha = {3 \over 8}}$ e $\mathsf{\alpha = {5 \over 8}}$ do vão.</figcaption>
+			   <figcaption>Determine os pontos <b>C</b> e <b>D</b> correspondentes a $\mathsf{{3 \over 8}}$ e $\mathsf{{5 \over 8}}$ do vão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="088" name="sl">
@@ -885,7 +885,7 @@
 			   <input type="radio" id="093" name="sl">
 			   <label for="093"></label>
 			   <img src="modulo1/08_03_03.png" loading="lazy"/>
-			   <figcaption>Deslize o esquadro de 60&deg; com o outro esquadro apoiado no cateto maior até o ponto <b>C</b>. Logo, temos o ângulo central construído com medida de 30&deg;.</figcaption>
+			   <figcaption>Deslize o esquadro de 60&deg; com o outro esquadro apoiado no cateto menor até o ponto <b>C</b>. Logo, temos o ângulo central construído com medida de 30&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="094" name="sl">
@@ -897,7 +897,7 @@
 			   <input type="radio" id="095" name="sl">
 			   <label for="095"></label>
 			   <img src="modulo1/08_03_05.png" loading="lazy"/>
-			   <figcaption>Determine os pontos <b>D</b> na mediatriz tal que <b>CD = AC</b>.</figcaption>
+			   <figcaption>Determine o ponto <b>D</b> na mediatriz tal que <b>CD = AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="096" name="sl">

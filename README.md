@@ -1076,6 +1076,170 @@
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-10.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os arcos parabólico e bulbiforme.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="121" name="sl" checked>
+			   <label for="121"></label>
+			   <img src="modulo1/10_01_01.png" loading="lazy"/>
+			   <figcaption>No arco parabólico, podemos dividir os segmentos <b>AB</b> e <b>CD</b> em um número qualquer de partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="122" name="sl">
+			   <label for="122"></label>
+			   <img src="modulo1/10_01_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, divida <b>AB</b>e <b>CD</b> em 4 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="123" name="sl">
+			   <label for="123"></label>
+			   <img src="modulo1/10_01_03.png" loading="lazy"/>
+			   <figcaption>Determine os segmentos <b>AB<sub>3</sub></b>, <b>A<sub>1</sub>B<sub>2</sub></b>, <b>A<sub>2</sub>B<sub>1</sub></b> e <b>A<sub>3</sub>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="124" name="sl">
+			   <label for="124"></label>
+			   <img src="modulo1/10_01_04.png" loading="lazy"/>
+			   <figcaption>Os pontos do arco parabólico são as extremidades <b>A</b> e <b>B</b> e os pontos de interseção: <b>P<sub>1</sub> = AB<sub>3</sub> &cap; A<sub>1</sub>B<sub>2</sub></b>, <b>P<sub>2</sub> = A<sub>2</sub>B<sub>1</sub> &cap; A<sub>1</sub>B<sub>2</sub></b> e <b>P<sub>3</sub> = A<sub>2</sub>B<sub>1</sub> &cap; A<sub>3</sub>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="125" name="sl">
+			   <label for="125"></label>
+			   <img src="modulo1/10_01_05.png" loading="lazy"/>
+			   <figcaption>No arco bulbiforme, determine o ponto <b>E &isin; CD</b> tal que <b>CE = AC = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="126" name="sl">
+			   <label for="126"></label>
+			   <img src="modulo1/10_01_06.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>FG // AB</b> e os segmentos <b>DF = DG = AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="127" name="sl">
+			   <label for="127"></label>
+			   <img src="modulo1/10_01_07.png" loading="lazy"/>
+			   <figcaption>A mediatriz de <b>EF</b> determina o ponto <b>G'</b> que é o centro de um dos arcos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="128" name="sl">
+			   <label for="128"></label>
+			   <img src="modulo1/10_01_08.png" loading="lazy"/>
+			   <figcaption>Determine o ponto <b>F'</b> simétrico de <b>G'</b> em relação ao segmento <b>CD</b>. Construa o arco com centro em <b>E</b> e raio <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="129" name="sl">
+			   <label for="129"></label>
+			   <img src="modulo1/10_01_09.png" loading="lazy"/>
+			   <figcaption>Os segmentos <b>EF'</b> e <b>EG'</b> determinam os pontos de tangência no arco de centro <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="130" name="sl">
+			   <label for="130"></label>
+			   <img src="modulo1/10_01_10.png" loading="lazy"/>
+			   <figcaption>Com centros em <b>F'</b> e <b>G'</b>, construa os arcos tangentes ao arco de centro em <b>E</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/10_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-10a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Vamos acompanhar algumas definições de elementos das curvas chamadas ovais ou falsas elipses.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="131" name="sl" checked>
+			   <label for="131"></label>
+			   <img src="modulo1/10_02_01.png" loading="lazy"/>
+			   <figcaption>As ovais possuem sempre eixos com duas medidas: o eixo maior e o eixo menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="132" name="sl">
+			   <label for="132"></label>
+			   <img src="modulo1/10_02_01.png" loading="lazy"/>
+			   <figcaption>Assim como fizemos nos arcos arquitetônicos, os arcos concordantes são utilizados para construções das falsas elipses.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/10_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo1/apostila_nova_2022b-10b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir ovais irregulares. Nestes casos, temos apenas um eixo de simetria nestas curvas.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="133" name="sl" checked>
+			   <label for="133"></label>
+			   <img src="modulo1/10_03_01.png" loading="lazy"/>
+			   <figcaption>A mediatriz do eixo menor será o eixo de simetria da oval irregular de 4 centros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="134" name="sl">
+			   <label for="134"></label>
+			   <img src="modulo1/10_03_02.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>D</b> pertencente à mediatriz tal que <b>CD = AC = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="135" name="sl">
+			   <label for="135"></label>
+			   <img src="modulo1/10_03_03.png" loading="lazy"/>
+			   <figcaption>O ponto médio de <b>AB</b> é o primeiro centro desta oval. As semi-retas <b>AD</b> e <b>BD</b> serão limites dos outros arcos desta curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="136" name="sl">
+			   <label for="136"></label>
+			   <img src="modulo1/10_03_04.png" loading="lazy"/>
+			   <figcaption>Construa os arcos com centros em <b>A</b> e <b>B</b> e raios iguais a <b>AB</b> até as semi-retas limites.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="137" name="sl">
+			   <label for="137"></label>
+			   <img src="modulo1/10_03_05.png" loading="lazy"/>
+			   <figcaption>O quarto centro desta oval é o ponto <b>D </b>, que define o arco de raio com medida <b>DE = DF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="138" name="sl">
+			   <label for="138"></label>
+			   <img src="modulo1/10_03_06.png" loading="lazy"/>
+			   <figcaption>Na oval alongada, o segmento <b>CD</b> está contido na mediatriz e tem medida maior do que a metade de <b>AB</b>. O primeiro arco tem centro em <b>C</b> e raio de medida <b>AC = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="139" name="sl">
+			   <label for="139"></label>
+			   <img src="modulo1/10_03_07.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto médio de <b>BC</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="140" name="sl">
+			   <label for="140"></label>
+			   <img src="modulo1/10_03_08.png" loading="lazy"/>
+			   <figcaption>... e determine os pontos <b>F</b> e <b>F'</b> nos prolongamentos de <b>AB</b> tais que <b>BF = AF' = BE = EC</b>. Encontre também o ponto <b>G &isin; CD</b> tal que <b>CG = EC = BE</b>. As semi-retas <b>FG</b> e <b>F'G</b> serão limites de dois arcos da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="141" name="sl">
+			   <label for="141"></label>
+			   <img src="modulo1/10_03_09.png" loading="lazy"/>
+			   <figcaption>Construa os arcos com centros <b>F'</b> e <b>F</b> e raios com medidas iguais a <b>F'B = FA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="142" name="sl">
+			   <label for="142"></label>
+			   <img src="modulo1/10_03_10.png" loading="lazy"/>
+			   <figcaption>As semi-retas <b>JD</b> e <b>J'D</b> serão limites de dois arcos da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="143" name="sl">
+			   <label for="143"></label>
+			   <img src="modulo1/10_03_11.png" loading="lazy"/>
+			   <figcaption>Construa os arcos com centros <b>J'</b> e <b>J</b> e raios com medidas iguais a <b>J'H = JI</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="144" name="sl">
+			   <label for="144"></label>
+			   <img src="modulo1/10_03_12.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir o arco de centro <b>D</b> e raio com medida <b>DK = DL</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/10_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
    <img src="modulo1/apostila_nova_2022b-11.png" loading="lazy"/>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>

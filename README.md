@@ -1255,7 +1255,7 @@
 			   <input type="radio" id="146" name="sl">
 			   <label for="146"></label>
 			   <img src="modulo1/11_01_02.png" loading="lazy"/>
-			   <figcaption>No caso da oval regular, vamos construir a mediatriz do diâmetro menor, que funciona como eixo de simetria da curva. Neste caso, o eixo maior não está definido e depende das construções consideradas do eixo menor.</figcaption>
+			   <figcaption>No caso da oval regular, vamos construir a mediatriz do diâmetro menor, que funciona como eixo de simetria da curva. Neste caso, o eixo maior não está definido e depende das construções feitas com a medida do eixo menor.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="147" name="sl">
@@ -1334,7 +1334,7 @@
 			   <input type="radio" id="158" name="sl">
 			   <label for="158"></label>
 			   <img src="modulo1/11_02_07.png" loading="lazy"/>
-			   <figcaption>Divida o segmento <b>AE</b> em 3 partes iguais e encontre o ponto <b>F'</b> tal que  $\mathsf{AF' = {2 \over 3}AE}$.</figcaption>
+			   <figcaption>Divida o segmento <b>AE</b> em 3 partes iguais e encontre o ponto <b>F'</b> tal que <b>AF' = </b>$\mathsf{ {2 \over 3}}$<b>AE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="159" name="sl">
@@ -1383,7 +1383,7 @@
 			   <input type="radio" id="165" name="sl" checked>
 			   <label for="165"></label>
 			   <img src="modulo1/11_03_01.png" loading="lazy"/>
-			   <figcaption>Construia o retângulo <b>AOCE</b>.</figcaption>
+			   <figcaption>Construa o retângulo <b>AOCE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="166" name="sl">
@@ -1404,7 +1404,7 @@
 			   <figcaption>Encontre o simétrico de <b>G</b> em relação ao eixo menor e a reta <b>F'F // AB</b>. As semi-retas <b>HF</b> e <b>HF'</b> serão usadas como limites de arcos da curva.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="169 name="sl">
+			   <input type="radio" id="169" name="sl">
 			   <label for="169"></label>
 			   <img src="modulo1/11_03_05.png" loading="lazy"/>
 			   <figcaption>Encontre os pontos simétricos de <b>F</b>, de <b>H</b> e de <b>F'</b> em relação ao diâmetro <b>AB</b>.</figcaption>

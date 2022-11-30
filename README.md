@@ -1585,6 +1585,133 @@
   </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-14.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a espiral de ouro começando pela construção do retângulo áureo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="193" name="sl" checked>
+			   <label for="193"></label>
+			   <img src="modulo2/14_01_01.png" loading="lazy"/>
+			   <figcaption>Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="194" name="sl">
+			   <label for="194"></label>
+			   <img src="modulo2/14_01_02.png" loading="lazy"/>
+			   <figcaption>No segmento <b>BC &perp; AB</b>, encontre o ponto <b>E</b> tal que <b>BE = BM = AM</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="195" name="sl">
+			   <label for="195"></label>
+			   <img src="modulo2/14_01_03.png" loading="lazy"/>
+			   <figcaption>Construa o arco de circunferência com centro em <b>E</b> e raio <b>EA</b>. O segmento <b>BC</b> é áureo de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="196" name="sl">
+			   <label for="196"></label>
+			   <img src="modulo2/14_01_04.png" loading="lazy"/>
+			   <figcaption>Construa os lados <b>CD // AB</b> e <b>AD // BC</b> do retângulo áureo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="197" name="sl">
+			   <label for="197"></label>
+			   <img src="modulo2/14_01_05.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>F &isin; AB</b> tal que <b>AF = AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="198" name="sl">
+			   <label for="198"></label>
+			   <img src="modulo2/14_01_06.png" loading="lazy"/>
+			   <figcaption>O primeiro arco da espiral de ouro tem centro <b>F</b> e raio <b>AF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="199" name="sl">
+			   <label for="199"></label>
+			   <img src="modulo2/14_01_07.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>I &isin; FG</b> tal que <b>GI = CG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="200" name="sl">
+			   <label for="200"></label>
+			   <img src="modulo2/14_01_08.png" loading="lazy"/>
+			   <figcaption>O segundo arco da espiral de ouro tem centro <b>I</b> e raio <b>IG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="201" name="sl">
+			   <label for="201"></label>
+			   <img src="modulo2/14_01_09.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>K &isin; IH</b> tal que <b>HK = HB</b>. O terceiro arco da espiral de ouro tem centro <b>K</b> e raio <b>HK</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="202" name="sl">
+			   <label for="202"></label>
+			   <img src="modulo2/14_01_10.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>L &isin; JK</b> tal que <b>LJ = LM</b>. O quarto arco da espiral de ouro tem centro <b>L</b> e raio <b>LJ</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="203" name="sl">
+			   <label for="203"></label>
+			   <img src="modulo2/14_01_11.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>N &isin; LM</b> tal que <b>MN = NO</b>. O quinto arco da espiral de ouro tem centro <b>N</b> e raio <b>MN</b>. Prosseguindo com o mesmo raciocínio, podemos encontrar outros arcos que definem a espiral de ouro.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/14_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-14a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a espiral de ouro começando pela construção do triângulo áureo.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="206" name="sl">
+			   <label for="206"></label>
+			   <img src="modulo2/14_02_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento áureo <b>EB</b> de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="207" name="sl">
+			   <label for="207"></label>
+			   <img src="modulo2/14_02_04.png" loading="lazy"/>
+			   <figcaption>Construa os lados <b>BC = AC = BE</b> do triângulo áureo. Os ângulos da base deste triângulo isósceles medem 36&deg; e o arco com centro <b>C</b> e raio <b>AC</b> é o primeiro arco da espiral áurea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="208" name="sl">
+			   <label for="208"></label>
+			   <img src="modulo2/14_02_05.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>F</b> tal que <b>AF = AC</b> e <b>CAF = 36&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="209" name="sl">
+			   <label for="209"></label>
+			   <img src="modulo2/14_02_06.png" loading="lazy"/>
+			   <figcaption>Construa <b>AFG = 36&deg;</b>, definindo o <b>&#9651;AGF</b> áureo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="210" name="sl">
+			   <label for="210"></label>
+			   <img src="modulo2/14_02_07.png" loading="lazy"/>
+			   <figcaption>O arco com centro <b>G</b> e raio <b>GF</b> é o segundo arco da espiral áurea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="211" name="sl">
+			   <label for="211"></label>
+			   <img src="modulo2/14_02_08.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C'</b> tal que <b>FG = FC'</b> e <b>GFC' = 36&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="212" name="sl">
+			   <label for="212"></label>
+			   <img src="modulo2/14_02_09.png" loading="lazy"/>
+			   <figcaption>Construa <b>HCF = 36&deg;</b>, definindo o <b>&#9651;HCF</b> áureo. O arco com centro <b>H</b> e raio <b>HF</b> é o terceiro arco da espiral áurea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="213" name="sl">
+			   <label for="213"></label>
+			   <img src="modulo2/14_02_10.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>G'</b> tal que <b>CG' = HC</b> e <b>HCG' = 36&deg;</b>. Construa <b>CGI = 36&deg;</b>, definindo o <b>&#9651;IGC</b> áureo. O arco com centro <b>I</b> e raio <b>IG</b> é o quarto arco da espiral áurea. Prosseguindo com o mesmo raciocínio, podemos encontrar outros arcos que definem a espiral de ouro.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/14_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-15.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

@@ -1598,7 +1598,7 @@
 			   <input type="radio" id="194" name="sl">
 			   <label for="194"></label>
 			   <img src="modulo2/14_01_02.png" loading="lazy"/>
-			   <figcaption>No segmento <b>BC &perp; AB</b>, encontre o ponto <b>E</b> tal que <b>BE = BM = AM</b>.</figcaption>
+			   <figcaption>No segmento <b>BE &perp; AB</b>, encontre o ponto <b>E</b> tal que <b>BE = BM = AM</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="195" name="sl">
@@ -1714,6 +1714,91 @@
   </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-15.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a Voluta Jônica começando pela construção dos segmentos perpendiculares aos lados do quadrado.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="214" name="sl">
+			   <label for="214"></label>
+			   <img src="modulo2/15_01_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, divida um dos segmentos perpediculares a um lado do quadrado em 3 partes iguais: o primeiro ponto será chamado de <b>1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="215" name="sl">
+			   <label for="215"></label>
+			   <img src="modulo2/15_01_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência de centro <b>O</b>e raio <b>O1</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>2</b>, <b>3</b> e <b>4</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="216" name="sl">
+			   <label for="216"></label>
+			   <img src="modulo2/15_01_04.png" loading="lazy"/>
+			   <figcaption>Usando a mesma ideia, com a segunda divisão obtida pela construção de Tales, construa a circunferência de centro <b>O</b>e raio <b>O5</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>6</b>, <b>7</b> e <b>8</b>. As interseções das perpendiculares aos lados do quadrado são os pontos <b>9</b>, <b>10</b>, <b>11</b> e <b>12</b> </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="217" name="sl">
+			   <label for="217"></label>
+			   <img src="modulo2/15_01_05.png" loading="lazy"/>
+			   <figcaption>Defina as semi-retas limites <b>21</b> e <b>32</b> para construir o primeiro arco da voluta com centro <b>2</b>, começando pela interseção da semi-reta <b>21</b> com a circunferência circunscrita ao quadrado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="218" name="sl">
+			   <label for="218"></label>
+			   <img src="modulo2/15_01_06.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>43</b> para construir o segundo arco da voluta com centro <b>3</b>, começando pela interseção da semi-reta <b>32</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="219" name="sl">
+			   <label for="219"></label>
+			   <img src="modulo2/15_01_07.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>54</b> para construir o próximo arco da voluta com centro <b>4</b>, começando pela interseção da semi-reta <b>43</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="220" name="sl">
+			   <label for="220"></label>
+			   <img src="modulo2/15_01_08.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>65</b> para construir o próximo arco da voluta com centro <b>5</b>, começando pela interseção da semi-reta <b>54</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="221" name="sl">
+			   <label for="221"></label>
+			   <img src="modulo2/15_01_09.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>76</b> para construir o próximo arco da voluta com centro <b>6</b>, começando pela interseção da semi-reta <b>65</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="222" name="sl">
+			   <label for="222"></label>
+			   <img src="modulo2/15_01_10.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>87</b> para construir o próximo arco da voluta com centro <b>7</b>, começando pela interseção da semi-reta <b>76</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="223" name="sl">
+			   <label for="223"></label>
+			   <img src="modulo2/15_01_11.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>98</b> para construir o próximo arco da voluta com centro <b>8</b>, começando pela interseção da semi-reta <b>87</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="224" name="sl">
+			   <label for="224"></label>
+			   <img src="modulo2/15_01_12.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>10-9</b> para construir o próximo arco da voluta com centro <b>9</b>, começando pela interseção da semi-reta <b>98</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="225" name="sl">
+			   <label for="225"></label>
+			   <img src="modulo2/15_01_13.png" loading="lazy"/>
+			   <figcaption>Defina a semi-reta limite <b>11-10</b> para construir o próximo arco da voluta com centro <b>10</b>, começando pela interseção da semi-reta <b>10-9</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="226" name="sl">
+			   <label for="226"></label>
+			   <img src="modulo2/15_01_14.png" loading="lazy"/>
+			   <figcaption>Para finalizar a construção, defina a semi-reta limite <b>12-11</b> para construir o próximo arco da voluta com centro <b>11</b>, começando pela interseção da semi-reta <b>11-10</b> com o arco anterior da voluta.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/15_01_01.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-15a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-16.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

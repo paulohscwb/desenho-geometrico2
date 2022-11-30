@@ -1383,6 +1383,7 @@
 			   <input type="radio" id="165" name="sl" checked>
 			   <label for="165"></label>
 			   <img src="modulo1/11_03_01.png" loading="lazy"/>
+			   <figcaption>Construa o retângulo <b>AOCE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="166" name="sl">
@@ -1429,6 +1430,103 @@
 <details><summary id="modulo2">2. Espirais e elipses</summary>
   <p>Material da página 12 até a página 25.</p>
    <img src="modulo2/apostila_nova_2022b-12.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Veremos agora as definições usadas nas construções das espirais. Estas curvas podem ser construídas por pontos auxiliares e construídas à mão livre, ou construídas com arcos de concordâncias.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="172" name="sl" checked>
+			   <label for="172"></label>
+			   <img src="modulo1/12_01_01.png" loading="lazy"/>
+			   <figcaption>O núcleo é o polígono que contém os centros dos arcos da falsa espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="173" name="sl">
+			   <label for="173"></label>
+			   <img src="modulo1/12_01_02.png" loading="lazy"/>
+			   <figcaption>Na espiral verdadeira, o núcleo é substituído por um ponto chamado pólo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="174" name="sl">
+			   <label for="174"></label>
+			   <img src="modulo1/12_01_03.png" loading="lazy"/>
+			   <figcaption>Os raios vetores são os prolongamentos dos lados do núcleo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="175" name="sl">
+			   <label for="175"></label>
+			   <img src="modulo1/12_01_04.png" loading="lazy"/>
+			   <figcaption>A evolução completa da espiral é chamada de espira.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="176" name="sl">
+			   <label for="176"></label>
+			   <img src="modulo1/12_01_05.png" loading="lazy"/>
+			   <figcaption>O passo é a distância entre duas espiras.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/12_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-12a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir falsas espirais com 2 e com 3 centros.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="177" name="sl" checked>
+			   <label for="177"></label>
+			   <img src="modulo1/12_02_01.png" loading="lazy"/>
+			   <figcaption>Determine o segmento <b>AB</b> que define os dois centros da falsa espiral. Prolongue o lado <b>AB</b> nos dois sentidos. Usando o centro <b>A</b>, determine o arco de circunferência com amplitude de 180&deg; com raio <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="178" name="sl">
+			   <label for="178"></label>
+			   <img src="modulo1/12_02_02.png" loading="lazy"/>
+			   <figcaption>Agora vamos usar o centro <b>B</b>, com raio <b>B1</b> e as amplitudes sempre iguais a 180&deg;. Neste caso, completamos uma volta e temos uma espira.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="179" name="sl">
+			   <label for="179"></label>
+			   <img src="modulo1/12_02_03.png" loading="lazy"/>
+			   <figcaption>Voltamos ao ponto <b>A</b> e o próximo raio tem medida <b>A2</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="180" name="sl">
+			   <label for="180"></label>
+			   <img src="modulo1/12_02_04.png" loading="lazy"/>
+			   <figcaption>Voltamos ao ponto <b>B</b> e o próximo raio tem medida <b>B3</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="181" name="sl">
+			   <label for="181"></label>
+			   <img src="modulo1/12_02_05.png" loading="lazy"/>
+			   <figcaption>Prosseguimos com a alternância entre os centros e temos a construção da espiral de 2 centros com 4 espiras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="182" name="sl">
+			   <label for="182"></label>
+			   <img src="modulo1/12_02_06.png" loading="lazy"/>
+			   <figcaption>Construa o <b>&#9651;ABC</b> equilátero com as medidas dos lados iguais a 1cm. Como a espiral será construída no sentido horário, defina as semi-retas <b>AC</b>, <b>BA</b> e <b>CB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="183" name="sl">
+			   <label for="183"></label>
+			   <img src="modulo1/12_02_07.png" loading="lazy"/>
+			   <figcaption>Começando pelo centro <b>A</b>, defina o arco de amplitude 120&deg; e raio <b>AC</b> até a semi-reta limite <b>BA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="184" name="sl">
+			   <label for="184"></label>
+			   <img src="modulo1/12_02_08.png" loading="lazy"/>
+			   <figcaption>Agora com centro <b>B</b>, defina o arco de amplitude 120&deg; e raio <b>B1</b> até a semi-reta limite <b>CB</b>. O próximo centro será <b>C</b>, com raio <b>C2</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="185" name="sl">
+			   <label for="185"></label>
+			   <img src="modulo1/12_02_09.png" loading="lazy"/>
+			   <figcaption>Prosseguimos com o rodízio dos centros e temos a construção da espiral regular de 3 centros.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo1/12_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-13.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

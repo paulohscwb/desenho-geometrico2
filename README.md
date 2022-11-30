@@ -1443,7 +1443,7 @@
 			   <input type="radio" id="173" name="sl">
 			   <label for="173"></label>
 			   <img src="modulo2/12_01_02.png" loading="lazy"/>
-			   <figcaption>Na espiral verdadeira, o núcleo é substituído por um ponto chamado pólo.</figcaption>
+			   <figcaption>Na espiral verdadeira, o núcleo é substituído por um ponto denominado pólo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="174" name="sl">

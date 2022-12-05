@@ -1727,13 +1727,13 @@
 			   <input type="radio" id="215" name="sl">
 			   <label for="215"></label>
 			   <img src="modulo2/15_01_03.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência de centro <b>O</b>e raio <b>O1</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>2</b>, <b>3</b> e <b>4</b>.</figcaption>
+			   <figcaption>Construa a circunferência de centro <b>O</b> e raio <b>O1</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>2</b>, <b>3</b> e <b>4</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="216" name="sl">
 			   <label for="216"></label>
 			   <img src="modulo2/15_01_04.png" loading="lazy"/>
-			   <figcaption>Usando a mesma ideia, com a segunda divisão obtida pela construção de Tales, construa a circunferência de centro <b>O</b>e raio <b>O5</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>6</b>, <b>7</b> e <b>8</b>. As interseções das perpendiculares aos lados do quadrado são os pontos <b>9</b>, <b>10</b>, <b>11</b> e <b>12</b> </figcaption>
+			   <figcaption>Usando a mesma ideia, com a segunda divisão obtida pela construção de Tales, construa a circunferência de centro <b>O</b> e raio <b>O5</b> para encontrar nos outros segmentos perpendiculares aos lados do quadrado os pontos <b>6</b>, <b>7</b> e <b>8</b>. As interseções das perpendiculares aos lados do quadrado são os pontos <b>9</b>, <b>10</b>, <b>11</b> e <b>12</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="217" name="sl">
@@ -1803,6 +1803,55 @@
    <img src="modulo2/apostila_nova_2022b-16.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-17.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Vamos acompanhar a demonstração do teorema de Apollonius para o caso de uma elipse. Considere as esferas inscritas na superfície cônica e tangentes ao plano de seção.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="227" name="sl">
+			   <label for="227"></label>
+			   <img src="modulo2/17_01_01.png" loading="lazy"/>
+			   <figcaption>Usando o conceito de potência do ponto <b>P</b> em relação às esferas de centros <b>O'</b> e <b>O</b>, encontramos que <b>PF<sub>1</sub> = PL'</b> e <b>PF<sub>2</sub> = PL</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="228" name="sl">
+			   <label for="228"></label>
+			   <img src="modulo2/17_01_02.png" loading="lazy"/>
+			   <figcaption>Como os planos de seção definidos por <b>E</b> e <b>E'</b> e por <b>D</b> e <b>D'</b> são perpendiculares ao eixo da superfície cônica, temos que <b>DE = D'E' = LL'</b>. Portanto, temos que <b>PF<sub>1</sub> + PF<sub>2</sub> = LL' = DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="229" name="sl">
+			   <label for="229"></label>
+			   <img src="modulo2/17_01_03.png" loading="lazy"/>
+			   <figcaption>Calculando o perímetro do <b>&#9651;SA<sub>1</sub>A<sub>2</sub></b>, encontramos que <b>2p = SD' + SD + DA<sub>2</sub> + A<sub>2</sub>F<sub>2</sub> + A<sub>1</sub>F<sub>2</sub> + D'A<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="230" name="sl">
+			   <label for="230"></label>
+			   <img src="modulo2/17_01_04.png" loading="lazy"/>
+			   <figcaption>Usando a potência dos pontos <b>A<sub>1</sub></b> e <b>A<sub>2</sub></b> em relação às esferas, encontramos que <b>DA<sub>2</sub> = A<sub>2</sub>F<sub>2</sub></b> e <b>A<sub>1</sub>F<sub>2</sub> = D'A<sub>1</sub></b>. Substituindo estas medidas no perímetro do <b>&#9651;SA<sub>1</sub>A<sub>2</sub></b>, encontramos que <b>A<sub>2</sub>F<sub>2</sub> + A<sub>1</sub>F<sub>2</sub> = p - SD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="231" name="sl">
+			   <label for="231"></label>
+			   <img src="modulo2/17_01_05.png" loading="lazy"/>
+			   <figcaption>Analisando a circunferência ex-inscrita do <b>&#9651;SA<sub>1</sub>A<sub>2</sub></b>, temos que <b>A<sub>2</sub>F<sub>1</sub> = A<sub>2</sub>E</b> e <b>A<sub>1</sub>F<sub>1</sub> = A<sub>1</sub>E'</b>. Substituindo estas medidas no perímetro do <b>&#9651;SA<sub>1</sub>A<sub>2</sub></b>, obtemos que <b>2p = SE + SE'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="232" name="sl">
+			   <label for="232"></label>
+			   <img src="modulo2/17_01_06.png" loading="lazy"/>
+			   <figcaption>Como <b>SE = SE'</b>, temos que <b>p = SE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="233" name="sl">
+			   <label for="233"></label>
+			   <img src="modulo2/17_01_07.png" loading="lazy"/>
+			   <figcaption>Portanto, temos que <b>SE - SD = ED</b> e  <b>A<sub>1</sub>A<sub>2</sub> = DE</b>, ou seja, <b>PF<sub>1</sub> + PF<sub>2</sub> = DE = A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/17_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-17a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-18.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

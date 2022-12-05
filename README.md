@@ -1854,6 +1854,158 @@
    <img src="modulo2/apostila_nova_2022b-17a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-18.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Construiremos uma elipse dados um vértice, o centro e o foco.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="234" name="sl">
+			   <label for="234"></label>
+			   <img src="modulo2/18_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando os simétricos de <b>A<sub>1</sub></b> e de <b>F<sub>1</sub></b> em relação ao centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="235" name="sl">
+			   <label for="235"></label>
+			   <img src="modulo2/18_01_02.png" loading="lazy"/>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro menor é igual ao semi-diâmetro maior: <b>a</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(F<sub>2</sub>, a)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="236" name="sl">
+			   <label for="236"></label>
+			   <img src="modulo2/18_01_03.png" loading="lazy"/>
+			   <figcaption>Para construir uma elipse por pontos, vamos determinar os pontos <b>1</b>, <b>2</b> e <b>3</b> entre o foco <b>F<sub>1</sub></b> e o centro <b>O</b>. Cada ponto determinará 4 pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="237" name="sl">
+			   <label for="237"></label>
+			   <img src="modulo2/18_01_04.png" loading="lazy"/>
+			   <figcaption>Como <b>PF<sub>1</sub> + PF<sub>2</sub> = 2a</b>, tome os raios com medidas iguais a <b>1A<sub>1</sub></b> e <b>1A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>1A<sub>1</sub></b> e <b>1A<sub>2</sub></b> são dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="238" name="sl">
+			   <label for="238"></label>
+			   <img src="modulo2/18_01_05.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>1A<sub>2</sub></b> e <b>1A<sub>1</sub></b> determinam mais dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="239" name="sl">
+			   <label for="239"></label>
+			   <img src="modulo2/18_01_06.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio com o ponto <b>2</b>, tomamos os raios com medidas iguais a <b>2A<sub>1</sub></b> e <b>2A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>2A<sub>1</sub></b> e <b>2A<sub>2</sub></b> são dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="240" name="sl">
+			   <label for="240"></label>
+			   <img src="modulo2/18_01_07.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>2A<sub>2</sub></b> e <b>2A<sub>1</sub></b> determinam mais dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="241" name="sl">
+			   <label for="241"></label>
+			   <img src="modulo2/18_01_08.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio com o ponto <b>3</b>, tomamos os raios com medidas iguais a <b>3A<sub>1</sub></b> e <b>3A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>3A<sub>1</sub></b> e <b>3A<sub>2</sub></b> são dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="242" name="sl">
+			   <label for="242"></label>
+			   <img src="modulo2/18_01_09.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>3A<sub>2</sub></b> e <b>3A<sub>1</sub></b> determinam mais dois pontos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="243" name="sl">
+			   <label for="243"></label>
+			   <img src="modulo2/18_01_10.png" loading="lazy"/>
+			   <figcaption>Depois, basta traçar a cônica à mão livre usando os pontos encontrados e os vértices.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/18_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-18a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dados os focos e um ponto da cônica.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="244" name="sl">
+			   <label for="244"></label>
+			   <img src="modulo2/18_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o centro da elipse usando a mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="245" name="sl">
+			   <label for="245"></label>
+			   <img src="modulo2/18_02_02.png" loading="lazy"/>
+			   <figcaption>Como <b>PF<sub>1</sub> + PF<sub>2</sub> = 2a</b>, podemos prolongar <b>PF<sub>1</sub></b> e marcar <b>PF<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="246" name="sl">
+			   <label for="246"></label>
+			   <img src="modulo2/18_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para determinar os vértices do diâmetro maior da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="247" name="sl">
+			   <label for="247"></label>
+			   <img src="modulo2/18_02_04.png" loading="lazy"/>
+			   <figcaption>Determine <b>OA<sub>1</sub> = OA<sub>2</sub> = a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="248" name="sl">
+			   <label for="248"></label>
+			   <img src="modulo2/18_02_05.png" loading="lazy"/>
+			   <figcaption>Com a circunferência de centro em <b>F<sub>1</sub></b> e raio <b>a</b>, encontramos os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="249" name="sl">
+			   <label for="249"></label>
+			   <img src="modulo2/18_02_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/18_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-18b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dados os pontos simétricos em relação ao centro e um foco da cônica.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="250" name="sl">
+			   <label for="250"></label>
+			   <img src="modulo2/18_03_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o centro da elipse usando a mediatriz de <b>P<sub>1</sub>P<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="251" name="sl">
+			   <label for="251"></label>
+			   <img src="modulo2/18_03_02.png" loading="lazy"/>
+			   <figcaption>Podemos determinar <b>OF<sub>1</sub> = OF<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="252" name="sl">
+			   <label for="252"></label>
+			   <img src="modulo2/18_03_03.png" loading="lazy"/>
+			   <figcaption>Como <b>P<sub>1</sub>F<sub>1</sub> + P<sub>1</sub>F<sub>2</sub> = 2a</b>, podemos prolongar <b>P<sub>1</sub>F<sub>1</sub></b> e marcar <b>P<sub>1</sub>F<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>. Encontre a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para determinar os vértices do diâmetro maior da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="253" name="sl">
+			   <label for="253"></label>
+			   <img src="modulo2/18_03_04.png" loading="lazy"/>
+			   <figcaption>Determine <b>OA<sub>1</sub> = OA<sub>2</sub> = a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="254" name="sl">
+			   <label for="254"></label>
+			   <img src="modulo2/18_03_05.png" loading="lazy"/>
+			   <figcaption>Com a circunferência de centro em <b>F<sub>2</sub></b> e raio <b>a</b>, encontramos os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na reta perpendicular ao eixo maior que passa pelo centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="255" name="sl">
+			   <label for="255"></label>
+			   <img src="modulo2/18_03_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/18_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-19.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

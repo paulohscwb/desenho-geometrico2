@@ -1867,7 +1867,7 @@
 			   <input type="radio" id="235" name="sl">
 			   <label for="235"></label>
 			   <img src="modulo2/18_01_02.png" loading="lazy"/>
-			   <figcaption>A distância entre os focos e os vértices do diâmetro menor é igual ao semi-diâmetro maior: <b>a</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(F<sub>2</sub>, a)</b>.</figcaption>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro menor é igual ao semi-diâmetro maior <b>a</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(F<sub>2</sub>, a)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="236" name="sl">
@@ -1934,7 +1934,7 @@
 			   <input type="radio" id="245" name="sl">
 			   <label for="245"></label>
 			   <img src="modulo2/18_02_02.png" loading="lazy"/>
-			   <figcaption>Como <b>PF<sub>1</sub> + PF<sub>2</sub> = 2a</b>, podemos prolongar <b>PF<sub>1</sub></b> e marcar <b>PF<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+			   <figcaption>Como <b>PF<sub>1</sub> + PF<sub>2</sub> = 2a</b>, podemos prolongar <b>PF<sub>1</sub></b> e marcar a medida <b>PF<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="246" name="sl">
@@ -1983,7 +1983,7 @@
 			   <input type="radio" id="252" name="sl">
 			   <label for="252"></label>
 			   <img src="modulo2/18_03_03.png" loading="lazy"/>
-			   <figcaption>Como <b>P<sub>1</sub>F<sub>1</sub> + P<sub>1</sub>F<sub>2</sub> = 2a</b>, podemos prolongar <b>P<sub>1</sub>F<sub>1</sub></b> e marcar <b>P<sub>1</sub>F<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>. Encontre a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para determinar os vértices do diâmetro maior da elipse.</figcaption>
+			   <figcaption>Como <b>P<sub>1</sub>F<sub>1</sub> + P<sub>1</sub>F<sub>2</sub> = 2a</b>, podemos prolongar <b>P<sub>1</sub>F<sub>1</sub></b> e marcar a medida <b>P<sub>1</sub>F<sub>2</sub></b>, obtendo-se o ponto <b>F'<sub>2</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>. Encontre a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para determinar os vértices do diâmetro maior da elipse.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="253" name="sl">

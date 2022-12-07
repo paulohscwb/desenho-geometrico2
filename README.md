@@ -2138,7 +2138,7 @@
 			   <input type="radio" id="272" name="sl">
 			   <label for="272"></label>
 			   <img src="modulo2/22_02_01.png" loading="lazy"/>
-			   <figcaption>Vamos iniciar encontrando o segmento <b>F<sub>2</sub>F'<sub>2</sub> &perp; t</b>. Logo,  determinamos o ponto <b>L &isin; t</b> que pertence à circunferência principal da elipse.</figcaption>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>F<sub>2</sub>F'<sub>2</sub> &perp; t</b>. Logo, determinamos o ponto <b>L &isin; t</b> que pertence à circunferência principal da elipse.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="273" name="sl">
@@ -2175,6 +2175,63 @@
   </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-23.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.2</span></div>
+   <img src="modulo2/apostila_nova_2022b-23a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada por um foco e 3 retas tangentes.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="278" name="sl">
+			   <label for="278"></label>
+			   <img src="modulo2/23_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando os simétricos do foco <b>F<sub>1</sub></b> em relação às retas tangentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="279" name="sl">
+			   <label for="279"></label>
+			   <img src="modulo2/23_02_02.png" loading="lazy"/>
+			   <figcaption>Como a circunferência diretriz passa pelos simétricos de um foco em relação às retas tangentes, podemos construir as mediatrizes de <b>F'<sub>1</sub>F''<sub>1</sub></b> e <b>F'<sub>1</sub>F'''<sub>1</sub></b> para encontrar o foco <b>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="280" name="sl">
+			   <label for="280"></label>
+			   <img src="modulo2/23_02_03.png" loading="lazy"/>
+			   <figcaption>A circunferência diretriz <b>&gamma;<sub>2</sub></b> tem centro em <b>F<sub>2</sub></b> e raio <b>2a</b>. Unindo <b>F<sub>2</sub></b> com os simétricos de <b>F<sub>1</sub></b> em relação às tangentes, determinamos os pontos de tangência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="281" name="sl">
+			   <label for="281"></label>
+			   <img src="modulo2/23_02_04.png" loading="lazy"/>
+			   <figcaption>Determine a mediatriz de um dos raios da circunferência diretriz: <b>med<sub>F<sub>2</sub>F'''<sub>1</sub></sub></b> para encontrarmos a medida <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="282" name="sl">
+			   <label for="282"></label>
+			   <img src="modulo2/23_02_05.png" loading="lazy"/>
+			   <figcaption>Construa a mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b> para encontrar o centro da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="283" name="sl">
+			   <label for="283"></label>
+			   <img src="modulo2/23_02_06.png" loading="lazy"/>
+			   <figcaption>Obtenha os vértices <b>A<sub>1</sub></b> e <b>A<sub>2</sub></b> usando a <b>Circunf(O, a)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="284" name="sl">
+			   <label for="284"></label>
+			   <img src="modulo2/23_02_07.png" loading="lazy"/>
+			   <figcaption>Determine os vértices <b>B<sub>1</sub></b>  e <b>B<sub>2</sub></b>, sabendo-se que <b>B<sub>1</sub>B<sub>2</sub> &perp; F<sub>1</sub>F<sub>2</sub></b> e <b>B<sub>1</sub>F<sub>1</sub> = B<sub>2</sub>F<sub>1</sub>= a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="285" name="sl">
+			   <label for="285"></label>
+			   <img src="modulo2/23_02_08.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/23_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-23b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-24.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

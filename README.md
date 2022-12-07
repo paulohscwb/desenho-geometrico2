@@ -2255,7 +2255,7 @@
 			   <input type="radio" id="288" name="sl">
 			   <label for="288"></label>
 			   <img src="modulo2/25_01_03.png" loading="lazy"/>
-			   <figcaption>De acordo com as propriedades de afinidade homológica, a interseção de <b>OC</b> com o segmento <b>PD // A<sub>1</sub>A<sub>2</sub></b> determina que <b>OD = b</b>.</figcaption>
+			   <figcaption>De acordo com as propriedades de afinidade homológica, a interseção de <b>OC</b> com o segmento <b>PD // A<sub>1</sub>A<sub>2</sub></b> determina <b>OD = b</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="289" name="sl">
@@ -2292,7 +2292,7 @@
 			   <input type="radio" id="293" name="sl">
 			   <label for="293"></label>
 			   <img src="modulo2/25_02_02.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{c \over a = 2 \over 3}$ fazendo $\mathsf{O2 \over O3 = 2 \over 3}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ c \over a = 2 \over 3}$ fazendo $\mathsf{ O2 \over O3 = 2 \over 3}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="294" name="sl">
@@ -2331,7 +2331,7 @@
 			   <input type="radio" id="298" name="sl">
 			   <label for="298"></label>
 			   <img src="modulo2/25_04_02.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{c \over a = 4 \over 5}$ fazendo $\mathsf{O4 \over O5 = 4 \over 5}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ c \over a = 4 \over 5}$ fazendo $\mathsf{ O4 \over O5 = 4 \over 5}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="299" name="sl">

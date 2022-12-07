@@ -2379,19 +2379,19 @@
 			   <input type="radio" id="304" name="sl">
 			   <label for="304"></label>
 			   <img src="modulo3/26_01_03.png" loading="lazy"/>
-			   <figcaption>Temos também que <b>CC' = BB' = A<sub>2</sub>C - A<sub>2</sub>C' = A<sub>2</sub>F<sub>1</sub> - A<sub>2</sub>F<sub>2</sub></b>...</figcaption>
+			   <figcaption>Temos também que <b>CC' = BB' = A<sub>2</sub>C - A<sub>2</sub>C' = A<sub>2</sub>F<sub>1</sub> - A<sub>2</sub>F<sub>2</sub></b> ...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="305" name="sl">
 			   <label for="305"></label>
 			   <img src="modulo3/26_01_04.png" loading="lazy"/>
-			   <figcaption>... pois pela potência do ponto <b>A<sub>2</sub></b> em relação às esferas temos que <b>A<sub>2</sub>F<sub>1</sub> = A<sub>2</sub>C</b> e...</figcaption>
+			   <figcaption>... pois pela potência do ponto <b>A<sub>2</sub></b> em relação às esferas temos que <b>A<sub>2</sub>F<sub>1</sub> = A<sub>2</sub>C</b> ...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="306" name="sl">
 			   <label for="306"></label>
 			   <img src="modulo3/26_01_05.png" loading="lazy"/>
-			   <figcaption>...<b>A<sub>2</sub>F<sub>2</sub> = A<sub>2</sub>C'</b>.</figcaption>
+			   <figcaption>... e <b>A<sub>2</sub>F<sub>2</sub> = A<sub>2</sub>C'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="307" name="sl">

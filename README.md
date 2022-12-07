@@ -2088,6 +2088,91 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.1</span></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-22.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada por um vértice, um foco e uma reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="266" name="sl">
+			   <label for="266"></label>
+			   <img src="modulo2/22_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>F<sub>2</sub>F'<sub>2</sub> &perp; t</b>. Logo,  determinamos o ponto <b>L &isin; t</b> que pertence à circunferência principal da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="267" name="sl">
+			   <label for="267"></label>
+			   <img src="modulo2/22_01_02.png" loading="lazy"/>
+			   <figcaption>Como a circunferência principal passa pelo vértice <b>A<sub>2</sub></b> e por <b>L</b>, o centro <b>O</b> estará na interseção do prolongamento de <b>A<sub>2</sub>F<sub>2</sub></b> com a mediatriz de <b>A<sub>2</sub>L</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="268" name="sl">
+			   <label for="268"></label>
+			   <img src="modulo2/22_01_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>F<sub>1</sub></b> e <b>A<sub>1</sub></b>, simétricos de <b>F<sub>2</sub></b> e de <b>A<sub>2</sub></b> em relação ao centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="269" name="sl">
+			   <label for="269"></label>
+			   <img src="modulo2/22_01_04.png" loading="lazy"/>
+			   <figcaption>Determine os vértices <b>B<sub>1</sub></b>  e <b>B<sub>2</sub></b>, sabendo-se que <b>B<sub>1</sub>B<sub>2</sub> &perp; F<sub>1</sub>F<sub>2</sub></b> e <b>B<sub>1</sub>F<sub>2</sub> = B<sub>2</sub>F<sub>2</sub> = a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="270" name="sl">
+			   <label for="270"></label>
+			   <img src="modulo2/22_01_05.png" loading="lazy"/>
+			   <figcaption>Unindo o foco <b>F<sub>1</sub></b> com o ponto <b>F'<sub>2</sub></b>, determinamos o ponto de tangência <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="271" name="sl">
+			   <label for="271"></label>
+			   <img src="modulo2/22_01_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/22_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-22a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada por um vértice, um foco e uma reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="272" name="sl">
+			   <label for="272"></label>
+			   <img src="modulo2/22_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>F<sub>2</sub>F'<sub>2</sub> &perp; t</b>. Logo,  determinamos o ponto <b>L &isin; t</b> que pertence à circunferência principal da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="273" name="sl">
+			   <label for="273"></label>
+			   <img src="modulo2/22_02_02.png" loading="lazy"/>
+			   <figcaption>Como a circunferência principal passa pelo vértice <b>A<sub>1</sub></b> e por <b>L</b>, o centro <b>O</b> estará na interseção do segmento <b>A<sub>1</sub>F<sub>2</sub></b> com a mediatriz de <b>A<sub>1</sub>L</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="274" name="sl">
+			   <label for="274"></label>
+			   <img src="modulo2/22_02_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>F<sub>1</sub></b> e <b>A<sub>2</sub></b>, simétricos de <b>F<sub>2</sub></b> e de <b>A<sub>1</sub></b> em relação ao centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="275" name="sl">
+			   <label for="275"></label>
+			   <img src="modulo2/22_02_04.png" loading="lazy"/>
+			   <figcaption>Determine os vértices <b>B<sub>1</sub></b>  e <b>B<sub>2</sub></b>, sabendo-se que <b>B<sub>1</sub>B<sub>2</sub> &perp; F<sub>1</sub>F<sub>2</sub></b> e <b>B<sub>1</sub>F<sub>2</sub> = B<sub>2</sub>F<sub>2</sub>= a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="276" name="sl">
+			   <label for="276"></label>
+			   <img src="modulo2/22_02_05.png" loading="lazy"/>
+			   <figcaption>Unindo o foco <b>F<sub>1</sub></b> com o ponto <b>F'<sub>2</sub></b>, determinamos o ponto de tangência <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="277" name="sl">
+			   <label for="277"></label>
+			   <img src="modulo2/22_02_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/22_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-23.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

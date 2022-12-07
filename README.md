@@ -2001,7 +2001,7 @@
 			   <input type="radio" id="255" name="sl">
 			   <label for="255"></label>
 			   <img src="modulo2/18_03_06.png" loading="lazy"/>
-			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo2/18_03_00.png" class="fundo" loading="lazy"/>
@@ -2035,7 +2035,7 @@
 			   <input type="radio" id="259" name="sl">
 			   <label for="259"></label>
 			   <img src="modulo2/20_03_04.png" loading="lazy"/>
-			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo2/20_03_00.png" class="fundo" loading="lazy"/>
@@ -2168,7 +2168,7 @@
 			   <input type="radio" id="277" name="sl">
 			   <label for="277"></label>
 			   <img src="modulo2/22_02_06.png" loading="lazy"/>
-			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo2/22_02_00.png" class="fundo" loading="lazy"/>
@@ -2226,7 +2226,7 @@
 			   <input type="radio" id="285" name="sl">
 			   <label for="285"></label>
 			   <img src="modulo2/23_02_08.png" loading="lazy"/>
-			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo2/23_02_00.png" class="fundo" loading="lazy"/>
@@ -2236,6 +2236,124 @@
    <img src="modulo2/apostila_nova_2022b-24.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-25.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada pelos vértices do diâmetro principal e um ponto.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="286" name="sl">
+			   <label for="286"></label>
+			   <img src="modulo2/25_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o centro da elipse com a <b>med<sub>A<sub>1</sub>A<sub>2</sub></sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="287" name="sl">
+			   <label for="287"></label>
+			   <img src="modulo2/25_01_02.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência principal da elipse e o segmento <b>PE &perp; A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="288" name="sl">
+			   <label for="288"></label>
+			   <img src="modulo2/25_01_03.png" loading="lazy"/>
+			   <figcaption>De acordo com as propriedades de afinidade homológica, a interseção de <b>OC</b> com o segmento <b>PD // A<sub>1</sub>A<sub>2</sub></b> determina que <b>OD = b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="289" name="sl">
+			   <label for="289"></label>
+			   <img src="modulo2/25_01_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(O, OD)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="290" name="sl">
+			   <label for="290"></label>
+			   <img src="modulo2/25_01_05.png" loading="lazy"/>
+			   <figcaption>Construa a <b>Circunf(B<sub>1</sub>, a)</b> para encontrar os focos da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="291" name="sl">
+			   <label for="291"></label>
+			   <img src="modulo2/25_01_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/25_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-25a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro 2c e pela excentricidade.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="292" name="sl">
+			   <label for="292"></label>
+			   <img src="modulo2/25_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>2c</b> e a <b>med<sub>F<sub>1</sub>F<sub>2</sub></sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="293" name="sl">
+			   <label for="293"></label>
+			   <img src="modulo2/25_02_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{c \over a = 2 \over 3}$ fazendo $\mathsf{O2 \over O3 = 2 \over 3}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="294" name="sl">
+			   <label for="294"></label>
+			   <img src="modulo2/25_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>A<sub>1</sub></b> em relação ao centro da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="295" name="sl">
+			   <label for="295"></label>
+			   <img src="modulo2/25_02_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(F<sub>1</sub>, a)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="296" name="sl">
+			   <label for="296"></label>
+			   <img src="modulo2/25_02_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/25_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-25b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.3</span></div>
+   <img src="modulo2/apostila_nova_2022b-25c.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro 2a e pela excentricidade.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="297" name="sl">
+			   <label for="297"></label>
+			   <img src="modulo2/25_04_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>2a</b> e a <b>med<sub>A<sub>1</sub>A<sub>2</sub></sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="298" name="sl">
+			   <label for="298"></label>
+			   <img src="modulo2/25_04_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{c \over a = 4 \over 5}$ fazendo $\mathsf{O4 \over O5 = 4 \over 5}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="299" name="sl">
+			   <label for="299"></label>
+			   <img src="modulo2/25_04_03.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>F<sub>1</sub></b> em relação ao centro da elipse.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="300" name="sl">
+			   <label for="300"></label>
+			   <img src="modulo2/25_04_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(F<sub>1</sub>, a)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="301" name="sl">
+			   <label for="301"></label>
+			   <img src="modulo2/25_04_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/25_04_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
 </details>
 

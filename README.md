@@ -2360,6 +2360,67 @@
 <details><summary id="modulo3">3. Hipérboles e parábolas</summary>
   <p>Material da página 26 até a página 41.</p>
    <img src="modulo3/apostila_nova_2022b-26.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Vamos acompanhar a demonstração do teorema de Apollonius para o caso de uma hipérbole. Considere as esferas inscritas na superfície cônica e tangentes ao plano de seção.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="302" name="sl">
+			   <label for="302"></label>
+			   <img src="modulo3/26_01_01.png" loading="lazy"/>
+			   <figcaption>Usando o conceito de potência do ponto <b>P</b> em relação às esferas de centros <b>O'</b> e <b>O</b>, encontramos que <b>PF<sub>2</sub> = PG'</b> e <b>PF<sub>1</sub> = PG</b>. Logo, temos que <b>PF<sub>2</sub> - PF<sub>1</sub> = PG' - PG = GG' = BB' = CC'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="303" name="sl">
+			   <label for="303"></label>
+			   <img src="modulo3/26_01_02.png" loading="lazy"/>
+			   <figcaption>Prolongando-se <b>BB'</b>, obtemos o ponto <b>A<sub>1</sub></b> e <b>BB' = A<sub>1</sub>B' - A<sub>1</sub>B</b>. Pela potência do ponto <b>A<sub>1</sub></b> em relação às esferas, temos que <b>A<sub>1</sub>F<sub>1</sub> = A<sub>1</sub>B</b> e <b>A<sub>1</sub>B' = A<sub>1</sub>F<sub>2</sub></b>. Logo, temos que <b>BB' = A<sub>1</sub>B' - A<sub>1</sub>B = A<sub>1</sub>F<sub>2</sub> - A<sub>1</sub>F<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="304" name="sl">
+			   <label for="304"></label>
+			   <img src="modulo3/26_01_03.png" loading="lazy"/>
+			   <figcaption>Temos também que <b>CC' = BB' = A<sub>2</sub>C - A<sub>2</sub>C' = A<sub>2</sub>F<sub>1</sub> - A<sub>2</sub>F<sub>2</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="305" name="sl">
+			   <label for="305"></label>
+			   <img src="modulo3/26_01_04.png" loading="lazy"/>
+			   <figcaption>... pois pela potência do ponto <b>A<sub>2</sub></b> em relação às esferas temos que <b>A<sub>2</sub>F<sub>1</sub> = A<sub>2</sub>C</b> e...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="306" name="sl">
+			   <label for="306"></label>
+			   <img src="modulo3/26_01_05.png" loading="lazy"/>
+			   <figcaption>...<b>A<sub>2</sub>F<sub>2</sub> = A<sub>2</sub>C'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="307" name="sl">
+			   <label for="307"></label>
+			   <img src="modulo3/26_01_06.png" loading="lazy"/>
+			   <figcaption>Logo, temos que <b>CC' = BB' = A<sub>1</sub>F<sub>2</sub> - A<sub>1</sub>F<sub>1</sub> = A<sub>2</sub>F<sub>1</sub> - A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="308" name="sl">
+			   <label for="308"></label>
+			   <img src="modulo3/26_01_07.png" loading="lazy"/>
+			   <figcaption>Temos também que <b>CC' = BB' = A<sub>2</sub>C - A<sub>2</sub>C' = A<sub>2</sub>F<sub>1</sub> - A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="309" name="sl">
+			   <label for="309"></label>
+			   <img src="modulo3/26_01_08.png" loading="lazy"/>
+			   <figcaption>Da última igualdade que verificamos, podemos concluir que <b>A<sub>1</sub>F<sub>1</sub> = A<sub>2</sub>F<sub>2</sub></b> e <b>A<sub>1</sub>F<sub>2</sub> = A<sub>2</sub>F<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="310" name="sl">
+			   <label for="310"></label>
+			   <img src="modulo3/26_01_09.png" loading="lazy"/>
+			   <figcaption>Portanto, temos que <b>A<sub>2</sub>F<sub>1</sub> - A<sub>1</sub>F<sub>2</sub> = A<sub>1</sub>F<sub>2</sub> - A<sub>2</sub>F<sub>2</sub> = BB' = A<sub>1</sub>A<sub>2</sub></b>. Logo, <b>PF<sub>2</sub> - PF<sub>1</sub> = BB' = A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/26_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-26a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-27.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

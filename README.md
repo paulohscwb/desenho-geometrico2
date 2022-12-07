@@ -2280,7 +2280,7 @@
   </details></div>
    <img src="modulo2/apostila_nova_2022b-25a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro 2c e pela excentricidade.</p>
+	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro <b>2c</b> e pela excentricidade.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="292" name="sl">
@@ -2292,7 +2292,7 @@
 			   <input type="radio" id="293" name="sl">
 			   <label for="293"></label>
 			   <img src="modulo2/25_02_02.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ c \over a = 2 \over 3}$ fazendo $\mathsf{ O2 \over O3 = 2 \over 3}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ {c \over a} = {2 \over 3}}$ fazendo $\mathsf{ {O2 \over O3} = {2 \over 3}}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="294" name="sl">
@@ -2319,7 +2319,7 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.3</span></div>
    <img src="modulo2/apostila_nova_2022b-25c.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro 2a e pela excentricidade.</p>
+	<p>Vamos construir os elementos principais de uma elipse dada pelo diâmetro <b>2a</b> e pela excentricidade.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="297" name="sl">
@@ -2331,7 +2331,7 @@
 			   <input type="radio" id="298" name="sl">
 			   <label for="298"></label>
 			   <img src="modulo2/25_04_02.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ c \over a = 4 \over 5}$ fazendo $\mathsf{ O4 \over O5 = 4 \over 5}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ {c \over a} = {4 \over 5}}$ fazendo $\mathsf{ {O4 \over O5} = {4 \over 5}}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="299" name="sl">

@@ -2010,8 +2010,82 @@
    <img src="modulo2/apostila_nova_2022b-19.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-20.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as retas tangentes a uma elipse dada pelos focos, a distância <b>2a</b> e um ponto da cônica.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="256" name="sl">
+			   <label for="256"></label>
+			   <img src="modulo2/20_03_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando a circunferência diretriz <b>&gamma;<sub>1</sub></b>, com centro em <b>F<sub>1</sub></b> e raio <b>2a</b>. Construindo a <b>Circunf(P, PF<sub>2</sub>)</b>, determinamos os pontos <b>F'<sub>2</sub></b> e <b>F''<sub>2</sub></b> na circunferência diretriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="257" name="sl">
+			   <label for="257"></label>
+			   <img src="modulo2/20_03_02.png" loading="lazy"/>
+			   <figcaption>As retas tangentes são as mediatrizes de <b>F<sub>2</sub>F'<sub>2</sub></b> e <b>F<sub>2</sub>F''<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="258" name="sl">
+			   <label for="258"></label>
+			   <img src="modulo2/20_03_03.png" loading="lazy"/>
+			   <figcaption>Unindo o foco <b>F<sub>1</sub></b> com os simétricos de <b>F<sub>2</sub></b> em relação às tangentes, determinamos os pontos de tangência nas retas <b>t</b> e <b>t'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="259" name="sl">
+			   <label for="259"></label>
+			   <img src="modulo2/20_03_04.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/20_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-21.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as retas tangentes a uma elipse paralelas a uma reta. São dados os focos e a distância <b>2a</b> da cônica.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="260" name="sl">
+			   <label for="260"></label>
+			   <img src="modulo2/21_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando a circunferência diretriz <b>&gamma;<sub>1</sub></b>, com centro em <b>F<sub>1</sub></b> e raio <b>2a</b>. Construindo o segmento <b>PF<sub>2</sub> &perp; r</b>, determinamos o ponto <b>F'<sub>2</sub></b> na circunferência diretriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="261" name="sl">
+			   <label for="261"></label>
+			   <img src="modulo2/21_01_02.png" loading="lazy"/>
+			   <figcaption>Uma das retas tangentes é a mediatriz de <b>F<sub>2</sub>F'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="262" name="sl">
+			   <label for="262"></label>
+			   <img src="modulo2/21_01_03.png" loading="lazy"/>
+			   <figcaption>Unindo o foco <b>F<sub>1</sub></b> com o ponto <b>F'<sub>2</sub></b>, determinamos o ponto de tangência <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="263" name="sl">
+			   <label for="263"></label>
+			   <img src="modulo2/21_01_04.png" loading="lazy"/>
+			   <figcaption>Se prolongarmos o segmento <b>PF<sub>2</sub></b>, determinamos o ponto <b>F''<sub>2</sub></b> na circunferência diretriz. A outra reta tangente é a mediatriz de <b>F<sub>2</sub>F''<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="264" name="sl">
+			   <label for="264"></label>
+			   <img src="modulo2/21_01_05.png" loading="lazy"/>
+			   <figcaption>Unindo o foco <b>F<sub>1</sub></b> com o ponto <b>F''<sub>2</sub></b>, determinamos o ponto de tangência <b>T'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="265" name="sl">
+			   <label for="265"></label>
+			   <img src="modulo2/21_01_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta construir a elipse à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo2/21_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo2/apostila_nova_2022b-21a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.1</span></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-22.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>

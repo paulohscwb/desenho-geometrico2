@@ -2503,7 +2503,7 @@
 			   <input type="radio" id="322" name="sl">
 			   <label for="322"></label>
 			   <img src="modulo3/27_02_02.png" loading="lazy"/>
-			   <figcaption>Como <b>PF<sub>1</sub> - PF<sub>2</sub> = 2a, construímos a <b>Circunf(P, PF<sub>2</sub>)</b> para encontrar <b>PF'<sub>2</sub></b> no segmento <b>PF<sub>1</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+			   <figcaption>Como <b>PF<sub>1</sub> - PF<sub>2</sub> = 2a</b>, construímos a <b>Circunf(P, PF<sub>2</sub>)</b> para encontrar <b>PF'<sub>2</sub></b> no segmento <b>PF<sub>1</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="323" name="sl">
@@ -2536,6 +2536,8 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-28.png" loading="lazy"/>
+   <img src="modulo3/apostila_nova_2022b-28a.png" loading="lazy"/>
+   <img src="modulo3/apostila_nova_2022b-28b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-29.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

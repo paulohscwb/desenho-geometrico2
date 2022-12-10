@@ -2423,6 +2423,117 @@
    <img src="modulo3/apostila_nova_2022b-26a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-27.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Construiremos uma hipérbole dados um vértice, o centro e um foco.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="311" name="sl">
+			   <label for="311"></label>
+			   <img src="modulo3/27_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando os simétricos de <b>A<sub>1</sub></b> e de <b>F<sub>1</sub></b> em relação ao centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="312" name="sl">
+			   <label for="312"></label>
+			   <img src="modulo3/27_01_02.png" loading="lazy"/>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(A<sub>2</sub>, c)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="313" name="sl">
+			   <label for="313"></label>
+			   <img src="modulo3/27_01_03.png" loading="lazy"/>
+			   <figcaption>Para construir uma hipérbole por pontos, vamos determinar os pontos <b>1</b>, <b>2</b> e <b>3</b> que ficam à esquerda do foco <b>F<sub>1</sub></b> na semi-reta de origem <b>F<sub>1</sub></b>. Cada ponto determinará 4 pontos da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="314" name="sl">
+			   <label for="314"></label>
+			   <img src="modulo3/27_01_04.png" loading="lazy"/>
+			   <figcaption>Como <b>PF<sub>1</sub> - PF<sub>2</sub> = 2a</b>, tome os raios com medidas iguais a <b>1A<sub>1</sub></b> e <b>1A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>1A<sub>1</sub></b> e <b>1A<sub>2</sub></b> são dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="315" name="sl">
+			   <label for="315"></label>
+			   <img src="modulo3/27_01_05.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>1A<sub>2</sub></b> e <b>1A<sub>1</sub></b> determinam mais dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="316" name="sl">
+			   <label for="316"></label>
+			   <img src="modulo3/27_01_06.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio com o ponto <b>2</b>, tomamos os raios com medidas iguais a <b>2A<sub>1</sub></b> e <b>2A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>2A<sub>1</sub></b> e <b>2A<sub>2</sub></b> são dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="317" name="sl">
+			   <label for="317"></label>
+			   <img src="modulo3/27_01_07.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>2A<sub>2</sub></b> e <b>2A<sub>1</sub></b> determinam mais dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="318" name="sl">
+			   <label for="318"></label>
+			   <img src="modulo3/27_01_08.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio com o ponto <b>3</b>, tomamos os raios com medidas iguais a <b>3A<sub>1</sub></b> e <b>3A<sub>2</sub></b>. As interseções das circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>3A<sub>1</sub></b> e <b>3A<sub>2</sub></b> são dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="319" name="sl">
+			   <label for="319"></label>
+			   <img src="modulo3/27_01_09.png" loading="lazy"/>
+			   <figcaption>Invertendo-se os centros, mas usando as mesmas medidas de raios, obtemos mais dois pontos da cônica: as circunferências com centros em <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> com raios <b>3A<sub>2</sub></b> e <b>3A<sub>1</sub></b> determinam mais dois pontos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="320" name="sl">
+			   <label for="320"></label>
+			   <img src="modulo3/27_01_10.png" loading="lazy"/>
+			   <figcaption>Depois, basta traçar a cônica à mão livre usando os pontos encontrados e os vértices do diâmetro real.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/27_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-27a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Construiremos uma hipérbole dados os focos, e um ponto da curva.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="321" name="sl">
+			   <label for="321"></label>
+			   <img src="modulo3/27_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos encontrando o centro da hipérbole construindo a mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="322" name="sl">
+			   <label for="322"></label>
+			   <img src="modulo3/27_02_02.png" loading="lazy"/>
+			   <figcaption>Como <b>PF<sub>1</sub> - PF<sub>2</sub> = 2a, construímos a <b>Circunf(P, PF<sub>2</sub>)</b> para encontrar <b>PF'<sub>2</sub></b> no segmento <b>PF<sub>1</sub></b>. Logo, temos que <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="323" name="sl">
+			   <label for="323"></label>
+			   <img src="modulo3/27_02_03.png" loading="lazy"/>
+			   <figcaption>Determine a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para encontrar a medida do segmento <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="324" name="sl">
+			   <label for="324"></label>
+			   <img src="modulo3/27_02_04.png" loading="lazy"/>
+			   <figcaption>Obtenha os vértices <b>A<sub>1</sub></b> e <b>A<sub>2</sub></b>, simétricos em relação ao centro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="325" name="sl">
+			   <label for="325"></label>
+			   <img src="modulo3/27_02_05.png" loading="lazy"/>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b> com a <b>Circunf(A<sub>1</sub>, c)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="326" name="sl">
+			   <label for="326"></label>
+			   <img src="modulo3/27_02_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, construa a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/27_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-27b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-28.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

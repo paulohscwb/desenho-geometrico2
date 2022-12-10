@@ -2436,7 +2436,7 @@
 			   <input type="radio" id="312" name="sl">
 			   <label for="312"></label>
 			   <img src="modulo3/27_01_02.png" loading="lazy"/>
-			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(A<sub>2</sub>, c)</b>.</figcaption>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância focal: <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da reta perpendicular ao diâmetro <b>A<sub>1</sub>A<sub>2</sub></b> que passa pelo centro com a <b>Circunf(A<sub>2</sub>, c)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="313" name="sl">
@@ -2491,7 +2491,7 @@
   </details></div>
    <img src="modulo3/apostila_nova_2022b-27a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Construiremos uma hipérbole dados os focos, e um ponto da curva.</p>
+	<p>Vamos encontrar os elementos principais de uma hipérbole dados os focos, e um ponto da curva.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="321" name="sl">
@@ -2521,7 +2521,7 @@
 			   <input type="radio" id="325" name="sl">
 			   <label for="325"></label>
 			   <img src="modulo3/27_02_05.png" loading="lazy"/>
-			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b> com a <b>Circunf(A<sub>1</sub>, c)</b>.</figcaption>
+			   <figcaption>A distância entre os focos e os vértices do diâmetro imaginário é igual à metade da distância focal: <b>c</b>. Logo, para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, basta encontrar a interseção da mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b> com a <b>Circunf(A<sub>1</sub>, c)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="326" name="sl">
@@ -2536,8 +2536,134 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-28.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Encontraremos os elementos principais de uma hipérbole um foco e os pontos simétricos em relação ao eixo imaginário.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="327" name="sl">
+			   <label for="327"></label>
+			   <img src="modulo3/28_01_01.png" loading="lazy"/>
+			   <figcaption>Como os pontos <b>P<sub>1</sub></b> e <b>P<sub>2</sub></b> são simétricos em relação ao eixo imaginário, a mediatriz de <b>P<sub>1</sub>P<sub>2</sub></b> contém os vértices deste eixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="328" name="sl">
+			   <label for="328"></label>
+			   <img src="modulo3/28_01_02.png" loading="lazy"/>
+			   <figcaption>Construa a reta perpendicular à <b>med<sub>P<sub>1</sub>P<sub>2</sub></sub></b>, determinado o centro da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="329" name="sl">
+			   <label for="329"></label>
+			   <img src="modulo3/28_01_03.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>F<sub>1</sub></b> em relação ao centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="330" name="sl">
+			   <label for="330"></label>
+			   <img src="modulo3/28_01_04.png" loading="lazy"/>
+			   <figcaption>Como <b>P<sub>1</sub></b> pertence à cônica, podemos unir <b>F<sub>1</sub></b> e <b>P<sub>1</sub></b> e construir a <b>Circunf(P<sub>1</sub>, P<sub>1</sub>F<sub>2</sub></b>, obtendo-se o segmento <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="331" name="sl">
+			   <label for="331"></label>
+			   <img src="modulo3/28_01_05.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz de <b>F<sub>1</sub>F'<sub>2</sub></b> para determinar a medida <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="332" name="sl">
+			   <label for="332"></label>
+			   <img src="modulo3/28_01_06.png" loading="lazy"/>
+			   <figcaption>Construa os vértices do diâmetro real, simétricos em relaçao ao centro da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="333" name="sl">
+			   <label for="333"></label>
+			   <img src="modulo3/28_01_07.png" loading="lazy"/>
+			   <figcaption>Para achar <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, encontre a interseção da mediatriz de <b>P<sub>1</sub>P<sub>2</sub></b> com a <b>Circunf(A<sub>2</sub>, c)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="334" name="sl">
+			   <label for="334"></label>
+			   <img src="modulo3/28_01_08.png" loading="lazy"/>
+			   <figcaption>Finalizando, construa a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/28_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo3/apostila_nova_2022b-28a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole dada pelo diâmetro <b>2a</b> e pela excentricidade.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="335" name="sl">
+			   <label for="335"></label>
+			   <img src="modulo3/28_03_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>2a</b> e a <b>med<sub>A<sub>1</sub>A<sub>2</sub></sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="336" name="sl">
+			   <label for="336"></label>
+			   <img src="modulo3/28_03_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ {c \over a} = {5 \over 2}}$ fazendo $\mathsf{ {O5 \over O2} = {5 \over 2}}$. Logo, encontramos o foco <b>F<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="337" name="sl">
+			   <label for="337"></label>
+			   <img src="modulo3/28_03_03.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>F<sub>1</sub></b> em relação ao centro da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="338" name="sl">
+			   <label for="338"></label>
+			   <img src="modulo3/28_03_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(A<sub>1</sub>, c)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="339" name="sl">
+			   <label for="339"></label>
+			   <img src="modulo3/28_03_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/28_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo3/apostila_nova_2022b-28b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole dada pelo diâmetro <b>2c</b> e pela excentricidade.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="340" name="sl">
+			   <label for="340"></label>
+			   <img src="modulo3/28_04_01.png" loading="lazy"/>
+			   <figcaption>Vamos iniciar encontrando o segmento <b>2c</b> e a <b>med<sub>F<sub>1</sub>F<sub>2</sub></sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="341" name="sl">
+			   <label for="341"></label>
+			   <img src="modulo3/28_04_02.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, determinamos a proporção da excentricidade $\mathsf{ {c \over a} = {6 \over 5}}$ fazendo $\mathsf{ {O6 \over O5} = {6 \over 5}}$. Logo, encontramos o vértice <b>A<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="342" name="sl">
+			   <label for="342"></label>
+			   <img src="modulo3/28_04_03.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>A<sub>1</sub></b> em relação ao centro da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="343" name="sl">
+			   <label for="343"></label>
+			   <img src="modulo3/28_04_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(A<sub>1</sub>, c)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="344" name="sl">
+			   <label for="344"></label>
+			   <img src="modulo3/28_04_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/28_04_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-29.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

@@ -2561,7 +2561,7 @@
 			   <input type="radio" id="330" name="sl">
 			   <label for="330"></label>
 			   <img src="modulo3/28_01_04.png" loading="lazy"/>
-			   <figcaption>Como <b>P<sub>1</sub></b> pertence à cônica, podemos unir <b>F<sub>1</sub></b> e <b>P<sub>1</sub></b> e construir a <b>Circunf(P<sub>1</sub>, P<sub>1</sub>F<sub>2</sub></b>, obtendo-se o segmento <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+			   <figcaption>Como <b>P<sub>1</sub></b> pertence à cônica, podemos unir <b>F<sub>1</sub></b> e <b>P<sub>1</sub></b> e construir a <b>Circunf(P<sub>1</sub>, P<sub>1</sub>F<sub>2</sub>)</b>, obtendo-se o segmento <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="331" name="sl">
@@ -2664,6 +2664,7 @@
 		</ul>
 		<img src="modulo3/28_04_00.png" class="fundo" loading="lazy"/>
   </details></div>
+   <img src="modulo3/apostila_nova_2022b-28c.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-29.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

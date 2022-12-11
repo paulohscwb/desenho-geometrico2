@@ -2935,6 +2935,61 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-37.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Vamos acompanhar a demonstração do teorema de Apollonius para o caso de uma parábola. Considere a esfera inscrita na superfície cônica e tangente ao plano de seção.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="381" name="sl">
+			   <label for="381"></label>
+			   <img src="modulo3/37_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos considerar o plano <b>LSL'</b> perpendicular ao plano de seção que determina a parábola. Neste caso teremos que a geratriz <b>SL'</b> será paralela ao plano de seção e o traço deste plano em <b>LSL'</b> é o segmento <b>A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="382" name="sl">
+			   <label for="382"></label>
+			   <img src="modulo3/37_01_02.png" loading="lazy"/>
+			   <figcaption>Considere a circunferência de centro <b>O</b> tangente às geratrizes <b>SL</b> e <b>SL'</b> em <b>B</b> e <b>C</b> e no segmento <b>DN</b> no ponto <b>F<sub>2</sub></b>. Girando esta circunferência com amplitude de 180&deg; em torno de um diâmetro, temos a esfera tangente à superfície cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="383" name="sl">
+			   <label for="383"></label>
+			   <img src="modulo3/37_01_03.png" loading="lazy"/>
+			   <figcaption>Usando a potência do ponto <b>P</b> em relação à esfera, construa os segmentos <b>PF<sub>2</sub></b> e <b>PS</b>, obtendo-se o ponto <b>G</b> no plano perpendicular ao eixo do cone que passa pelos pontos <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="384" name="sl">
+			   <label for="384"></label>
+			   <img src="modulo3/37_01_04.png" loading="lazy"/>
+			   <figcaption>Construa o plano paralelo ao plano <b>BCG</b> que passa pleo ponto <b>P</b>, obtendo-se o ponto <b>N &isin; A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="385" name="sl">
+			   <label for="385"></label>
+			   <img src="modulo3/37_01_05.png" loading="lazy"/>
+			   <figcaption>Usando a propriedade de potência de ponto, temos que <b>PF<sub>2</sub> = PG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="386" name="sl">
+			   <label for="386"></label>
+			   <img src="modulo3/37_01_06.png" loading="lazy"/>
+			   <figcaption>Os segmentos <b>PG</b>, <b>BR</b> e <b>CR</b> são iguais, pois são obtidos pelos planos perpendiculares ao eixo do cone.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="387" name="sl">
+			   <label for="387"></label>
+			   <img src="modulo3/37_01_07.png" loading="lazy"/>
+			   <figcaption>A interseção dos planos de seção e <b>BCG</b> é a reta <b>DE</b> perpendicular ao plano <b>LSL'</b>: temos que <b>ND</b> é a distância do ponto <b>P</b> à reta <b>DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="388" name="sl">
+			   <label for="388"></label>
+			   <img src="modulo3/37_01_08.png" loading="lazy"/>
+			   <figcaption>Da semelhança dos <b>&#9651;A<sub>2</sub>NR</b>, <b>&#9651;A<sub>2</sub>BD</b> e <b>&#9651;SLL'</b>, temos que <b>ND = BR = PF<sub>2</sub></b>. Logo, temos que <b>PF<sub>2</sub> = PE</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/37_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-37a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-38.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

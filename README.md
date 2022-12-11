@@ -2715,7 +2715,7 @@
 			   <input type="radio" id="350" name="sl">
 			   <label for="350"></label>
 			   <img src="modulo3/31_02_02.png" loading="lazy"/>
-			   <figcaption>Construa a mediatriz de <b>F<sub>2</sub>F'<sub>2</sub></b> que é uma das tangentes à hipérbole parelala a <b>r</b>.</figcaption>
+			   <figcaption>Construa a mediatriz de <b>F<sub>2</sub>F'<sub>2</sub></b> que é uma das tangentes à hipérbole paralela à reta <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="351" name="sl">
@@ -2727,7 +2727,7 @@
 			   <input type="radio" id="352" name="sl">
 			   <label for="352"></label>
 			   <img src="modulo3/31_02_04.png" loading="lazy"/>
-			   <figcaption>Construa o prolongamento de <b>PF<sub>2</sub></b> para encontrar o simétrico <b>F''<sub>2</sub></b> na circunferência diretriz. Construa a mediatriz de <b>F<sub>2</sub>F''<sub>2</sub></b> que a segunda tangente à hipérbole parelala a <b>r</b>.</figcaption>
+			   <figcaption>Construa o prolongamento de <b>PF<sub>2</sub></b> para encontrar o simétrico <b>F''<sub>2</sub></b> na circunferência diretriz. Construa a mediatriz de <b>F<sub>2</sub>F''<sub>2</sub></b> que é a segunda tangente à hipérbole paralela à reta <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="353" name="sl">

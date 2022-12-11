@@ -2896,13 +2896,13 @@
 			   <input type="radio" id="375" name="sl">
 			   <label for="375"></label>
 			   <img src="modulo3/36_02_03.png" loading="lazy"/>
-			   <figcaption>Encontre os pontos <b>B<sub>1</sub></b> e de <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+			   <figcaption>Encontre os pontos <b>B<sub>1</sub></b> e  <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="376" name="sl">
 			   <label for="376"></label>
 			   <img src="modulo3/36_02_04.png" loading="lazy"/>
-			   <figcaption>A medida <b>B<sub>1</sub>A<sub>2</sub> = c</b>: logo, determine os focos <b>F<sub>1</sub></b> e <b>B<sub>2</sub></b> nos prolongamentos do diâmetro real.</figcaption>
+			   <figcaption>A medida <b>B<sub>1</sub>A<sub>2</sub> = c</b>: logo, determine os focos <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> nos prolongamentos do diâmetro real.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="377" name="sl">
@@ -2942,7 +2942,7 @@
 			   <input type="radio" id="381" name="sl">
 			   <label for="381"></label>
 			   <img src="modulo3/37_01_01.png" loading="lazy"/>
-			   <figcaption>Vamos considerar o plano <b>LSL'</b> perpendicular ao plano de seção que determina a parábola. Neste caso teremos que a geratriz <b>SL'</b> será paralela ao plano de seção e o traço deste plano em <b>LSL'</b> é o segmento <b>A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+			   <figcaption>Vamos considerar o plano <b>LSL'</b> perpendicular ao plano de seção que determina a parábola. Neste caso teremos que a geratriz <b>SL'</b> será paralela ao plano de seção e o traço deste plano em <b>LSL'</b> é a reta <b>A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="382" name="sl">
@@ -2960,7 +2960,7 @@
 			   <input type="radio" id="384" name="sl">
 			   <label for="384"></label>
 			   <img src="modulo3/37_01_04.png" loading="lazy"/>
-			   <figcaption>Construa o plano paralelo ao plano <b>BCG</b> que passa pleo ponto <b>P</b>, obtendo-se o ponto <b>N &isin; A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
+			   <figcaption>Construa o plano paralelo ao plano <b>BCG</b> que passa pelo ponto <b>P</b>, obtendo-se o ponto <b>N &isin; A<sub>2</sub>F<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="385" name="sl">
@@ -2972,7 +2972,7 @@
 			   <input type="radio" id="386" name="sl">
 			   <label for="386"></label>
 			   <img src="modulo3/37_01_06.png" loading="lazy"/>
-			   <figcaption>Os segmentos <b>PG</b>, <b>BR</b> e <b>CR</b> são iguais, pois são obtidos pelos planos perpendiculares ao eixo do cone.</figcaption>
+			   <figcaption>Os segmentos <b>PG</b>, <b>BR</b> e <b>CR</b> são iguais, pois são obtidos dos planos perpendiculares ao eixo do cone.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="387" name="sl">

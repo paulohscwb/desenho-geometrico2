@@ -2671,6 +2671,80 @@
    <img src="modulo3/apostila_nova_2022b-30.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-31.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as retas tangentes à hiperbole, dada pelos focos e pela distância <b>2a</b>, que passam pelo ponto <b>P</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="345" name="sl">
+			   <label for="345"></label>
+			   <img src="modulo3/31_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo a circunferência diretriz <b>&gamma;<sub>1</sub></b> com centro em <b>F<sub>1</sub></b> e raio <b>2a</b>. Os simétricos de <b>F<sub>2</sub></b> em relação à reta tangente pertencem à circunferência diretriz: logo, construímos a <b>Circunf(P, PF<sub>2</sub>)</b> para encontrar os dois simétricos de <b>F<sub>2</sub></b> em relação às tangentes à hipérbole que passam pelo ponto dado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="346" name="sl">
+			   <label for="346"></label>
+			   <img src="modulo3/31_01_02.png" loading="lazy"/>
+			   <figcaption>Construa as mediatrizes de <b>F<sub>2</sub>F'<sub>2</sub></b> e de <b>F<sub>2</sub>F''<sub>2</sub></b> que são as tangentes à hipérbole que passam por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="347" name="sl">
+			   <label for="347"></label>
+			   <img src="modulo3/31_01_03.png" loading="lazy"/>
+			   <figcaption>Unindo <b>F<sub>1</sub></b> com <b>F'<sub>2</sub></b> e com <b>F''<sub>2</sub></b>, encontramos os pontos de tangência <b>T</b> e <b>T'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="348" name="sl">
+			   <label for="348"></label>
+			   <img src="modulo3/31_01_04.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/31_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-31a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as retas tangentes à hiperbole, dada pelos focos e pela distância <b>2a</b>, que são paralelas à reta <b>r</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="349" name="sl">
+			   <label for="349"></label>
+			   <img src="modulo3/31_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo a circunferência diretriz <b>&gamma;<sub>1</sub></b> com centro em <b>F<sub>1</sub></b> e raio <b>2a</b>. O simétrico de <b>F<sub>2</sub></b> em relação à reta tangente pertence à circunferência diretriz: logo, construímos a reta <b>PF<sub>2</sub> &perp; r</b> para encontrar o simétrico de <b>F<sub>2</sub></b> em relação a uma tangente da hipérbole paralela a <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="350" name="sl">
+			   <label for="350"></label>
+			   <img src="modulo3/31_02_02.png" loading="lazy"/>
+			   <figcaption>Construa a mediatriz de <b>F<sub>2</sub>F'<sub>2</sub></b> que é uma das tangentes à hipérbole parelala a <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="351" name="sl">
+			   <label for="351"></label>
+			   <img src="modulo3/31_02_03.png" loading="lazy"/>
+			   <figcaption>Unindo <b>F<sub>1</sub></b> com <b>F'<sub>2</sub></b>, encontramos o ponto de tangência <b>T</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="352" name="sl">
+			   <label for="352"></label>
+			   <img src="modulo3/31_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o prolongamento de <b>PF<sub>2</sub></b> para encontrar o simétrico <b>F''<sub>2</sub></b> na circunferência diretriz. Construa a mediatriz de <b>F<sub>2</sub>F''<sub>2</sub></b> que a segunda tangente à hipérbole parelala a <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="353" name="sl">
+			   <label for="353"></label>
+			   <img src="modulo3/31_02_05.png" loading="lazy"/>
+			   <figcaption>Unindo <b>F<sub>1</sub></b> com <b>F''<sub>2</sub></b>, encontramos o ponto de tangência <b>T'</b> na reta <b>t'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="354" name="sl">
+			   <label for="354"></label>
+			   <img src="modulo3/31_02_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/31_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-31b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-32.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

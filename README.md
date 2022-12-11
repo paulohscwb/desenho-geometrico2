@@ -2672,7 +2672,7 @@
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-31.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir as retas tangentes à hiperbole, dada pelos focos e pela distância <b>2a</b>, que passam pelo ponto <b>P</b>.</p>
+	<p>Vamos construir as retas tangentes à hipérbole, dada pelos focos e pela distância <b>2a</b>, que passam pelo ponto <b>P</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="345" name="sl">
@@ -2703,7 +2703,7 @@
   </details></div>
    <img src="modulo3/apostila_nova_2022b-31a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir as retas tangentes à hiperbole, dada pelos focos e pela distância <b>2a</b>, que são paralelas à reta <b>r</b>.</p>
+	<p>Vamos construir as retas tangentes à hipérbole, dada pelos focos e pela distância <b>2a</b>, que são paralelas à reta <b>r</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="349" name="sl">
@@ -2753,6 +2753,91 @@
    <img src="modulo3/apostila_nova_2022b-34.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-35.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole dada por um foco, um vértice e uma reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="355" name="sl">
+			   <label for="355"></label>
+			   <img src="modulo3/35_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo o simétrico do foco <b>F<sub>2</sub></b> em relação à reta <b>t</b>, encontrando os pontos <b>L</b> e <b>F'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="356" name="sl">
+			   <label for="356"></label>
+			   <img src="modulo3/35_01_02.png" loading="lazy"/>
+			   <figcaption>A circunferência principal da hipérbole tem centro em <b>O</b> e passa pelo vértice <b>A<sub>2</sub></b> e <b>L</b>: logo, para encontrar <b>O</b>, basta construir a mediatriz de <b>A<sub>2</sub>L</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="357" name="sl">
+			   <label for="357"></label>
+			   <img src="modulo3/35_01_03.png" loading="lazy"/>
+			   <figcaption>Encontre os simétricos de <b>F<sub>2</sub></b> e de <b>A<sub>2</sub></b> em relação ao centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="358" name="sl">
+			   <label for="358"></label>
+			   <img src="modulo3/35_01_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(A<sub>2</sub>, c)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na reta perpendicular ao diâmetro real que passa por <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="359" name="sl">
+			   <label for="359"></label>
+			   <img src="modulo3/35_01_05.png" loading="lazy"/>
+			   <figcaption>Unindo <b>F<sub>1</sub></b> com <b>F'<sub>2</sub></b>, encontramos o ponto de tangência <b>T</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="360" name="sl">
+			   <label for="360"></label>
+			   <img src="modulo3/35_01_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/35_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-35a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole dada por um foco, um vértice e uma reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="361" name="sl">
+			   <label for="361"></label>
+			   <img src="modulo3/35_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo o simétrico do foco <b>F<sub>2</sub></b> em relação à reta <b>t</b>, encontrando os pontos <b>L</b> e <b>F'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="362" name="sl">
+			   <label for="362"></label>
+			   <img src="modulo3/35_02_02.png" loading="lazy"/>
+			   <figcaption>A circunferência principal da hipérbole tem centro em <b>O</b> e passa pelo vértice <b>A<sub>1</sub></b> e <b>L</b>: logo, para encontrar <b>O</b>, basta construir a mediatriz de <b>A<sub>1</sub>L</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="363" name="sl">
+			   <label for="363"></label>
+			   <img src="modulo3/35_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre os simétricos de <b>F<sub>2</sub></b> e de <b>A<sub>1</sub></b> em relação ao centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="364" name="sl">
+			   <label for="364"></label>
+			   <img src="modulo3/35_02_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(A<sub>1</sub>, c)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na reta perpendicular ao diâmetro real que passa por <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="365" name="sl">
+			   <label for="365"></label>
+			   <img src="modulo3/35_02_05.png" loading="lazy"/>
+			   <figcaption>Unindo <b>F<sub>1</sub></b> com <b>F'<sub>2</sub></b>, encontramos o ponto de tangência <b>T</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="366" name="sl">
+			   <label for="366"></label>
+			   <img src="modulo3/35_02_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/35_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-36.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

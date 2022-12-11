@@ -2840,6 +2840,99 @@
   </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-36.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole dada pelo diâmetro real e uma reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="367" name="sl">
+			   <label for="367"></label>
+			   <img src="modulo3/36_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo a mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b> para encontrar o centro da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="368" name="sl">
+			   <label for="368"></label>
+			   <img src="modulo3/36_01_02.png" loading="lazy"/>
+			   <figcaption>A circunferência principal da hipérbole tem centro em <b>O</b> e passa pelos vértices <b>A<sub>1</sub></b> e <b>A<sub>2</sub></b>, determinando os pontos <b>L</b> e <b>L'</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="369" name="sl">
+			   <label for="369"></label>
+			   <img src="modulo3/36_01_03.png" loading="lazy"/>
+			   <figcaption>As retas perpendiculares à reta <b>t</b> que passam por <b>L</b> e <b>L'</b> determinam os focos nos prolongamentos do diâmetro real.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="370" name="sl">
+			   <label for="370"></label>
+			   <img src="modulo3/36_01_04.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(A<sub>2</sub>, c)</b> determina os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="371" name="sl">
+			   <label for="371"></label>
+			   <img src="modulo3/36_01_05.png" loading="lazy"/>
+			   <figcaption>Determine o simétrico de <b>F<sub>1</sub></b> em relação à reta tangente. Unindo <b>F<sub>2</sub></b> com <b>F'<sub>1</sub></b>, encontramos o ponto de tangência <b>T</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="372" name="sl">
+			   <label for="372"></label>
+			   <img src="modulo3/36_01_06.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/36_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-36a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais e as assíntotas de uma hipérbole dada pelos diâmetros real e imaginário.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="374" name="sl">
+			   <label for="374"></label>
+			   <img src="modulo3/36_02_02.png" loading="lazy"/>
+			   <figcaption>Construa a mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b> para encontrar o centro da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="375" name="sl">
+			   <label for="375"></label>
+			   <img src="modulo3/36_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos <b>B<sub>1</sub></b> e de <b>B<sub>2</sub></b> na mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="376" name="sl">
+			   <label for="376"></label>
+			   <img src="modulo3/36_02_04.png" loading="lazy"/>
+			   <figcaption>A medida <b>B<sub>1</sub>A<sub>2</sub> = c</b>: logo, determine os focos <b>F<sub>1</sub></b> e <b>B<sub>2</sub></b> nos prolongamentos do diâmetro real.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="377" name="sl">
+			   <label for="377"></label>
+			   <img src="modulo3/36_02_05.png" loading="lazy"/>
+			   <figcaption>Construa as retas paralelas ao diâmetro real que passam por <b>B<sub>1</sub></b> e por <b>B<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="378" name="sl">
+			   <label for="378"></label>
+			   <img src="modulo3/36_02_06.png" loading="lazy"/>
+			   <figcaption>Construa as retas paralelas ao diâmetro imaginário que passam por <b>A<sub>1</sub></b> e por <b>A<sub>2</sub></b>: logo, temos os vértices do retângulo cujas diagonais são as retas suporte das assíntotas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="379" name="sl">
+			   <label for="379"></label>
+			   <img src="modulo3/36_02_07.png" loading="lazy"/>
+			   <figcaption>Determine as assíntotas <b>SQ</b> e <b>PR</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="380" name="sl">
+			   <label for="380"></label>
+			   <img src="modulo3/36_02_08.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/36_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-36b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-37.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

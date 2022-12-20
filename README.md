@@ -2992,6 +2992,110 @@
    <img src="modulo3/apostila_nova_2022b-37a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-38.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais e alguns pontos de uma parábola dada pelo vértice e pelo foco.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="389" name="sl">
+			   <label for="389"></label>
+			   <img src="modulo3/38_01_01.png" loading="lazy"/>
+			   <figcaption>A reta definida por <b>A<sub>2</sub>F<sub>2</sub></b> é o eixo da cônica e a distância <b>A<sub>2</sub>F<sub>2</sub> = p</b> é a metade do parâmetro da parábola. Determine o simétrico de <b>F<sub>2</sub></b> em relação ao vértice <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="390" name="sl">
+			   <label for="390"></label>
+			   <img src="modulo3/38_01_02.png" loading="lazy"/>
+			   <figcaption>A reta <b>&gamma;</b>, perpendicular ao eixo que passa por <b>F'<sub>2</sub>A<sub>2</sub></b> é a diretriz da parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="391" name="sl">
+			   <label for="391"></label>
+			   <img src="modulo3/38_01_03.png" loading="lazy"/>
+			   <figcaption>Agora vamos determinar pontos da cônica. Escolha um ponto <b>1 &isin; &gamma;</b>: a interseção da mediatriz de <b>1F<sub>2</sub></b> com a reta paralela ao eixo que passa por <b>1</b> é um dos pontos da parábola (equidistante da diretriz e do foco).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="392" name="sl">
+			   <label for="392"></label>
+			   <img src="modulo3/38_01_04.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>2 &isin; &gamma;</b>: a interseção da mediatriz de <b>2F<sub>2</sub></b> com a reta paralela ao eixo que passa por <b>2</b> é outro ponto da parábola (equidistante da diretriz e do foco).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="393" name="sl">
+			   <label for="393"></label>
+			   <img src="modulo3/38_01_05.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>3 &isin; &gamma;</b>: a interseção da mediatriz de <b>3F<sub>2</sub></b> com a reta paralela ao eixo que passa por <b>3</b> é outro ponto da parábola (equidistante da diretriz e do foco).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="394" name="sl">
+			   <label for="394"></label>
+			   <img src="modulo3/38_01_06.png" loading="lazy"/>
+			   <figcaption>Depois, basta encontrar os simétricos de <b>P<sub>1</sub></b>, <b>P<sub>2</sub></b> e <b>P<sub>3</sub></b> em relação ao eixo. Assim, temos 6 pontos da cônica além do vértice <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="395" name="sl">
+			   <label for="395"></label>
+			   <img src="modulo3/38_01_07.png" loading="lazy"/>
+			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/38_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-38a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma parábola dada pelos pontos simétricos em relação ao eixo e pela reta diretriz.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="396" name="sl">
+			   <label for="396"></label>
+			   <img src="modulo3/38_02_01.png" loading="lazy"/>
+			   <figcaption>A mediatriz de <b>PP'</b> é o eixo da cônica e o ponto de interseção do eixo com a diretriz é o simétrico do foco em relaçao ao vértice <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="397" name="sl">
+			   <label for="397"></label>
+			   <img src="modulo3/38_02_02.png" loading="lazy"/>
+			   <figcaption>Construindo a reta perpendicular à diretriz que passa por <b>P</b>, obtemos o ponto <b>S<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="398" name="sl">
+			   <label for="398"></label>
+			   <img src="modulo3/38_02_03.png" loading="lazy"/>
+			   <figcaption>A distância de <b>P</b> à diretriz <b>PS<sub>2</sub></b> é a mesma de <b>PF<sub>2</sub></b>. Logo, podemos construir a <b>Circunf(P, PS<sub>2</sub>)</b> para determinar o foco no eixo. Escolha uma das interseções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="399" name="sl">
+			   <label for="399"></label>
+			   <img src="modulo3/38_02_04.png" loading="lazy"/>
+			   <figcaption>Determine o vértice <b>A<sub>2</sub></b> por meio da mediatriz de <b>S'<sub>2</sub>F<sub>2</sub></b>. Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/38_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-38b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma parábola dada pela direção da diretriz, o foco e um ponto da curva.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="400" name="sl">
+			   <label for="400"></label>
+			   <img src="modulo3/38_03_01.png" loading="lazy"/>
+			   <figcaption>Construindo a reta <b>PS'<sub>2</sub> &perp; r</b> e a <b>Circunf(P, PF<sub>2</sub>)</b>, determinamos o ponto <b>S<sub>2</sub> &isin; &gamma;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="401" name="sl">
+			   <label for="401"></label>
+			   <img src="modulo3/38_03_02.png" loading="lazy"/>
+			   <figcaption>Construa a reta diretriz, paralela a <b>r</b> que passa por <b>S<sub>2</sub></b>. A reta perpendicular à diretriz que passa pelo foco determina o eixo e o ponto simétrico do foco em relação ao vértice: <b>S''<sub>2</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="402" name="sl">
+			   <label for="402"></label>
+			   <img src="modulo3/38_03_03.png" loading="lazy"/>
+			   <figcaption>Determine o vértice <b>A<sub>2</sub></b> por meio da mediatriz de <b>S''<sub>2</sub>F<sub>2</sub></b>. Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/38_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-39.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

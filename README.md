@@ -3164,7 +3164,7 @@
 			   <input type="radio" id="411" name="sl">
 			   <label for="411"></label>
 			   <img src="modulo3/40_03_03.png" loading="lazy"/>
-			   <figcaption>Determine a reta <b>F<sub>2</sub>S<sub>2</sub> &perp; &gamma;</b> determina o eixo da parábola. O vértice é o ponto médio de <b>F<sub>2</sub>S<sub>2</sub></b>.</figcaption>
+			   <figcaption>A reta <b>F<sub>2</sub>S<sub>2</sub> &perp; &gamma;</b> é o eixo da parábola e o vértice é o ponto médio de <b>F<sub>2</sub>S<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="412" name="sl">
@@ -3183,6 +3183,66 @@
   </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-41.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
+	<p>Vamos acompanhar as propriedades que aparecem na definição de Apollonius para as cônicas.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="414" name="sl">
+			   <label for="414"></label>
+			   <img src="modulo3/41_01_01.png" loading="lazy"/>
+			   <figcaption>Vamos começar com o caso de uma elipse. Considere o segmento <b>BC &perp; A<sub>1</sub>A<sub>2</sub></b>, onde <b>B</b> e <b>C</b> pertencem à elipse. Determine um ponto <b>P</b> da elipse e o segmento <b>PS &perp; A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="415" name="sl">
+			   <label for="415"></label>
+			   <img src="modulo3/41_01_02.png" loading="lazy"/>
+			   <figcaption>Construa o quadrado com a medida do lado igual a <b>PS</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="416" name="sl">
+			   <label for="416"></label>
+			   <img src="modulo3/41_01_03.png" loading="lazy"/>
+			   <figcaption>Vamos determinar o lado <b>x</b> de um retângulo equivalente ao quadrado de lado <b>PS</b>, sabendo-se que um dos lados mede <b>A<sub>1</sub>S</b>. Temos que <b>A<sub>1</sub>S&middot;x = SR&sup2;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="417" name="sl">
+			   <label for="417"></label>
+			   <img src="modulo3/41_01_04.png" loading="lazy"/>
+			   <figcaption>Desenvolvendo a relação das áreas, temos que $\mathsf{ {A_1S \over SR} = {SR \over x}}$. Logo, podemos usar o teorema de Tales para determinar o segmento <b>x</b> por uma terceira proporcional.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="418" name="sl">
+			   <label for="418"></label>
+			   <img src="modulo3/41_01_05.png" loading="lazy"/>
+			   <figcaption>Construa o retângulo <b>A<sub>1</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="419" name="sl">
+			   <label for="419"></label>
+			   <img src="modulo3/41_01_06.png" loading="lazy"/>
+			   <figcaption>Podemos observar que temos <b>x &lt; BC</b>, que vem da palavra grega "elleípsis", que significa falta ou insuficiência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="420" name="sl">
+			   <label for="420"></label>
+			   <img src="modulo3/41_01_07.png" loading="lazy"/>
+			   <figcaption>Seguindo o mesmo raciocínio no caso da parábola, ao construirmos o retângulo <b>A<sub>1</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que <b>x = BC</b>. O nome da cônica vem da palavra grega "parabolé", que significa comparação ou igualdade.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="422" name="sl">
+			   <label for="422"></label>
+			   <img src="modulo3/41_01_09.png" loading="lazy"/>
+			   <figcaption>Seguindo o mesmo raciocínio no caso da hipérbole, ao construirmos o retângulo <b>A<sub>1</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que... </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="423" name="sl">
+			   <label for="423"></label>
+			   <img src="modulo3/41_01_10.png" loading="lazy"/>
+			   <figcaption>... <b>A<sub>2</sub>S&middot;x = SR&sup2;</b><b>x = BC</b> e o segmento <b>x &gt; BC</b>. O nome da cônica vem da palavra grega "hyperbolé", que significa exagero ou excesso.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/41_01_00.png" class="fundo" style="visibility:hidden;" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
 </details>
 

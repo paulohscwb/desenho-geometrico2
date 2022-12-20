@@ -3060,7 +3060,7 @@
 			   <input type="radio" id="398" name="sl">
 			   <label for="398"></label>
 			   <img src="modulo3/38_02_03.png" loading="lazy"/>
-			   <figcaption>A distância de <b>P</b> à diretriz <b>PS<sub>2</sub></b> é a mesma de <b>PF<sub>2</sub></b>. Logo, podemos construir a <b>Circunf(P, PS<sub>2</sub>)</b> para determinar o foco no eixo. Escolha uma das interseções.</figcaption>
+			   <figcaption>A distância de <b>P</b> à diretriz <b>PS<sub>2</sub></b> é igual a <b>PF<sub>2</sub></b>. Logo, podemos construir a <b>Circunf(P, PS<sub>2</sub>)</b> para determinar o foco no eixo. Escolha uma das interseções.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="399" name="sl">
@@ -3100,6 +3100,87 @@
    <img src="modulo3/apostila_nova_2022b-39.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-40.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as retas tangentes à parábola que passam por um ponto. São dados o foco e a diretriz da cônica.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="403" name="sl">
+			   <label for="403"></label>
+			   <img src="modulo3/40_01_01.png" loading="lazy"/>
+			   <figcaption>A reta <b>F<sub>2</sub>S'<sub>2</sub> &perp; &gamma;</b> determina o eixo da parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="404" name="sl">
+			   <label for="404"></label>
+			   <img src="modulo3/40_01_02.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz de <b>F<sub>2</sub>S'<sub>2</sub></b> para achar o vértice da parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="405" name="sl">
+			   <label for="405"></label>
+			   <img src="modulo3/40_01_03.png" loading="lazy"/>
+			   <figcaption>A <b>Circunf(P, PF<sub>2</sub>)</b> determina na diretriz os simétricos do foco em relação às retas tangentes à parábola que passam por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="406" name="sl">
+			   <label for="406"></label>
+			   <img src="modulo3/40_01_04.png" loading="lazy"/>
+			   <figcaption>Construa as mediatrizes de <b>F<sub>2</sub>F'<sub>2</sub></b> e de <b>F<sub>2</sub>F''<sub>2</sub></b> que são as retas tangentes à parábola que passam por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="407" name="sl">
+			   <label for="407"></label>
+			   <img src="modulo3/40_01_05.png" loading="lazy"/>
+			   <figcaption>Construa as retas paralelas ao eixo que passam por <b>F'<sub>2</sub></b> e por <b>F''<sub>2</sub></b>. As interseções destas retas com as retas tangentes são os pontos de tangência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="408" name="sl">
+			   <label for="408"></label>
+			   <img src="modulo3/40_01_06.png" loading="lazy"/>
+			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/40_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-40a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.3</span></div>
+   <img src="modulo3/apostila_nova_2022b-40b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma parábola dada por duas retas tangentes e o foco.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="409" name="sl">
+			   <label for="409"></label>
+			   <img src="modulo3/40_03_01.png" loading="lazy"/>
+			   <figcaption>Começamos a construção determinando os simétricos do foco em relação às retas tangentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="410" name="sl">
+			   <label for="410"></label>
+			   <img src="modulo3/40_03_02.png" loading="lazy"/>
+			   <figcaption>A reta que passa por <b>F'<sub>2</sub></b> e <b>F''<sub>2</sub></b> é a diretriz da parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="411" name="sl">
+			   <label for="411"></label>
+			   <img src="modulo3/40_03_03.png" loading="lazy"/>
+			   <figcaption>Determine a reta <b>F<sub>2</sub>S<sub>2</sub> &perp; &gamma;</b> determina o eixo da parábola. O vértice é o ponto médio de <b>F<sub>2</sub>S<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="412" name="sl">
+			   <label for="412"></label>
+			   <img src="modulo3/40_03_04.png" loading="lazy"/>
+			   <figcaption>Construa as retas paralelas ao eixo que passam por <b>F'<sub>2</sub></b> e por <b>F''<sub>2</sub></b>. As interseções destas retas com as retas tangentes são os pontos de tangência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="413" name="sl">
+			   <label for="413"></label>
+			   <img src="modulo3/40_03_05.png" loading="lazy"/>
+			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/40_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-41.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>

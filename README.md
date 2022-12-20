@@ -3226,13 +3226,13 @@
 			   <input type="radio" id="420" name="sl">
 			   <label for="420"></label>
 			   <img src="modulo3/41_01_07.png" loading="lazy"/>
-			   <figcaption>Seguindo o mesmo raciocínio no caso da parábola, ao construirmos o retângulo <b>A<sub>1</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que <b>x = BC</b>. O nome da cônica vem da palavra grega "parabolé", que significa comparação ou igualdade.</figcaption>
+			   <figcaption>Seguindo o mesmo raciocínio no caso da parábola, ao construirmos o retângulo <b>A<sub>2</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que <b>x = BC</b>. O nome da cônica vem da palavra grega "parabolé", que significa comparação ou igualdade.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="422" name="sl">
 			   <label for="422"></label>
 			   <img src="modulo3/41_01_09.png" loading="lazy"/>
-			   <figcaption>Seguindo o mesmo raciocínio no caso da hipérbole, ao construirmos o retângulo <b>A<sub>1</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que... </figcaption>
+			   <figcaption>Seguindo o mesmo raciocínio no caso da hipérbole, ao construirmos o retângulo <b>A<sub>2</sub>SUT</b> equivalente ao quadrado <b>PQRS</b>, obtemos que... </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="423" name="sl">

@@ -3005,7 +3005,7 @@
 			   <input type="radio" id="390" name="sl">
 			   <label for="390"></label>
 			   <img src="modulo3/38_01_02.png" loading="lazy"/>
-			   <figcaption>A reta <b>&gamma;</b>, perpendicular ao eixo que passa por <b>F'<sub>2</sub>A<sub>2</sub></b> é a diretriz da parábola.</figcaption>
+			   <figcaption>A reta <b>&gamma;</b>, perpendicular ao eixo que passa por <b>F'<sub>2</sub></b> é a diretriz da parábola.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="391" name="sl">
@@ -3042,19 +3042,19 @@
   </details></div>
    <img src="modulo3/apostila_nova_2022b-38a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir os elementos principais de uma parábola dada pelos pontos simétricos em relação ao eixo e pela reta diretriz.</p>
+	<p>Vamos construir os elementos principais de uma parábola dada pelos pontos simétricos em relação ao eixo e a reta diretriz.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="396" name="sl">
 			   <label for="396"></label>
 			   <img src="modulo3/38_02_01.png" loading="lazy"/>
-			   <figcaption>A mediatriz de <b>PP'</b> é o eixo da cônica e o ponto de interseção do eixo com a diretriz é o simétrico do foco em relaçao ao vértice <b>A<sub>2</sub></b>.</figcaption>
+			   <figcaption>A mediatriz de <b>PP'</b> é o eixo da cônica e o ponto de interseção do eixo com a diretriz é o simétrico do foco em relação ao vértice <b>A<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="397" name="sl">
 			   <label for="397"></label>
 			   <img src="modulo3/38_02_02.png" loading="lazy"/>
-			   <figcaption>Construindo a reta perpendicular à diretriz que passa por <b>P</b>, obtemos o ponto <b>S<sub>2</sub></b>.</figcaption>
+			   <figcaption>Construindo a reta perpendicular à diretriz que passa por <b>P</b>, obtemos o ponto <b>S<sub>2</sub> &isin; &gamma;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="398" name="sl">

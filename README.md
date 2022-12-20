@@ -3238,7 +3238,7 @@
 			   <input type="radio" id="423" name="sl">
 			   <label for="423"></label>
 			   <img src="modulo3/41_01_10.png" loading="lazy"/>
-			   <figcaption>... <b>A<sub>2</sub>S&middot;x = SR&sup2;</b><b>x = BC</b> e o segmento <b>x &gt; BC</b>. O nome da cônica vem da palavra grega "hyperbolé", que significa exagero ou excesso.</figcaption>
+			   <figcaption>... <b>A<sub>2</sub>S&middot;x = SR&sup2;</b><b> = BC</b> e o segmento <b>x &gt; BC</b>. O nome da cônica vem da palavra grega "hyperbolé", que significa exagero ou excesso.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo3/41_01_00.png" class="fundo" style="visibility:hidden;" loading="lazy"/>

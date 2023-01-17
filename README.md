@@ -3754,19 +3754,19 @@
 			   <input type="radio" id="492" name="sl">
 			   <label for="492"></label>
 			   <img src="modulo4/47_03_03.png" loading="lazy"/>
-			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>1</sub></b>: A interseção deste arco com o primeiro raio <b>AC<sub>1</sub></b> é o primeiro ponto da espiral.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>1</sub></b>: a interseção deste arco com o primeiro raio <b>AC<sub>1</sub></b> é o primeiro ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="493" name="sl">
 			   <label for="493"></label>
 			   <img src="modulo4/47_03_04.png" loading="lazy"/>
-			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>2</sub></b>: A interseção deste arco com o segundo raio <b>AC<sub>2</sub></b> é o segundo ponto da espiral.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>2</sub></b>: a interseção deste arco com o segundo raio <b>AC<sub>2</sub></b> é o segundo ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="494" name="sl">
 			   <label for="494"></label>
 			   <img src="modulo4/47_03_05.png" loading="lazy"/>
-			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>3</sub></b>: A interseção deste arco com o terceiro raio <b>AC<sub>3</sub></b> é o terceiro ponto da espiral.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>3</sub></b>: a interseção deste arco com o terceiro raio <b>AC<sub>3</sub></b> é o terceiro ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="495" name="sl">
@@ -3804,7 +3804,7 @@
 			   <input type="radio" id="499" name="sl">
 			   <label for="499"></label>
 			   <img src="modulo4/48_02_01.png" loading="lazy"/>
-			   <figcaption>Construa as retas que formam ângulos de 45&deg; entre si.</figcaption>
+			   <figcaption>Construa as retas que passam por <b>A</b> e formam ângulos de 45&deg; entre si.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="500" name="sl">
@@ -3834,19 +3834,19 @@
 			   <input type="radio" id="504" name="sl">
 			   <label for="504"></label>
 			   <img src="modulo4/48_02_06.png" loading="lazy"/>
-			   <figcaption>Os pontos <b>C</b> e <b>1</b> pertencem à espiral. Defina o arco com centro em <b>A</b> e raio <b>A2</b>: A interseção deste arco com a reta <b>a<sub>2</sub></b> é o terceiro ponto da espiral.</figcaption>
+			   <figcaption>Os pontos <b>C</b> e <b>1</b> pertencem à espiral. Defina o arco com centro em <b>A</b> e raio <b>A2</b>: a interseção deste arco com a reta <b>a<sub>2</sub></b> é o terceiro ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="505" name="sl">
 			   <label for="505"></label>
 			   <img src="modulo4/48_02_07.png" loading="lazy"/>
-			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A3</b>: A interseção deste arco com a reta <b>a<sub>3</sub></b> é o quarto ponto da espiral.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A3</b>: a interseção deste arco com a reta <b>a<sub>3</sub></b> é o quarto ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="506" name="sl">
 			   <label for="506"></label>
 			   <img src="modulo4/48_02_08.png" loading="lazy"/>
-			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A4</b>: A interseção deste arco com a reta <b>a<sub>4</sub></b> é o quinto ponto da espiral.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A4</b>: a interseção deste arco com a reta <b>a<sub>4</sub></b> é o quinto ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="507" name="sl">
@@ -3870,7 +3870,7 @@
 			   <input type="radio" id="510" name="sl">
 			   <label for="510"></label>
 			   <img src="modulo4/48_02_12.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao ponto <b>C'</b> é a espiral logarítmica.</figcaption>
+			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao ponto <b>C'</b> é a espiral logarítmica. Neste exemplo, temos <b>m = 0.442</b></figcaption>
 		   </li>
 		</ul>
 		<img src="modulo4/48_02_00.png" class="fundo" loading="lazy"/>

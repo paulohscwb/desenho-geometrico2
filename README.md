@@ -4079,7 +4079,7 @@
 			   <input type="radio" id="538" name="sl">
 			   <label for="538"></label>
 			   <img src="modulo4/50_04_01.png" loading="lazy"/>
-			   <figcaption>Usando os elementos mostrados nos dois exemplos anteriores, construa uma ciclóide simples com o ângulo <b>&alpha;</b> na circunferência de centro <b>O'</b>.</figcaption>
+			   <figcaption>Usando os elementos mostrados nos dois exemplos anteriores, construa uma ciclóide simples com o ângulo <b>&alpha;</b> definido na circunferência de centro <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="539" name="sl">
@@ -4111,6 +4111,14 @@
    <img src="modulo4/apostila_nova_2022b-50d.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-51.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51a.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51b.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51c.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51d.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51e.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51f.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51g.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-51h.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

@@ -3797,6 +3797,85 @@
   </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-48.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral logarítmica por pontos. Usaremos 8 pontos neste exemplo.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="499" name="sl">
+			   <label for="499"></label>
+			   <img src="modulo4/48_02_01.png" loading="lazy"/>
+			   <figcaption>Construa as retas que formam ângulos de 45&deg; entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="500" name="sl">
+			   <label for="500"></label>
+			   <img src="modulo4/48_02_02.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>1C &perp; a<sub>0</sub></b>, tal que <b>1 &isin; a<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="501" name="sl">
+			   <label for="501"></label>
+			   <img src="modulo4/48_02_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>12 &perp; a<sub>1</sub></b>, tal que <b>2 &isin; a<sub>0</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="502" name="sl">
+			   <label for="502"></label>
+			   <img src="modulo4/48_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>23 &perp; a<sub>0</sub></b>, tal que <b>3 &isin; a<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="503" name="sl">
+			   <label for="503"></label>
+			   <img src="modulo4/48_02_05.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio, defina os pontos <b>4</b>, <b>5</b>, <b>6</b> e <b>7</b> que pertencem alternadamente às retas <b>a<sub>0</sub></b> e <b>a<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="504" name="sl">
+			   <label for="504"></label>
+			   <img src="modulo4/48_02_06.png" loading="lazy"/>
+			   <figcaption>Os pontos <b>C</b> e <b>1</b> pertencem à espiral. Defina o arco com centro em <b>A</b> e raio <b>A2</b>: A interseção deste arco com a reta <b>a<sub>2</sub></b> é o terceiro ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="505" name="sl">
+			   <label for="505"></label>
+			   <img src="modulo4/48_02_07.png" loading="lazy"/>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A3</b>: A interseção deste arco com a reta <b>a<sub>3</sub></b> é o quarto ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="506" name="sl">
+			   <label for="506"></label>
+			   <img src="modulo4/48_02_08.png" loading="lazy"/>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>A4</b>: A interseção deste arco com a reta <b>a<sub>4</sub></b> é o quinto ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="507" name="sl">
+			   <label for="507"></label>
+			   <img src="modulo4/48_02_09.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio, encontramos os demais pontos da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="508" name="sl">
+			   <label for="508"></label>
+			   <img src="modulo4/48_02_10.png" loading="lazy"/>
+			   <figcaption>Obtenha o ponto <b>8</b> por meio do segmento <b>78 &perp; a<sub>1</sub></b>. Este é o último ponto da primeira volta desta espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="509" name="sl">
+			   <label for="509"></label>
+			   <img src="modulo4/48_02_11.png" loading="lazy"/>
+			   <figcaption>A forma paramétrica desta curva pode ser encontrada com um raio qualquer <b>AC'</b> e o ângulo <b>CÂC' = &alpha;</b>. Defina a $\mathsf{ Circunf(A, AC'e ^ {m \alpha}) }$. O ponto <b>P</b> de interseção desta circunferência com o raio <b>AC'</b> determina um ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="510" name="sl">
+			   <label for="510"></label>
+			   <img src="modulo4/48_02_12.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao ponto <b>C'</b> é a espiral logarítmica.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/48_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-48a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-49.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

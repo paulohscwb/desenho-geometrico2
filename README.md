@@ -3885,7 +3885,7 @@
 			   <input type="radio" id="511" name="sl">
 			   <label for="511"></label>
 			   <img src="modulo4/49_01_01.png" loading="lazy"/>
-			   <figcaption>Defina o valor <b>m</b> e o raio inicial <b>r<sub>0</sub>.</figcaption>
+			   <figcaption>Defina o valor <b>m</b> e o raio inicial <b>r<sub>0</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="512" name="sl">

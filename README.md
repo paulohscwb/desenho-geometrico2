@@ -3878,6 +3878,116 @@
    <img src="modulo4/apostila_nova_2022b-48a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-49.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral hiperbólica usando sua equação polar.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="511" name="sl">
+			   <label for="511"></label>
+			   <img src="modulo4/49_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o valor <b>m</b> e o raio inicial <b>r<sub>0</sub>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="512" name="sl">
+			   <label for="512"></label>
+			   <img src="modulo4/49_01_02.png" loading="lazy"/>
+			   <figcaption>Construa o ângulo com amplitude fixa <b>m</b>, com vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="513" name="sl">
+			   <label for="513"></label>
+			   <img src="modulo4/49_01_03.png" loading="lazy"/>
+			   <figcaption>Defina a $\mathsf{ Circunf(A, {AC} \over {m}) }$. O ponto <b>P</b> de interseção desta circunferência com o raio <b>AC'</b> determina um ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="514" name="sl">
+			   <label for="514"></label>
+			   <img src="modulo4/49_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao valor <b>m</b> é a espiral hiperbólica.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/49_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-49a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma ciclóide simples, por pontos, usando uma circunferência geradora com raio de medida igual a 2cm.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="515" name="sl">
+			   <label for="515"></label>
+			   <img src="modulo4/49_02_01.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência próxima à margem da folha, e encontre os vértices do octógono inscrito nesta circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="516" name="sl">
+			   <label for="516"></label>
+			   <img src="modulo4/49_02_02.png" loading="lazy"/>
+			   <figcaption>Construa a reta tangente à circunferência que passa pelo ponto <b>A</b>, que será o início da ciclóide. Construa quatro segmentos consecutivos com medidas iguais ao diâmetro <b>d</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="517" name="sl">
+			   <label for="517"></label>
+			   <img src="modulo4/49_02_03.png" loading="lazy"/>
+			   <figcaption>Usando a aproximação de Arquimedes para retificação de circunferências, obtenha $\mathsf{ {d} \over {7}) }$ do quarto diâmetro construído. Logo, a distância <b>AB = 3d +</b> $\mathsf{ {d} \over {7}) }$ é aproximamente igual ao perímetro da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="518" name="sl">
+			   <label for="518"></label>
+			   <img src="modulo4/49_02_04.png" loading="lazy"/>
+			   <figcaption>Divida o segmento <b>AB</b> em 4 partes iguais. Os pontos <b>N</b>, <b>M</b> e <b>P</b> definem $\mathsf{ {1} \over {4}) }$, $\mathsf{ {1} \over {2}) }$ e $\mathsf{ {3} \over {4}) }$ da trajetória da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="519" name="sl">
+			   <label for="519"></label>
+			   <img src="modulo4/49_02_05.png" loading="lazy"/>
+			   <figcaption>Divida os segmentos <b>AN</b>, <b>NM</b>, <b>MP</b> e <b>PB</b> ao meio. Os pontos <b>Q</b>, <b>R</b>, <b>S</b> e <b>T</b> definem $\mathsf{ {1} \over {8}) }$, $\mathsf{ {3} \over {8}) }$, $\mathsf{ {5} \over {8}) }$ e $\mathsf{ {7} \over {8}) }$ da trajetória da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="520" name="sl">
+			   <label for="520"></label>
+			   <img src="modulo4/49_02_06.png" loading="lazy"/>
+			   <figcaption>As retas <b>CD</b>, <b>GH</b> e <b>EF</b> definem os pontos da trajetória da ciclóide. A interseção da circunferência que passa por <b>Q</b> com a reta <b>CD</b> define o primeiro ponto da curva ciclóide (ângulo de 45&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="521" name="sl">
+			   <label for="521"></label>
+			   <img src="modulo4/49_02_07.png" loading="lazy"/>
+			   <figcaption>A interseção da circunferência que passa por <b>N</b> com a reta <b>GH</b> define o segundo ponto da curva ciclóide (ângulo de 90&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="522" name="sl">
+			   <label for="522"></label>
+			   <img src="modulo4/49_02_08.png" loading="lazy"/>
+			   <figcaption>A interseção da circunferência que passa por <b>R</b> com a reta <b>EF</b> define o terceiro ponto da ciclóide (ângulo de 135&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="523" name="sl">
+			   <label for="523"></label>
+			   <img src="modulo4/49_02_09.png" loading="lazy"/>
+			   <figcaption>O ponto <b>A<sub>4</sub></b> corresponde à metade da trajetória (ângulo de 180&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="524" name="sl">
+			   <label for="524"></label>
+			   <img src="modulo4/49_02_10.png" loading="lazy"/>
+			   <figcaption>A interseção da circunferência que passa por <b>S</b> com a reta <b>EF</b> define o quinto ponto da ciclóide (ângulo de 225&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="525" name="sl">
+			   <label for="525"></label>
+			   <img src="modulo4/49_02_11.png" loading="lazy"/>
+			   <figcaption>A interseção da circunferência que passa por <b>P</b> com a reta <b>GH</b> define o sexto ponto da ciclóide (ângulo de 270&deg;).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="526" name="sl">
+			   <label for="526"></label>
+			   <img src="modulo4/49_02_12.png" loading="lazy"/>
+			   <figcaption>A interseção da circunferência que passa por <b>T</b> com a reta <b>CD</b> define o sétimo ponto da ciclóide (ângulo de 315&deg;). O último ponto da ciclóide é <b>B</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/49_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-49b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-50.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

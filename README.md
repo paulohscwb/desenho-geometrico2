@@ -3990,6 +3990,10 @@
    <img src="modulo4/apostila_nova_2022b-49b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-50.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-50a.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-50b.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-50c.png" loading="lazy"/>
+   <img src="modulo4/apostila_nova_2022b-50d.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-51.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

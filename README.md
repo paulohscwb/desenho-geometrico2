@@ -3778,7 +3778,7 @@
 			   <input type="radio" id="496" name="sl">
 			   <label for="496"></label>
 			   <img src="modulo4/47_03_07.png" loading="lazy"/>
-			   <figcaption>A forma paramétrica desta curva pode ser encontrada com um raio qualquer <b>AC'</b> e o ângulo <b>CÂC' = &alpha;.</figcaption>
+			   <figcaption>A forma paramétrica desta curva pode ser encontrada com um raio qualquer <b>AC'</b> e o ângulo <b>CÂC' = &alpha;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="497" name="sl">

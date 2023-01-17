@@ -3326,6 +3326,152 @@
   </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-44.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a Homotetia para construir um quadrado com a diferença de medidas entre a diagonal e o lado igual a <b>m</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="433" name="sl">
+			   <label for="433"></label>
+			   <img src="modulo4/44_01_01.png" loading="lazy"/>
+			   <figcaption>Considerando o quadrado construído, defina a diferença entre as medidas da diagonal <b>AC</b> e de um lado<b>AN = n</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="434" name="sl">
+			   <label for="434"></label>
+			   <img src="modulo4/44_01_02.png" loading="lazy"/>
+			   <figcaption>Usando o vértice <b>A</b> com centro de homotetia, encontre o ponto <b>M</b> tal que <b>AM = m</b> e <b>M &isin; AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="435" name="sl">
+			   <label for="435"></label>
+			   <img src="modulo4/44_01_03.png" loading="lazy"/>
+			   <figcaption>Como todos os quadrados são semelhantes entre sim, podemos definir os triângulos semelhantes <b>&#9651;ABN</b> e <b>&#9651;AB'M</b>. Logo, definimos o vértice <b>B'</b> do quadrado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="436" name="sl">
+			   <label for="436"></label>
+			   <img src="modulo4/44_01_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>B'C' // BC</b>. Como os triângulos <b>&#9651;ABC</b> e <b>&#9651;AB'C'</b> são semelhantes, o vértice <b>C' &isin; AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="437" name="sl">
+			   <label for="437"></label>
+			   <img src="modulo4/44_01_05.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>C'D' // CD</b>. O vértice <b>D' &isin; AD</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/44_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-44a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a Homotetia para construir um heptágono regular com a medida do apótema <b>a</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="438" name="sl">
+			   <label for="438"></label>
+			   <img src="modulo4/44_02_01.png" loading="lazy"/>
+			   <figcaption>Considerando o heptágono dado, vamos construir o apótema. Para determinar o centro do heptágono, construa as mediatrizes de dois lados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="439" name="sl">
+			   <label for="439"></label>
+			   <img src="modulo4/44_02_02.png" loading="lazy"/>
+			   <figcaption>O segmento <b>OM = a'</b> é o apótema do heptágono dado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="440" name="sl">
+			   <label for="440"></label>
+			   <img src="modulo4/44_02_03.png" loading="lazy"/>
+			   <figcaption>Usando o centro de homotetia <b>O' &equiv; O</b>, defina a <b>Circunf(O, a)</b> e os pontos <b>M'</b> e <b>M''</b> nas mediatrizes construídas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="441" name="sl">
+			   <label for="441"></label>
+			   <img src="modulo4/44_02_04.png" loading="lazy"/>
+			   <figcaption>Como os triângulos <b>&#9651;ABO</b> e <b>&#9651;A'B'O</b> são semelhantes, os vértices <b>A'</b> e <b>B'</b> pertencem às retas <b>OA</b> e <b>OB</b>, e temos também que <b>A'B' // AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="442" name="sl">
+			   <label for="442"></label>
+			   <img src="modulo4/44_02_05.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>A'G' // AG</b>. O vértice <b>G' &isin; OG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="443" name="sl">
+			   <label for="443"></label>
+			   <img src="modulo4/44_02_06.png" loading="lazy"/>
+			   <figcaption>Construa a <b>Circunf(O, OA')</b>, definindo os vértices <b>F'</b>, <b>E'</b>, <b>D'</b> e <b>C'</b> nos respectivos raios <b>OF</b>, <b>OE</b>, <b>OD</b> e <b>OC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="444" name="sl">
+			   <label for="444"></label>
+			   <img src="modulo4/44_02_07.png" loading="lazy"/>
+			   <figcaption>Construa os lados do heptágono.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/44_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-44b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a Homotetia para construir um hexágono regular com a medida da diagonal menor igual a <b>d</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="445" name="sl">
+			   <label for="445"></label>
+			   <img src="modulo4/44_03_01.png" loading="lazy"/>
+			   <figcaption>Vamos construir um hexágono regular a partir de uma circunferência de raio <b>OA</b> qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="446" name="sl">
+			   <label for="446"></label>
+			   <img src="modulo4/44_03_02.png" loading="lazy"/>
+			   <figcaption>A partir do ponto <b>A</b> qualquer, defina os pontos <b>B</b> e <b>C</b> na circunferência, tais que <b>AB = AF = OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="447" name="sl">
+			   <label for="447"></label>
+			   <img src="modulo4/44_03_03.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio, defina os outros vértices do hexágono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="448" name="sl">
+			   <label for="448"></label>
+			   <img src="modulo4/44_03_04.png" loading="lazy"/>
+			   <figcaption>Construa uma diagonal menor <b>d'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="449" name="sl">
+			   <label for="449"></label>
+			   <img src="modulo4/44_03_05.png" loading="lazy"/>
+			   <figcaption>Usando um vértice como centro de homotetia, construa o segmento <b>A'C' = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="450" name="sl">
+			   <label for="450"></label>
+			   <img src="modulo4/44_03_06.png" loading="lazy"/>
+			   <figcaption>Como os triângulos <b>&#9651;AB'C'</b> e <b>&#9651;ABC</b> são semelhantes, defina o vértice <b>B' &isin; AB</b>, tal que <b>B'C' // BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="451" name="sl">
+			   <label for="451"></label>
+			   <img src="modulo4/44_03_07.png" loading="lazy"/>
+			   <figcaption>Como os triângulos <b>&#9651;O'A'B'</b> e <b>&#9651;OAB</b> são semelhantes, defina o centro <b>O' &isin; OA</b>, tal que <b>O'B' // OB</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="452" name="sl">
+			   <label for="452"></label>
+			   <img src="modulo4/44_03_08.png" loading="lazy"/>
+			   <figcaption>Construa a <b>Circunf(O', O'A')</b> e defina os vértices <b>F' &isin; AF</b> e <b>D' &isin; AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="453" name="sl">
+			   <label for="453"></label>
+			   <img src="modulo4/44_03_09.png" loading="lazy"/>
+			   <figcaption>Prolongando-se o segmento <b>O'B'</b>, definimos o vértice <b>E'</b>. Construa os lados do hexágono.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/44_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-45.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

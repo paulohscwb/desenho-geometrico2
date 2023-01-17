@@ -3474,6 +3474,152 @@
   </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-45.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Usaremos a Homotetia para construir um triângulo inscrito no triângulo <b>&#9651;ABC</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="454" name="sl">
+			   <label for="454"></label>
+			   <img src="modulo4/45_01_01.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>r' // r</b> que intersecta dois lados di triângulo <b>&#9651;ABC</b> nos pontos <b>X'</b> e <b>Y'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="455" name="sl">
+			   <label for="455"></label>
+			   <img src="modulo4/45_01_02.png" loading="lazy"/>
+			   <figcaption>Construa o <b>&#9651;X'Y'Z'</b> tal que <b>X'Z' // t</b> e <b>Y'Z' // s</b>. Agora falta inserir o vértice <b>Z'</b> no lado <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="456" name="sl">
+			   <label for="456"></label>
+			   <img src="modulo4/45_01_03.png" loading="lazy"/>
+			   <figcaption>Usando o centro de homotetia <b>H &equiv; A</b>, defina o ponto <b>Z &isin; AZ'</b> e <b>Z &isin; BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="457" name="sl">
+			   <label for="457"></label>
+			   <img src="modulo4/45_01_04.png" loading="lazy"/>
+			   <figcaption>Construa o triângulo <b>&#9651;XYZ</b> tal que <b>XZ // X'Z'</b>, <b>XY // X'Y'</b> e <b>YZ // Y'Z'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/45_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-45a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Usaremos a Homotetia para construir um quadrado inscrito em um setor circular.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="458" name="sl">
+			   <label for="458"></label>
+			   <img src="modulo4/45_02_01.png" loading="lazy"/>
+			   <figcaption>No primeiro exemplo, vamos considerar que um dos lados do quadrado pertence a um raio do setor circular. Considere o ponto <b>X' &isin; AB</b> e o vértice <b>Y' &isin; AC</b> tal que <b>X'Y' &perp; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="459" name="sl">
+			   <label for="459"></label>
+			   <img src="modulo4/45_02_02.png" loading="lazy"/>
+			   <figcaption>Defina o lado <b>Y'Z' // AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="460" name="sl">
+			   <label for="460"></label>
+			   <img src="modulo4/45_02_03.png" loading="lazy"/>
+			   <figcaption>... e finalize o quadrado com <b>Z'W' &perp; AB</b>. Falta inserir o vértice <b>Z'</b> no arco do setor circular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="461" name="sl">
+			   <label for="461"></label>
+			   <img src="modulo4/45_02_04.png" loading="lazy"/>
+			   <figcaption>Considere o centro de homotetia <b>A &equiv; H</b> e defina o ponto <b>Z &isin; AZ'</b> no arco do setor circular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="462" name="sl">
+			   <label for="462"></label>
+			   <img src="modulo4/45_02_05.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>ZW &perp; AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="463" name="sl">
+			   <label for="463"></label>
+			   <img src="modulo4/45_02_06.png" loading="lazy"/>
+			   <figcaption>... o lado <b>YZ // AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="464" name="sl">
+			   <label for="464"></label>
+			   <img src="modulo4/45_02_07.png" loading="lazy"/>
+			   <figcaption>... e finalize o quadrado construindo <b>XY // X'Y'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="465" name="sl">
+			   <label for="465"></label>
+			   <img src="modulo4/45_02_08.png" loading="lazy"/>
+			   <figcaption>No segundo exemplo, vamos considerar que um dos lados do quadrado contém os vértices equidistantes ao vértice do setor circular. Considere os pontos <b>X' &isin; AB</b> e  <b>Y' &isin; AC</b> tais que <b>X'A = Y'A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="466" name="sl">
+			   <label for="466"></label>
+			   <img src="modulo4/45_02_09.png" loading="lazy"/>
+			   <figcaption>Construa o lado <b>Y'Z' &perp; X'Y'</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="467" name="sl">
+			   <label for="467"></label>
+			   <img src="modulo4/45_02_10.png" loading="lazy"/>
+			   <figcaption>... e finalize o quadrado com <b>X'W' // Y'Z'</b> e <b>Z'W' // X'Y'</b>. Falta inserir os vértices <b>Z'</b> e <b>W'</b> no arco do setor circular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="468" name="sl">
+			   <label for="468"></label>
+			   <img src="modulo4/45_02_11.png" loading="lazy"/>
+			   <figcaption>Considere o centro de homotetia <b>A &equiv; H</b> e defina os pontos <b>Z &isin; AZ'</b> e <b>W &isin; AW'</b> no arco do setor circular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="469" name="sl">
+			   <label for="469"></label>
+			   <img src="modulo4/45_02_12.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>YZ &perp; ZW</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="470" name="sl">
+			   <label for="470"></label>
+			   <img src="modulo4/45_02_13.png" loading="lazy"/>
+			   <figcaption>... e finalize o quadrado com <b>XY // ZW</b> e <b>XW // YZ</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/45_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-45b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Usaremos a Homotetia para construir um losango inscrito no triângulo <b>&#9651;ABC</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="471" name="sl">
+			   <label for="471"></label>
+			   <img src="modulo4/45_03_01.png" loading="lazy"/>
+			   <figcaption>Como os lados de um losango são iguais, encontre os pontos <b>X' &isin; BC</b> e <b>Y' &isin; AC</b> tais que <b>CX' = CY'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="472" name="sl">
+			   <label for="472"></label>
+			   <img src="modulo4/45_03_02.png" loading="lazy"/>
+			   <figcaption>Construa os lados do losango: <b>X'Z' // Y'C</b> e <b>Y'Z' // X'C</b>. Agora falta inserir o vértice <b>Z'</b> no lado <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="473" name="sl">
+			   <label for="473"></label>
+			   <img src="modulo4/45_03_03.png" loading="lazy"/>
+			   <figcaption>Usando o centro de homotetia <b>H &equiv; C</b>, defina o ponto <b>Z &isin; CZ'</b> e <b>Z &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="474" name="sl">
+			   <label for="474"></label>
+			   <img src="modulo4/45_03_04.png" loading="lazy"/>
+			   <figcaption>Construa o losango tal que <b>XZ // X'Z'</b> e <b>ZY // Z'Y'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/45_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-46.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

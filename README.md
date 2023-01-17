@@ -3481,7 +3481,7 @@
 			   <input type="radio" id="454" name="sl">
 			   <label for="454"></label>
 			   <img src="modulo4/45_01_01.png" loading="lazy"/>
-			   <figcaption>Construa a reta <b>r' // r</b> que intersecta dois lados di triângulo <b>&#9651;ABC</b> nos pontos <b>X'</b> e <b>Y'</b>.</figcaption>
+			   <figcaption>Construa a reta <b>r' // r</b> que intersecta dois lados do triângulo <b>&#9651;ABC</b> nos pontos <b>X'</b> e <b>Y'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="455" name="sl">

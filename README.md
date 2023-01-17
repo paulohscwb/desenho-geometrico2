@@ -3654,7 +3654,7 @@
 			   <input type="radio" id="479" name="sl">
 			   <label for="479"></label>
 			   <img src="modulo4/46_02_05.png" loading="lazy"/>
-			   <figcaption>Construa o quadrado: <b>AD // Y'Z'</b> e <b>CD // OZ'</b>...</figcaption>
+			   <figcaption>Construa o quadrado: <b>AD // Y'Z'</b>, <b>CD // OZ'</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="480" name="sl">
@@ -3691,7 +3691,7 @@
 			   <input type="radio" id="484" name="sl">
 			   <label for="484"></label>
 			   <img src="modulo4/46_03_04.png" loading="lazy"/>
-			   <figcaption>Construa o retângulo: <b>AD // A'2</b> e <b>CD // A'3</b>...</figcaption>
+			   <figcaption>Construa o retângulo: <b>AD // A'2</b>, <b>CD // A'3</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="485" name="sl">
@@ -3704,6 +3704,97 @@
   </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-47.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Usaremos a Homotetia para construir um triângulo equilátero inscrito em uma parábola.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="486" name="sl">
+			   <label for="486"></label>
+			   <img src="modulo4/47_01_01.png" loading="lazy"/>
+			   <figcaption>Encontre o vértice <b>B'</b> tal que <b>A<sub>2</sub>B'</b> forme ângulo de 30&deg; com o eixo da parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="487" name="sl">
+			   <label for="487"></label>
+			   <img src="modulo4/47_01_02.png" loading="lazy"/>
+			   <figcaption>Construa os lados do triângulo equilátero: <b>A<sub>2</sub>C'</b> forma 30&deg; com o eixo e <b>A<sub>2</sub>C' = A<sub>2</sub>B'</b>. Agora falta inserir os vértices <b>B'</b> e <b>C'</b> na parábola.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="488" name="sl">
+			   <label for="488"></label>
+			   <img src="modulo4/47_01_03.png" loading="lazy"/>
+			   <figcaption>Usando o centro de homotetia <b>H &equiv; A<sub>2</sub></b>, defina o ponto <b>B &isin; A<sub>2</sub>B'</b> na parábola. Temos o primeiro vértice do triângulo equilátero inscrito.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="489" name="sl">
+			   <label for="489"></label>
+			   <img src="modulo4/47_01_04.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; A<sub>2</sub>C'</b> na parábola, determinando o triângulo equilátero inscrito na cônica.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/47_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-47a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral de Arquimedes por pontos. Usaremos 8 pontos neste exemplo.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="490" name="sl">
+			   <label for="490"></label>
+			   <img src="modulo4/47_03_01.png" loading="lazy"/>
+			   <figcaption>Obtenha os vértices de um octógono regular inscrito na circunferência: os ângulos centrais medem 45&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="491" name="sl">
+			   <label for="491"></label>
+			   <img src="modulo4/47_03_02.png" loading="lazy"/>
+			   <figcaption>Divida um dos raios em 8 partes iguais, usando o teorema de Tales. Assim, encontramos os pontos <b>A<sub>1</sub></b>, <b>A<sub>2</sub></b>, ..., <b>A<sub>7</sub></b> no raio <b>AC</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="492" name="sl">
+			   <label for="492"></label>
+			   <img src="modulo4/47_03_03.png" loading="lazy"/>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>1</sub></b>: A interseção deste arco com o primeiro raio <b>AC<sub>1</sub></b> é o primeiro ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="493" name="sl">
+			   <label for="493"></label>
+			   <img src="modulo4/47_03_04.png" loading="lazy"/>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>2</sub></b>: A interseção deste arco com o segundo raio <b>AC<sub>2</sub></b> é o segundo ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="494" name="sl">
+			   <label for="494"></label>
+			   <img src="modulo4/47_03_05.png" loading="lazy"/>
+			   <figcaption>Defina o arco com centro em <b>A</b> e raio <b>AA<sub>3</sub></b>: A interseção deste arco com o terceiro raio <b>AC<sub>3</sub></b> é o terceiro ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="495" name="sl">
+			   <label for="495"></label>
+			   <img src="modulo4/47_03_06.png" loading="lazy"/>
+			   <figcaption>Usando o mesmo raciocínio, encontramos os demais pontos da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="496" name="sl">
+			   <label for="496"></label>
+			   <img src="modulo4/47_03_07.png" loading="lazy"/>
+			   <figcaption>A forma paramétrica desta curva pode ser encontrada com um raio qualquer <b>AC'</b> e o ângulo <b>CÂC' = &alpha;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="497" name="sl">
+			   <label for="497"></label>
+			   <img src="modulo4/47_03_08.png" loading="lazy"/>
+			   <figcaption>Defina a $\mathsf{ Circunf{ (A, {AC' &alpha;} \over {2 &pi;}} }$. O ponto <b>P</b> de interseção desta circunferência com o raio <b>AC'</b> determina um ponto da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="498" name="sl">
+			   <label for="498"></label>
+			   <img src="modulo4/47_03_09.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao ponto <b>C'</b> é a espiral de Arquimedes limitada à circunferência dada.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/47_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-48.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

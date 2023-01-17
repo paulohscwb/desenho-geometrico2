@@ -4009,7 +4009,7 @@
 			   <input type="radio" id="529" name="sl">
 			   <label for="529"></label>
 			   <img src="modulo4/50_01_03.png" loading="lazy"/>
-			   <figcaption>A fração da trajetória <b>AA'</b> está em uma correspondência proporcional ao ângulo de 360&deg;. Usando a regra de três, temos que $\mathsf{ { {\alpha} \over {AA'} } = {2 \pi} \over {2 \pi \cdot OA} }$.</figcaption>
+			   <figcaption>A fração da trajetória <b>AA'</b> está em uma correspondência proporcional ao ângulo de 360&deg;. Usando a regra de três, temos que $\mathsf{ { {\alpha} \over {AA'} } = { {2 \pi} \over {2 \pi \cdot OA} } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="530" name="sl">
@@ -4076,32 +4076,32 @@
 	<p>Vamos construir uma ciclóide usando uma rotação, com um pentágono regular estrelado giratório.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="533" name="sl">
-			   <label for="533"></label>
+			   <input type="radio" id="538" name="sl">
+			   <label for="538"></label>
 			   <img src="modulo4/50_02_01.png" loading="lazy"/>
 			   <figcaption>Usando os elementos mostrados nos dois exemplos anteriores, construa uma ciclóide simples com o ângulo <b>&alpha;</b> na circunferência de centro <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="534" name="sl">
-			   <label for="534"></label>
+			   <input type="radio" id="539" name="sl">
+			   <label for="539"></label>
 			   <img src="modulo4/50_02_02.png" loading="lazy"/>
 			   <figcaption>Defina o ângulo central do pentágono a partir da extremidade móvel <b>A''</b> da circunferência de centro <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="535" name="sl">
-			   <label for="535"></label>
+			   <input type="radio" id="540" name="sl">
+			   <label for="540"></label>
 			   <img src="modulo4/50_02_03.png" loading="lazy"/>
 			   <figcaption>Construa os demais vértices do pentágono...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="536" name="sl">
-			   <label for="536"></label>
+			   <input type="radio" id="541" name="sl">
+			   <label for="541"></label>
 			   <img src="modulo4/50_02_04.png" loading="lazy"/>
 			   <figcaption>... e defina os lados do pentágono regular estrelado.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="537" name="sl">
-			   <label for="537"></label>
+			   <input type="radio" id="542" name="sl">
+			   <label for="542"></label>
 			   <img src="modulo4/50_02_05.png" loading="lazy"/>
 			   <figcaption>Ao movimentar a circunferência, os vértices e lados do pentágono movimentam-se junto. Experimente definir os lugares geométricos dos vértices do pentágono em relação ao ponto <b>A'</b>.</figcaption>
 		   </li>

@@ -3748,7 +3748,7 @@
 			   <input type="radio" id="491" name="sl">
 			   <label for="491"></label>
 			   <img src="modulo4/47_03_02.png" loading="lazy"/>
-			   <figcaption>Divida um dos raios em 8 partes iguais, usando o teorema de Tales. Assim, encontramos os pontos <b>A<sub>1</sub></b>, <b>A<sub>2</sub></b>, ..., <b>A<sub>7</sub></b> no raio <b>AC</b></figcaption>
+			   <figcaption>Divida um dos raios <b>AC = r<sub>0</sub></b> em 8 partes iguais, usando o teorema de Tales. Assim, encontramos os pontos <b>A<sub>1</sub></b>, <b>A<sub>2</sub></b>, ..., <b>A<sub>7</sub></b> no raio <b>AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="492" name="sl">
@@ -3784,7 +3784,7 @@
 			   <input type="radio" id="497" name="sl">
 			   <label for="497"></label>
 			   <img src="modulo4/47_03_08.png" loading="lazy"/>
-			   <figcaption>Defina a $\mathsf{ Circunf{ (A, {AC' &alpha;} \over {2 &pi;}} }$. O ponto <b>P</b> de interseção desta circunferência com o raio <b>AC'</b> determina um ponto da espiral.</figcaption>
+			   <figcaption>Defina a $\mathsf{ Circunf(A, { {AC'\cdot \alpha} \over {2 \pi}}) }$. O ponto <b>P</b> de interseção desta circunferência com o raio <b>AC'</b> determina um ponto da espiral.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="498" name="sl">

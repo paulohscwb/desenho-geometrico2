@@ -3333,19 +3333,19 @@
 			   <input type="radio" id="433" name="sl">
 			   <label for="433"></label>
 			   <img src="modulo4/44_01_01.png" loading="lazy"/>
-			   <figcaption>Considerando o quadrado construído, defina a diferença entre as medidas da diagonal <b>AC</b> e de um lado<b>AN = n</b>.</figcaption>
+			   <figcaption>Considerando o quadrado construído, defina a diferença entre as medidas da diagonal <b>AC</b> e de um lado <b>AN = n</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="434" name="sl">
 			   <label for="434"></label>
 			   <img src="modulo4/44_01_02.png" loading="lazy"/>
-			   <figcaption>Usando o vértice <b>A</b> com centro de homotetia, encontre o ponto <b>M</b> tal que <b>AM = m</b> e <b>M &isin; AC</b>.</figcaption>
+			   <figcaption>Usando o vértice <b>A</b> como centro de homotetia, encontre o ponto <b>M</b> tal que <b>AM = m</b> e <b>M &isin; AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="435" name="sl">
 			   <label for="435"></label>
 			   <img src="modulo4/44_01_03.png" loading="lazy"/>
-			   <figcaption>Como todos os quadrados são semelhantes entre sim, podemos definir os triângulos semelhantes <b>&#9651;ABN</b> e <b>&#9651;AB'M</b>. Logo, definimos o vértice <b>B'</b> do quadrado.</figcaption>
+			   <figcaption>Como todos os quadrados são semelhantes entre si, podemos definir os triângulos semelhantes <b>&#9651;ABN</b> e <b>&#9651;AB'M</b>. Logo, definimos o vértice <b>B'</b> do quadrado com o segmento <b>B'M // BN</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="436" name="sl">

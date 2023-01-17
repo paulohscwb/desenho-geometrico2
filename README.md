@@ -3990,9 +3990,124 @@
    <img src="modulo4/apostila_nova_2022b-49b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-50.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma ciclóide usando uma rotação.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="527" name="sl">
+			   <label for="527"></label>
+			   <img src="modulo4/50_01_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>O</b> e raio <b>OA</b>. Trace a reta <b>r</b> tangente a esta circunferência pelo ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="528" name="sl">
+			   <label for="528"></label>
+			   <img src="modulo4/50_01_02.png" loading="lazy"/>
+			   <figcaption>Usando um ponto qualquer <b>A' &isin; r</b>, construa a circunferência com raio <b>O'A' = OA</b> tangente à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="529" name="sl">
+			   <label for="529"></label>
+			   <img src="modulo4/50_01_03.png" loading="lazy"/>
+			   <figcaption>A fração da trajetória <b>AA'</b> está em uma correspondência proporcional ao ângulo de 360&deg;. Usando a regra de três, temos que $\mathsf{ { {\alpha} \over {AA'} } = {2 \pi} \over {2 \pi \cdot OA} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="530" name="sl">
+			   <label for="530"></label>
+			   <img src="modulo4/50_01_04.png" loading="lazy"/>
+			   <figcaption>Logo, temos que $\mathsf{ \alpha = { {AA'} \over {OA} } }$ .</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="531" name="sl">
+			   <label for="531"></label>
+			   <img src="modulo4/50_01_05.png" loading="lazy"/>
+			   <figcaption>Defina a rotação do ponto <b>A'</b> feita por meio do ângulo de amplitude fixa <b>&alpha;</b> e vértice <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="532" name="sl">
+			   <label for="532"></label>
+			   <img src="modulo4/50_01_06.png" loading="lazy"/>
+			   <figcaption>A ciclóide é o lugar geométrico da extremidade do ângulo <b>&alpha;</b>, ou seja, do ponto <b>A''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/50_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-50a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma ciclóide encurtada usando uma rotação.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="533" name="sl">
+			   <label for="533"></label>
+			   <img src="modulo4/50_02_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>O</b> e raio <b>OA</b>. Trace a reta <b>r</b> tangente a esta circunferência pelo ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="534" name="sl">
+			   <label for="534"></label>
+			   <img src="modulo4/50_02_02.png" loading="lazy"/>
+			   <figcaption>Usando um ponto qualquer <b>A' &isin; r</b>, construa a circunferência com raio <b>O'A' = OA</b> tangente à reta <b>r</b>. Defina os pontos <b>P</b> e <b>P'</b> pertencentes aos raios <b>OA</b> e <b>O'A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="535" name="sl">
+			   <label for="535"></label>
+			   <img src="modulo4/50_02_03.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo $\mathsf{ \alpha = { {AA'} \over {OA} } }$ .</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="536" name="sl">
+			   <label for="536"></label>
+			   <img src="modulo4/50_02_04.png" loading="lazy"/>
+			   <figcaption>Defina a rotação do ponto <b>P'</b> feita por meio do ângulo de amplitude fixa <b>&alpha;</b> e vértice <b>O'</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="537" name="sl">
+			   <label for="537"></label>
+			   <img src="modulo4/50_02_05.png" loading="lazy"/>
+			   <figcaption>A ciclóide é o lugar geométrico da extremidade do ângulo <b>&alpha;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/50_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-50b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.2</span></div>
    <img src="modulo4/apostila_nova_2022b-50c.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma ciclóide usando uma rotação, com um pentágono regular estrelado giratório.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="533" name="sl">
+			   <label for="533"></label>
+			   <img src="modulo4/50_02_01.png" loading="lazy"/>
+			   <figcaption>Usando os elementos mostrados nos dois exemplos anteriores, construa uma ciclóide simples com o ângulo <b>&alpha;</b> na circunferência de centro <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="534" name="sl">
+			   <label for="534"></label>
+			   <img src="modulo4/50_02_02.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central do pentágono a partir da extremidade móvel <b>A''</b> da circunferência de centro <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="535" name="sl">
+			   <label for="535"></label>
+			   <img src="modulo4/50_02_03.png" loading="lazy"/>
+			   <figcaption>Construa os demais vértices do pentágono...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="536" name="sl">
+			   <label for="536"></label>
+			   <img src="modulo4/50_02_04.png" loading="lazy"/>
+			   <figcaption>... e defina os lados do pentágono regular estrelado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="537" name="sl">
+			   <label for="537"></label>
+			   <img src="modulo4/50_02_05.png" loading="lazy"/>
+			   <figcaption>Ao movimentar a circunferência, os vértices e lados do pentágono movimentam-se junto. Experimente definir os lugares geométricos dos vértices do pentágono em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/50_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-50d.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-51.png" loading="lazy"/>

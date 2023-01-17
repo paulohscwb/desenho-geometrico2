@@ -3251,6 +3251,79 @@
    <img src="modulo4/apostila_nova_2022b-42.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-43.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a Homotetia para multiplicar uma circunferência, usando o centro de homotetia <b>H</b> e as razões indicadas.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="424" name="sl">
+			   <label for="424"></label>
+			   <img src="modulo4/43_02_01.png" loading="lazy"/>
+			   <figcaption>Usando o teorema de Tales, vamos encontrar o centro <b>O'</b> com a razão $\mathsf{ {O'H \over OH} = -{2 \over 3}}$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="425" name="sl">
+			   <label for="425"></label>
+			   <img src="modulo4/43_02_02.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>O'2 // H3</b> para determinar o centro <b>O'</b> da circunferência multiplicada pela razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="426" name="sl">
+			   <label for="426"></label>
+			   <img src="modulo4/43_02_03.png" loading="lazy"/>
+			   <figcaption>O raio <b>O'A'</b> é determinado construindo <b>O'A' // OA</b>. O ponto <b>A'</b> pertence à reta <b>AH</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="427" name="sl">
+			   <label for="427"></label>
+			   <img src="modulo4/43_02_04.png" loading="lazy"/>
+			   <figcaption>Para encontrar a circunferência multiplicada com a razão $\mathsf{ {1 \over 2}}$, podemos encontrar o ponto médio do segmento <b>OH</b>, que define o centro da circunferência multiplicada pela razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="428" name="sl">
+			   <label for="428"></label>
+			   <img src="modulo4/43_02_05.png" loading="lazy"/>
+			   <figcaption>O segmento que define o raio <b>O''A''</b> é paralelo a <b>OA</b>, e <b>A'' &isin; AH</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="429" name="sl">
+			   <label for="429"></label>
+			   <img src="modulo4/43_02_06.png" loading="lazy"/>
+			   <figcaption>A circunferência multiplicada na razão <b>k = -1</b> é simétrica em relação ao centro de homotetia <b>H</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/43_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo4/apostila_nova_2022b-43a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a Homotetia para construir um pentágono regular com medida do lado <b>m</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="429" name="sl">
+			   <label for="429"></label>
+			   <img src="modulo4/43_03_01.png" loading="lazy"/>
+			   <figcaption>Podemos escolher qualquer vértice como centro de homotetia. Considere o ponto <b>A &equiv; A'</b> e determine <b>A'B' = m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="430" name="sl">
+			   <label for="430"></label>
+			   <img src="modulo4/43_03_02.png" loading="lazy"/>
+			   <figcaption>Determine o segmento <b>A'E' = m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="431" name="sl">
+			   <label for="431"></label>
+			   <img src="modulo4/43_03_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>B'C' // BC</b>. Como os triângulos <b>&9651;ABC</b> e <b>&9651;A'B'C'</b> são semelhantes, o vértice <b>C' &isin; AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="432" name="sl">
+			   <label for="432"></label>
+			   <img src="modulo4/43_03_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>C'D' // CD</b>. Como os triângulos <b>&9651;ACD</b> e <b>&9651;A'C'D'</b> são semelhantes, o vértice <b>D' &isin; AD</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/43_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-44.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

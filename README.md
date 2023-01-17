@@ -3627,38 +3627,38 @@
 	<p>Usaremos a Homotetia para construir um quadrado inscrito em uma elipse.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="471" name="sl">
-			   <label for="471"></label>
+			   <input type="radio" id="475" name="sl">
+			   <label for="475"></label>
 			   <img src="modulo4/46_02_01.png" loading="lazy"/>
 			   <figcaption>Encontre os pontos <b>X'</b> e <b>Y'</b> nos diâmetros principais da elipse, tais que <b>OX' = OY'</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="472" name="sl">
-			   <label for="472"></label>
+			   <input type="radio" id="476" name="sl">
+			   <label for="476"></label>
 			   <img src="modulo4/46_02_02.png" loading="lazy"/>
 			   <figcaption>Construa os lados do quadrado: <b>X'Y' // OZ'</b> e <b>Y'Z' // OX'</b>. Agora falta inserir o vértice <b>Y'</b> na elipse.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="473" name="sl">
-			   <label for="473"></label>
+			   <input type="radio" id="477" name="sl">
+			   <label for="477"></label>
 			   <img src="modulo4/46_02_03.png" loading="lazy"/>
 			   <figcaption>Usando o centro de homotetia <b>H &equiv; O</b>, defina o ponto <b>A &isin; OY'</b> na elipse. Temos o primeiro vértice do quadrado inscrito.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="474" name="sl">
-			   <label for="474"></label>
+			   <input type="radio" id="478" name="sl">
+			   <label for="478"></label>
 			   <img src="modulo4/46_02_04.png" loading="lazy"/>
 			   <figcaption>Prolongando-se <b>OA</b>, temos o vértice <b>C</b> simétrico de <b>A</b> em relação ao centro da elipse.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="474" name="sl">
-			   <label for="474"></label>
+			   <input type="radio" id="479" name="sl">
+			   <label for="479"></label>
 			   <img src="modulo4/46_02_05.png" loading="lazy"/>
 			   <figcaption>Construa o quadrado: <b>AD // Y'Z'</b> e <b>CD // OZ'</b>...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="474" name="sl">
-			   <label for="474"></label>
+			   <input type="radio" id="480" name="sl">
+			   <label for="480"></label>
 			   <img src="modulo4/46_02_06.png" loading="lazy"/>
 			   <figcaption>... e <b>AB // CD</b>.</figcaption>
 		   </li>
@@ -3670,32 +3670,32 @@
 	<p>Usaremos a Homotetia para construir um retângulo inscrito em uma hipérbole.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="475" name="sl">
-			   <label for="475"></label>
+			   <input type="radio" id="481" name="sl">
+			   <label for="481"></label>
 			   <img src="modulo4/46_03_01.png" loading="lazy"/>
 			   <figcaption>Encontre os pontos <b>3</b> e <b>2</b> nos diâmetros principais da hipérbole, tais que $\mathsf{ {O2 \over O3} = {2 \over 3}}$.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="476" name="sl">
-			   <label for="476"></label>
+			   <input type="radio" id="482" name="sl">
+			   <label for="482"></label>
 			   <img src="modulo4/46_03_02.png" loading="lazy"/>
 			   <figcaption>Construa os lados do retângulo: <b>A'2 // O3</b> e <b>A'3 // O2</b>. Agora falta inserir o vértice <b>A'</b> na hipérbole.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="477" name="sl">
-			   <label for="477"></label>
+			   <input type="radio" id="483" name="sl">
+			   <label for="483"></label>
 			   <img src="modulo4/46_03_03.png" loading="lazy"/>
 			   <figcaption>Usando o centro de homotetia <b>H &equiv; O</b>, defina o ponto <b>A &isin; OA'</b> na hipérbole. Temos o primeiro vértice do retângulo inscrito. Prolongando-se <b>OA</b>, temos o vértice <b>C</b> simétrico de <b>A</b> em relação ao centro da hipérbole.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="478" name="sl">
-			   <label for="478"></label>
+			   <input type="radio" id="484" name="sl">
+			   <label for="484"></label>
 			   <img src="modulo4/46_03_04.png" loading="lazy"/>
 			   <figcaption>Construa o retângulo: <b>AD // A'2</b> e <b>CD // A'3</b>...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="479" name="sl">
-			   <label for="479"></label>
+			   <input type="radio" id="485" name="sl">
+			   <label for="485"></label>
 			   <img src="modulo4/46_03_05.png" loading="lazy"/>
 			   <figcaption>... e <b>AB // A'3</b>.</figcaption>
 		   </li>

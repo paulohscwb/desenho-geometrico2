@@ -3270,7 +3270,7 @@
 			   <input type="radio" id="426" name="sl">
 			   <label for="426"></label>
 			   <img src="modulo4/43_02_03.png" loading="lazy"/>
-			   <figcaption>O raio <b>O'A'</b> é determinado construindo <b>O'A' // OA</b>. O ponto <b>A'</b> pertence à reta <b>AH</b>. </figcaption>
+			   <figcaption>O raio <b>O'A'</b> é determinado construindo-se <b>O'A' // OA</b>. O ponto <b>A'</b> pertence à reta <b>AH</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="427" name="sl">
@@ -3298,8 +3298,8 @@
 	<p>Vamos usar a Homotetia para construir um pentágono regular com medida do lado <b>m</b>.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="429" name="sl">
-			   <label for="429"></label>
+			   <input type="radio" id="429a" name="sl">
+			   <label for="429a"></label>
 			   <img src="modulo4/43_03_01.png" loading="lazy"/>
 			   <figcaption>Podemos escolher qualquer vértice como centro de homotetia. Considere o ponto <b>A &equiv; A'</b> e determine <b>A'B' = m</b>.</figcaption>
 		   </li>
@@ -3313,13 +3313,13 @@
 			   <input type="radio" id="431" name="sl">
 			   <label for="431"></label>
 			   <img src="modulo4/43_03_03.png" loading="lazy"/>
-			   <figcaption>Construa o segmento <b>B'C' // BC</b>. Como os triângulos <b>&9651;ABC</b> e <b>&9651;A'B'C'</b> são semelhantes, o vértice <b>C' &isin; AC</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>B'C' // BC</b>. Como os triângulos <b>&#9651;ABC</b> e <b>&#9651;A'B'C'</b> são semelhantes, o vértice <b>C' &isin; AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="432" name="sl">
 			   <label for="432"></label>
 			   <img src="modulo4/43_03_04.png" loading="lazy"/>
-			   <figcaption>Construa o segmento <b>C'D' // CD</b>. Como os triângulos <b>&9651;ACD</b> e <b>&9651;A'C'D'</b> são semelhantes, o vértice <b>D' &isin; AD</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>C'D' // CD</b>. Como os triângulos <b>&#9651;ACD</b> e <b>&#9651;A'C'D'</b> são semelhantes, o vértice <b>D' &isin; AD</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo4/43_03_00.png" class="fundo" loading="lazy"/>

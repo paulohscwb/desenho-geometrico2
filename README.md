@@ -4111,6 +4111,48 @@
    <img src="modulo4/apostila_nova_2022b-50d.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-51.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma epiciclóide usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="543" name="sl">
+			   <label for="543"></label>
+			   <img src="modulo4/51_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos com a definição de um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="544" name="sl">
+			   <label for="544"></label>
+			   <img src="modulo4/51_01_02.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="545" name="sl">
+			   <label for="545"></label>
+			   <img src="modulo4/51_01_03.png" loading="lazy"/>
+			   <figcaption>Considerando que a epiciclóide começa no ponto <b>A</b>, quando a circunferência menor rolar tangenciando a maior até o ponto <b>A'</b>, o comprimento do arco AOA' (com amplitude <b>&alpha;</b>) será igual ao comprimento do arco A'O'A'' (com amplitude <b>&beta;</b>), ou seja, <b>&alpha; &middot;r = &beta;&middot;r'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="546" name="sl">
+			   <label for="546"></label>
+			   <img src="modulo4/51_01_04.png" loading="lazy"/>
+			   <figcaption>Logo, temos que $\mathsf{ \beta = { {\alpha \cdot r} \over {r'} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="547" name="sl">
+			   <label for="547"></label>
+			   <img src="modulo4/51_01_05.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>&beta;</b> na circunferência menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="548" name="sl">
+			   <label for="548"></label>
+			   <img src="modulo4/51_01_06.png" loading="lazy"/>
+			   <figcaption>A epiciclóide é o lugar geométrico da extremidade do ângulo <b>&beta;</b>, ou seja, do ponto <b>A''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51a.png" loading="lazy"/>
    <img src="modulo4/apostila_nova_2022b-51b.png" loading="lazy"/>
    <img src="modulo4/apostila_nova_2022b-51c.png" loading="lazy"/>

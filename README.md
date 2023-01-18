@@ -4212,7 +4212,7 @@
 			   <input type="radio" id="556" name="sl">
 			   <label for="556"></label>
 			   <img src="modulo4/51_04_02.png" loading="lazy"/>
-			   <figcaption>Defina o ângulo central do pentágono a partir da extremidade móvel <b>A'</b> da circunferência de centro <b>O'</b>.</figcaption>
+			   <figcaption>Defina o ângulo central do pentágono a partir da extremidade móvel <b>A''</b> da circunferência de centro <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="557" name="sl">
@@ -4374,7 +4374,7 @@
 			   <input type="radio" id="578" name="sl">
 			   <label for="578"></label>
 			   <img src="modulo4/51_11_02.png" loading="lazy"/>
-			   <figcaption>Construa as retas tangentes à circunferência nas extremidades do diâmetro <b>A'B'</b>. Escolha um ponto <b>A</b>em uma das retas construídas.</figcaption>
+			   <figcaption>Construa as retas tangentes à circunferência nas extremidades do diâmetro <b>A'B'</b>. Escolha um ponto <b>A</b> em uma das retas construídas.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="579" name="sl">
@@ -4386,7 +4386,7 @@
 			   <input type="radio" id="580" name="sl">
 			   <label for="580"></label>
 			   <img src="modulo4/51_11_04.png" loading="lazy"/>
-			   <figcaption>A projeção frontal do cilindro é o retângulo <b>ABCD</b> com <b>AB</b> igual ao diâmetro da base e <b>BC = h</b> sendo a altura do cilindro.</figcaption>
+			   <figcaption>A projeção frontal do cilindro é o retângulo <b>ABCD</b> com o segmento <b>AB</b> igual ao diâmetro da base e <b>BC = h</b> com a medida da altura do cilindro.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="581" name="sl">
@@ -4398,7 +4398,7 @@
 			   <input type="radio" id="582" name="sl">
 			   <label for="582"></label>
 			   <img src="modulo4/51_11_06.png" loading="lazy"/>
-			   <figcaption>Defina o ângulo central <b>&alpha; = P'OQ'</b> no sentido anti-horário. Construindo o segmento <b>QQ'</b> tal que <b>QQ' // AD</b> e <b>KQ // A'B'</b>, temos o ponto correspondente <b>Q'</b> da projeção superior da rotação de ângulo <b>&alpha;</b> da hélice cilíndrica, e <b>Q</b> será a projeção frontal deste mesmo ponto <b>Q'</b>.</figcaption>
+			   <figcaption>Defina o ângulo central paramétrico <b>&alpha; = P'OQ'</b> no sentido anti-horário. Construindo o segmento <b>QQ'</b> tal que <b>QQ' // AD</b> e <b>KQ // A'B'</b>, temos o ponto correspondente <b>Q'</b> da projeção superior da rotação de ângulo <b>&alpha;</b> da hélice cilíndrica, e <b>Q</b> será a projeção frontal deste mesmo ponto <b>Q'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="583" name="sl">
@@ -4417,6 +4417,60 @@
   </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-52.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as projeções frontal e superior de uma hélice cônica usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="585" name="sl">
+			   <label for="585"></label>
+			   <img src="modulo4/52_03_01.png" loading="lazy"/>
+			   <figcaption>Defina a projeção superior do cone: uma circunferência de centro <b>O</b> e raio <b>r = OA'</b>. Escolha um ponto <b>P</b> qualquer desta circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="586" name="sl">
+			   <label for="586"></label>
+			   <img src="modulo4/52_03_02.png" loading="lazy"/>
+			   <figcaption>Construa as retas tangentes à circunferência nas extremidades do diâmetro <b>A'B'</b>. Escolha um ponto <b>A</b> em uma das retas construídas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="587" name="sl">
+			   <label for="587"></label>
+			   <img src="modulo4/52_03_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>AB // A'B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="588" name="sl">
+			   <label for="588"></label>
+			   <img src="modulo4/52_03_04.png" loading="lazy"/>
+			   <figcaption>A projeção frontal do cone é o triângulo isósceles <b>VAB</b> com o segmento <b>AB</b> igual ao diâmetro da base e <b>VM = AD = h</b> com a medida da altura do cone.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="589" name="sl">
+			   <label for="589"></label>
+			   <img src="modulo4/52_03_05.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Considere o ponto <b>K &isin; AD</b>. Usando uma regra de três, temos que o segmento <b>KA</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha;</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot KA} \over {h} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="590" name="sl">
+			   <label for="590"></label>
+			   <img src="modulo4/52_03_06.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central paramétrico <b>&alpha; = P'OC'</b> no sentido anti-horário. Defina a projeção frontal de <b>C'</b> tal que <b>CC' // AD</b> e <b>C &isin; AB</b>. Logo, temos a geratriz <b>VC</b> com sua projeção superior <b>OC'</b>. Obtenha as projeções do ponto <b>R &isin; VC</b>, tal que <b>KR // AB</b>, <b>RR' // AD</b> e <b>R' &isin; OC'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="591" name="sl">
+			   <label for="591"></label>
+			   <img src="modulo4/52_03_07.png" loading="lazy"/>
+			   <figcaption>As projeções frontal e superior da hélice cônica são os lugares geométricos dos pontos <b>R</b> e <b>R'</b> em relação ao ponto <b>K</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="592" name="sl">
+			   <label for="592"></label>
+			   <img src="modulo4/52_03_08.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices. Podemos modificar também a posição do ponto <b>P'</b>, que define o início das projeções da curva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/52_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
 </details>
 

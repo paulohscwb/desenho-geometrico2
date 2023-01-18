@@ -4118,7 +4118,7 @@
 			   <input type="radio" id="543" name="sl">
 			   <label for="543"></label>
 			   <img src="modulo4/51_01_01.png" loading="lazy"/>
-			   <figcaption>Começamos com a definição de um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b>.</figcaption>
+			   <figcaption>Começamos com a definição de um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b> e raio <b>OA = r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="544" name="sl">
@@ -4130,7 +4130,7 @@
 			   <input type="radio" id="545" name="sl">
 			   <label for="545"></label>
 			   <img src="modulo4/51_01_03.png" loading="lazy"/>
-			   <figcaption>Considerando que a epiciclóide começa no ponto <b>A</b>, quando a circunferência menor rolar tangenciando a maior até o ponto <b>A'</b>, o comprimento do arco AOA' (com amplitude <b>&alpha;</b>) será igual ao comprimento do arco A'O'A'' (com amplitude <b>&beta;</b>), ou seja, <b>&alpha; &middot;r = &beta;&middot;r'</b>.</figcaption>
+			   <figcaption>Considerando que a epiciclóide começa no ponto <b>A</b>, quando a circunferência menor rolar tangenciando a circunferência maior até o ponto <b>A'</b>, o comprimento do arco <b>AOA'</b> (com amplitude <b>&alpha;</b>) será igual ao comprimento do arco <b>A'O'A''</b> (com amplitude <b>&beta;</b>), ou seja, <b>&alpha;&middot;r = &beta;&middot;r'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="546" name="sl">
@@ -4154,6 +4154,48 @@
 		<img src="modulo4/51_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo4/apostila_nova_2022b-51a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma epiciclóide alongada usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="549" name="sl">
+			   <label for="549"></label>
+			   <img src="modulo4/51_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos definindo um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b> e raio <b>OA = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="550" name="sl">
+			   <label for="550"></label>
+			   <img src="modulo4/51_02_02.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="551" name="sl">
+			   <label for="551"></label>
+			   <img src="modulo4/51_02_03.png" loading="lazy"/>
+			   <figcaption>Na epiciclóide alongada, a trajetória será de um ponto <b>P</b> pertencente ao prolongamento do raio <b>O'A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="552" name="sl">
+			   <label for="552"></label>
+			   <img src="modulo4/51_02_04.png" loading="lazy"/>
+			   <figcaption>O ângulo correspondente da circunferência menor mede $\mathsf{ \beta = { {\alpha \cdot r} \over {O'A'} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="553" name="sl">
+			   <label for="553"></label>
+			   <img src="modulo4/51_02_05.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>PO'P'' = &beta;</b> na circunferência menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="554" name="sl">
+			   <label for="554"></label>
+			   <img src="modulo4/51_02_06.png" loading="lazy"/>
+			   <figcaption>A epiciclóide alongada é o lugar geométrico da extremidade do ângulo <b>&beta;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51b.png" loading="lazy"/>
    <img src="modulo4/apostila_nova_2022b-51c.png" loading="lazy"/>
    <img src="modulo4/apostila_nova_2022b-51d.png" loading="lazy"/>

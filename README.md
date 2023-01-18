@@ -4124,7 +4124,7 @@
 			   <input type="radio" id="544" name="sl">
 			   <label for="544"></label>
 			   <img src="modulo4/51_01_02.png" loading="lazy"/>
-			   <figcaption>Defina o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+			   <figcaption>Defina o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente externa à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="545" name="sl">
@@ -4142,7 +4142,7 @@
 			   <input type="radio" id="547" name="sl">
 			   <label for="547"></label>
 			   <img src="modulo4/51_01_05.png" loading="lazy"/>
-			   <figcaption>Defina o ângulo central com medida paramétrica <b>&beta;</b> na circunferência menor.</figcaption>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>&beta;</b> na circunferência menor no sentido horário.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="548" name="sl">
@@ -4197,12 +4197,224 @@
 		<img src="modulo4/51_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo4/apostila_nova_2022b-51b.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.3</span></div>
    <img src="modulo4/apostila_nova_2022b-51c.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma epiciclóide usando rotações, com um pentágono regular estrelado giratório.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="555" name="sl">
+			   <label for="555"></label>
+			   <img src="modulo4/51_04_01.png" loading="lazy"/>
+			   <figcaption>Usando os elementos mostrados nos dois exemplos anteriores, construa uma epiciclóide simples usando o ângulo central com medida <b>&beta;</b> na circunferência menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="556" name="sl">
+			   <label for="556"></label>
+			   <img src="modulo4/51_04_02.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central do pentágono a partir da extremidade móvel <b>A'</b> da circunferência de centro <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="557" name="sl">
+			   <label for="557"></label>
+			   <img src="modulo4/51_04_03.png" loading="lazy"/>
+			   <figcaption>Construa os outros vértices e os lados do pentágono regular estrelado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="558" name="sl">
+			   <label for="558"></label>
+			   <img src="modulo4/51_04_04.png" loading="lazy"/>
+			   <figcaption>Ao movimentar a circunferência, os vértices e lados do pentágono movimentam-se junto. Experimente definir os lugares geométricos dos vértices do pentágono em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_04_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51d.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hipociclóide usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="559" name="sl">
+			   <label for="559"></label>
+			   <img src="modulo4/51_06_01.png" loading="lazy"/>
+			   <figcaption>Começamos com a definição de um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b> e raio <b>OA = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="560" name="sl">
+			   <label for="560"></label>
+			   <img src="modulo4/51_06_02.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente interna à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="561" name="sl">
+			   <label for="561"></label>
+			   <img src="modulo4/51_06_03.png" loading="lazy"/>
+			   <figcaption>Considerando que a hipociclóide começa no ponto <b>A</b>, quando a circunferência menor rolar tangenciando a circunferência maior até o ponto <b>A'</b>, o comprimento do arco <b>AOA'</b> (com amplitude <b>&alpha;</b>) será igual ao comprimento do arco <b>A'O'A''</b> (com amplitude <b>&beta;</b>), ou seja, <b>&alpha;&middot;r = &beta;&middot;r'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="562" name="sl">
+			   <label for="562"></label>
+			   <img src="modulo4/51_06_04.png" loading="lazy"/>
+			   <figcaption>Logo, temos que $\mathsf{ \beta = { {\alpha \cdot r} \over {r'} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="563" name="sl">
+			   <label for="563"></label>
+			   <img src="modulo4/51_06_05.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>&beta;</b> na circunferência menor, no sentido anti-horário.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="564" name="sl">
+			   <label for="564"></label>
+			   <img src="modulo4/51_06_06.png" loading="lazy"/>
+			   <figcaption>A hipociclóide é o lugar geométrico da extremidade do ângulo <b>&beta;</b>, ou seja, do ponto <b>A''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_06_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51e.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hipociclóide alongada usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="565" name="sl">
+			   <label for="565"></label>
+			   <img src="modulo4/51_07_01.png" loading="lazy"/>
+			   <figcaption>Começamos com a definição de um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b> e raio <b>OA = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="566" name="sl">
+			   <label for="566"></label>
+			   <img src="modulo4/51_07_02.png" loading="lazy"/>
+			   <figcaption>Considere o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="567" name="sl">
+			   <label for="567"></label>
+			   <img src="modulo4/51_07_03.png" loading="lazy"/>
+			   <figcaption>Na hipociclóide alongada, a trajetória será de um ponto <b>P</b> pertencente ao prolongamento do raio <b>O'A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="568" name="sl">
+			   <label for="568"></label>
+			   <img src="modulo4/51_07_04.png" loading="lazy"/>
+			   <figcaption>O ângulo correspondente da circunferência menor mede $\mathsf{ \beta = { {\alpha \cdot r} \over {O'A'} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="569" name="sl">
+			   <label for="569"></label>
+			   <img src="modulo4/51_07_05.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>PO'P'' = &beta;</b> na circunferência menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="570" name="sl">
+			   <label for="570"></label>
+			   <img src="modulo4/51_07_06.png" loading="lazy"/>
+			   <figcaption>A hipociclóide alongada é o lugar geométrico da extremidade do ângulo <b>&beta;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_07_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51f.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hipociclóide encurtada usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="571" name="sl">
+			   <label for="571"></label>
+			   <img src="modulo4/51_08_01.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo central qualquer <b>AÔA' = &alpha;</b> na circunferência de centro <b>O</b> e raio <b>OA = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="572" name="sl">
+			   <label for="572"></label>
+			   <img src="modulo4/51_08_02.png" loading="lazy"/>
+			   <figcaption>Considere o número <b>n &ge; 2</b> e a circunferência de centro <b>O'</b>, tangente à circunferência de centro <b>O</b> no ponto <b>A'</b>. O raio da circunferência de centro <b>O'</b> mede $\mathsf{ r' = { {r} \over {n} } = { {OA} \over {n} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="573" name="sl">
+			   <label for="573"></label>
+			   <img src="modulo4/51_08_03.png" loading="lazy"/>
+			   <figcaption>Na hipociclóide encurtada, a trajetória será de um ponto <b>P</b> pertencente ao raio <b>O'A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="574" name="sl">
+			   <label for="574"></label>
+			   <img src="modulo4/51_08_04.png" loading="lazy"/>
+			   <figcaption>O ângulo correspondente da circunferência menor mede $\mathsf{ \beta = { {\alpha \cdot r} \over {O'A'} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="575" name="sl">
+			   <label for="575"></label>
+			   <img src="modulo4/51_08_05.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central com medida paramétrica <b>PO'P'' = &beta;</b> na circunferência menor.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="576" name="sl">
+			   <label for="576"></label>
+			   <img src="modulo4/51_08_06.png" loading="lazy"/>
+			   <figcaption>A hipociclóide encurtada é o lugar geométrico da extremidade do ângulo <b>&beta;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_08_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo4/apostila_nova_2022b-51g.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.4</span></div>
    <img src="modulo4/apostila_nova_2022b-51h.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as projeções frontal e superior de uma hélice cilíndrica usando rotações.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="577" name="sl">
+			   <label for="577"></label>
+			   <img src="modulo4/51_11_01.png" loading="lazy"/>
+			   <figcaption>Defina a projeção superior do cilindro: uma circunferência de centro <b>O</b> e raio <b>r = OA'</b>. Escolha um ponto <b>P</b> qualquer desta circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="578" name="sl">
+			   <label for="578"></label>
+			   <img src="modulo4/51_11_02.png" loading="lazy"/>
+			   <figcaption>Construa as retas tangentes à circunferência nas extremidades do diâmetro <b>A'B'</b>. Escolha um ponto <b>A</b>em uma das retas construídas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="579" name="sl">
+			   <label for="579"></label>
+			   <img src="modulo4/51_11_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>AB // A'B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="580" name="sl">
+			   <label for="580"></label>
+			   <img src="modulo4/51_11_04.png" loading="lazy"/>
+			   <figcaption>A projeção frontal do cilindro é o retângulo <b>ABCD</b> com <b>AB</b> igual ao diâmetro da base e <b>BC = h</b> sendo a altura do cilindro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="581" name="sl">
+			   <label for="581"></label>
+			   <img src="modulo4/51_11_05.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Considere o ponto <b>K &isin; AD</b>. Usando uma regra de três, temos que o segmento <b>KA</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha;</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot KA} \over {h} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="582" name="sl">
+			   <label for="582"></label>
+			   <img src="modulo4/51_11_06.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo central <b>&alpha; = P'OQ'</b> no sentido anti-horário. Construindo o segmento <b>QQ'</b> tal que <b>QQ' // AD</b> e <b>KQ // A'B'</b>, temos o ponto correspondente <b>Q'</b> da projeção superior da rotação de ângulo <b>&alpha;</b> da hélice cilíndrica, e <b>Q</b> será a projeção frontal deste mesmo ponto <b>Q'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="583" name="sl">
+			   <label for="583"></label>
+			   <img src="modulo4/51_11_07.png" loading="lazy"/>
+			   <figcaption>A projeção frontal da hélice cilíndrica é o lugar geométrico do ponto <b>Q</b> em relação ao ponto <b>K</b>. A projeção superior é a própria circunferência que define a base do cilindro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="584" name="sl">
+			   <label for="584"></label>
+			   <img src="modulo4/51_11_08.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices. Podemos modificar também a posição do ponto <b>P'</b>, que define o início das projeções da curva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo4/51_11_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>

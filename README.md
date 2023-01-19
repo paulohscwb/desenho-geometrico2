@@ -4585,6 +4585,37 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-54.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a translação para determinar os pontos <b>P</b> e <b>Q</b> das circunferências dadas, tal que o segmento <b>PQ</b> passa por <b>C</b> e <b>PQ = 2m</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="602" name="sl">
+			   <label for="602"></label>
+			   <img src="modulo5/53_03_01.png" loading="lazy"/>
+			   <figcaption>Podemos fazer a translação da base menor com amplitude igual à medida de uma diagonal: <b>AD</b>. Assim, encontramos o ponto <b>E &isin; AB</b>, tal que <b>AE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="603" name="sl">
+			   <label for="603"></label>
+			   <img src="modulo5/53_03_02.png" loading="lazy"/>
+			   <figcaption>Começamos com a base maior <b>AB</b> e construímos o segmento <b>AE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="604" name="sl">
+			   <label for="604"></label>
+			   <img src="modulo5/53_03_03.png" loading="lazy"/>
+			   <figcaption>Construa os ângulos dos vértices <b>A</b> e <b>B</b>, encontrando as retas suporte das laterais do trapézio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="605" name="sl">
+			   <label for="605"></label>
+			   <img src="modulo5/53_03_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta paralela à direção da lateral <b>AD</b> que passa por <b>E</b>. Assim, encontramos o vértice <b>C</b> na interseção da reta suporte do lado <b>BC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/53_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-54a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-55.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

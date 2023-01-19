@@ -4479,6 +4479,110 @@
    <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-53.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir o trapézio <b>ABCD</b>, dadas as medidas dos lados.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="593" name="sl">
+			   <label for="593"></label>
+			   <img src="modulo5/53_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos pela base maior <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="594" name="sl">
+			   <label for="594"></label>
+			   <img src="modulo5/53_01_02.png" loading="lazy"/>
+			   <figcaption>Fazendo a translação da base menor <b>CD</b> sobre a base maior com amplitude <b>AD</b>, definimos o segmento <b>AE = CD</b> sobre a base <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="595" name="sl">
+			   <label for="595"></label>
+			   <img src="modulo5/53_01_03.png" loading="lazy"/>
+			   <figcaption>Logo, temos o paralelogramo <b>AECD</b> que define o segmento <b>EC = AD</b>. Construa as circunferências de centros em <b>E</b> e <b>B</b>, com raios <b>AD</b> e <b>BC</b>. Assim, encontramos o vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="596" name="sl">
+			   <label for="596"></label>
+			   <img src="modulo5/53_01_04.png" loading="lazy"/>
+			   <figcaption>Para finalizar o trapézio, basta construir os segmentos <b>CD // AB</b> e <b>AD // EC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/53_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-53a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir o trapézio <b>ABCD</b>, dadas as medidas das bases e das diagonais.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="597" name="sl">
+			   <label for="597"></label>
+			   <img src="modulo5/53_02_01.png" loading="lazy"/>
+			   <figcaption>Podemos fazer a translação da base menor com amplitude igual à medida de uma diagonal: <b>BD</b>. Assim, encontramos o ponto <b>E &isin; AB</b>, tal que <b>BE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="598" name="sl">
+			   <label for="598"></label>
+			   <img src="modulo5/53_02_02.png" loading="lazy"/>
+			   <figcaption>Começamos com a base maior <b>AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="599" name="sl">
+			   <label for="599"></label>
+			   <img src="modulo5/53_02_03.png" loading="lazy"/>
+			   <figcaption>... e construímos o segmento <b>BE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="600" name="sl">
+			   <label for="600"></label>
+			   <img src="modulo5/53_02_04.png" loading="lazy"/>
+			   <figcaption>Logo, temos o paralelogramo <b>BECD</b> que define o segmento <b>EC = BD</b>. Construa as circunferências de centros em <b>E</b> e <b>A</b>, com raios <b>BD</b> e <b>AC</b>. Assim, encontramos o vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="601" name="sl">
+			   <label for="601"></label>
+			   <img src="modulo5/53_02_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar o trapézio, basta construir os segmentos <b>CD // AB</b> e <b>BD // EC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/53_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-53b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir o trapézio <b>ABCD</b>, dadas as medidas das bases e de dois ângulos.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="602" name="sl">
+			   <label for="602"></label>
+			   <img src="modulo5/53_03_01.png" loading="lazy"/>
+			   <figcaption>Podemos fazer a translação da base menor com amplitude igual à medida de uma diagonal: <b>AD</b>. Assim, encontramos o ponto <b>E &isin; AB</b>, tal que <b>AE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="603" name="sl">
+			   <label for="603"></label>
+			   <img src="modulo5/53_03_02.png" loading="lazy"/>
+			   <figcaption>Começamos com a base maior <b>AB</b> e construímos o segmento <b>AE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="604" name="sl">
+			   <label for="604"></label>
+			   <img src="modulo5/53_03_03.png" loading="lazy"/>
+			   <figcaption>Construa os ângulos dos vértices <b>A</b> e <b>B</b>, encontrando as retas suporte das laterais do trapézio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="605" name="sl">
+			   <label for="605"></label>
+			   <img src="modulo5/53_03_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta paralela à direção da lateral <b>AD</b> que passa por <b>E</b>. Assim, encontramos o vértice <b>C</b> na interseção da reta suporte do lado <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="606" name="sl">
+			   <label for="606"></label>
+			   <img src="modulo5/53_03_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar o trapézio, basta construir o segmento <b>CD // AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/53_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-54.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

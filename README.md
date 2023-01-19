@@ -4589,33 +4589,87 @@
 	<p>Vamos usar a translação para determinar os pontos <b>P</b> e <b>Q</b> das circunferências dadas, tal que o segmento <b>PQ</b> passa por <b>C</b> e <b>PQ = 2m</b>.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="602" name="sl">
-			   <label for="602"></label>
-			   <img src="modulo5/53_03_01.png" loading="lazy"/>
-			   <figcaption>Podemos fazer a translação da base menor com amplitude igual à medida de uma diagonal: <b>AD</b>. Assim, encontramos o ponto <b>E &isin; AB</b>, tal que <b>AE = CD</b>.</figcaption>
+			   <input type="radio" id="607" name="sl">
+			   <label for="607"></label>
+			   <img src="modulo5/54_01_01.png" loading="lazy"/>
+			   <figcaption>Construa o arco capaz de 90&deg; no segmento <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="603" name="sl">
-			   <label for="603"></label>
-			   <img src="modulo5/53_03_02.png" loading="lazy"/>
-			   <figcaption>Começamos com a base maior <b>AB</b> e construímos o segmento <b>AE = CD</b>.</figcaption>
+			   <input type="radio" id="608" name="sl">
+			   <label for="608"></label>
+			   <img src="modulo5/54_01_02.png" loading="lazy"/>
+			   <figcaption>O segmento <b>PQ</b> deve passar pelo ponto <b>C</b>: logo, defina o segmento <b>AQ' = m</b>, tal que <b>Q'</b> esteja no arco capaz de 90&deg; mais próximo de <b>C</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="604" name="sl">
-			   <label for="604"></label>
-			   <img src="modulo5/53_03_03.png" loading="lazy"/>
-			   <figcaption>Construa os ângulos dos vértices <b>A</b> e <b>B</b>, encontrando as retas suporte das laterais do trapézio.</figcaption>
+			   <input type="radio" id="609" name="sl">
+			   <label for="609"></label>
+			   <img src="modulo5/54_01_03.png" loading="lazy"/>
+			   <figcaption>O segmento procurado <b>PQ</b> é paralelo ao segmento <b>AQ'</b> e passa por <b>C</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="605" name="sl">
-			   <label for="605"></label>
-			   <img src="modulo5/53_03_04.png" loading="lazy"/>
-			   <figcaption>Construa a reta paralela à direção da lateral <b>AD</b> que passa por <b>E</b>. Assim, encontramos o vértice <b>C</b> na interseção da reta suporte do lado <b>BC</b>.</figcaption>
+			   <input type="radio" id="610" name="sl">
+			   <label for="610"></label>
+			   <img src="modulo5/54_01_04.png" loading="lazy"/>
+			   <figcaption>A justificativa para esta construção está na construção do arco capaz de 90&deg;, que define o segmento <b>M<sub>A</sub>M<sub>B</sub></b> transladado de <b>AQ' = m</b>. Temos que <b>PM<sub>A</sub> = CM<sub>A</sub></b> e <b>QM<sub>B</sub> = CM<sub>B</sub></b>, ou seja, <b>PQ = 2m</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="modulo5/53_03_00.png" class="fundo" loading="lazy"/>
+		<img src="modulo5/54_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-54a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a translação para circunscrever um triângulo equilátero no triângulo <b>&#9651;ABC</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="611" name="sl">
+			   <label for="611"></label>
+			   <img src="modulo5/54_02_01.png" loading="lazy"/>
+			   <figcaption>Vamos construir arcos capazes de 60&deg; em dois lados do <b>&#9651;ABC</b>. Começando pelo lado <b>AB</b>, construa o ângulo de segmento de 60&deg; com vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="612" name="sl">
+			   <label for="612"></label>
+			   <img src="modulo5/54_02_02.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz do lado <b>AB</b>. O centro <b>O</b> do arco capaz de 60&deg; está na interseção da mediatriz do lado <b>AB</b> com o segmento perpendicular à reta suporte do ângulo de segmento construído.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="613" name="sl">
+			   <label for="613"></label>
+			   <img src="modulo5/54_02_03.png" loading="lazy"/>
+			   <figcaption>Construa o arco capaz de centro <b>O</b> e raio <b>OA = OB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="614" name="sl">
+			   <label for="614"></label>
+			   <img src="modulo5/54_02_04.png" loading="lazy"/>
+			   <figcaption>Agora vamos construir o arco capaz no lado <b>AC</b>: construa o ângulo de segmento de 60&deg; com vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="615" name="sl">
+			   <label for="615"></label>
+			   <img src="modulo5/54_02_05.png" loading="lazy"/>
+			   <figcaption>Encontre a mediatriz do lado <b>AC</b>. O centro <b>O'</b> do arco capaz de 60&deg; está na interseção da mediatriz do lado <b>AC</b> com o segmento perpendicular à reta suporte do ângulo de segmento construído.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="616" name="sl">
+			   <label for="616"></label>
+			   <img src="modulo5/54_02_06.png" loading="lazy"/>
+			   <figcaption>Construa o arco capaz de centro <b>O'</b> e raio <b>O'A = O'C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="617" name="sl">
+			   <label for="617"></label>
+			   <img src="modulo5/54_02_07.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>P</b> de um dos arcos capazes e defina o segmento <b>PQ</b> que passa por <b>A</b> e <b>Q</b> pertence ao outro arco capaz construído. Assim, temos um dos lados de um triângulo equilátero circunscrito.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="618" name="sl">
+			   <label for="618"></label>
+			   <img src="modulo5/54_02_08.png" loading="lazy"/>
+			   <figcaption>Agora basta construir os segmentos <b>PR</b> e <b>QR</b> que passam pelos vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/54_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-55.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

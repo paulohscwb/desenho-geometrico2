@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="imagens/style.css">
+<!--<link rel="stylesheet" href="imagens/style.css">-->
+{% include index.html %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     showProcessingMessages: false,

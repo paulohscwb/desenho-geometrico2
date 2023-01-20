@@ -4674,7 +4674,7 @@
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-55.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos usar a translação para encontrar um ponto da reta <b>r</b> que enxerga o segmento <b>AB</b> segundo ângulo de 60&deg;.</p>
+	<p>Vamos usar a translação para encontrar um ponto da reta <b>s</b> que enxerga o segmento <b>AB</b> segundo ângulo de 60&deg;.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="619" name="sl">
@@ -4703,13 +4703,13 @@
 			   <input type="radio" id="621" name="sl">
 			   <label for="621"></label>
 			   <img src="modulo5/56_01_01.png" loading="lazy"/>
-			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>O</b>.</figcaption>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>xOy</b>.</figcaption>
 		   </li>
 		    <li>
 			   <input type="radio" id="622" name="sl">
 			   <label for="622"></label>
 			   <img src="modulo5/56_01_02.png" loading="lazy"/>
-			   <figcaption>Construa a projeção frontal do cilindro: o retângulo com um lado igual ao diâmetro da circunferência da base e o outro lado igual à altura <b>h</b>.</figcaption>
+			   <figcaption>Construa a projeção frontal do cilindro: o retângulo com um lado igual ao diâmetro da circunferência da base e o outro lado igual à altura <b>h</b>. Considere as geratrizes paralelas ao eixo <b>y</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="623" name="sl">
@@ -4745,13 +4745,13 @@
 			   <input type="radio" id="628" name="sl">
 			   <label for="628"></label>
 			   <img src="modulo5/56_01_08.png" loading="lazy"/>
-			   <figcaption>Construa o segmento correspondente de <b>B'</b> na vista frontal do cilindro, definindo o segmento <b>BC</b> tal que <b>BC // QR</b> e <b>BK // P'Q'</b>. Transfira esta medida para a perspectiva, tal que <b>BB' // z</b> e <b>BB' = BC</b>.</figcaption>
+			   <figcaption>Construa o segmento correspondente de <b>B'</b> na vista frontal do cilindro, definindo o segmento <b>BC</b> tal que <b>BC // QR</b> e <b>BK // P'Q'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="629" name="sl">
 			   <label for="629"></label>
 			   <img src="modulo5/56_01_09.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico do ponto <b>B</b> em relação ao ponto <b>K</b> é a projeção frontal da hélice cilíndrica.</figcaption>
+			   <figcaption>O lugar geométrico do ponto <b>B</b> em relação ao ponto <b>K</b> é a projeção frontal da hélice cilíndrica. Transfira a medida <b>BC</b> para a perspectiva, tal que <b>BB' // z</b> e <b>BB' = BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="630" name="sl">
@@ -4769,6 +4769,90 @@
 		<img src="modulo5/56_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-56a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hélice cilíndrica com projeções e também em perspectiva.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="632" name="sl">
+			   <label for="632"></label>
+			   <img src="modulo5/56_02_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>xOy</b>. Construa a projeção frontal do cone: o triângulo iscósceles com um lado igual ao diâmetro da circunferência da base e altura <b>QR = h</b>. Considere a altura do cone paralela ao eixo <b>y</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="633" name="sl">
+			   <label for="633"></label>
+			   <img src="modulo5/56_02_03.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Considere o ponto <b>K &isin; QR</b>. Usando uma regra de três, temos que o segmento <b>KR</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha; = P'A'C'</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot KR} \over {h} } }$.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="634" name="sl">
+			   <label for="634"></label>
+			   <img src="modulo5/56_02_04.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos paralelos aos eixos que passam por <b>A'</b>, definindo as coordenadas deste ponto:  <b>x<sub>A'</sub></b> e <b>y<sub>A'</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="635" name="sl">
+			   <label for="635"></label>
+			   <img src="modulo5/56_02_05.png" loading="lazy"/>
+			   <figcaption>Construa os eixos em perspectiva e defina as coordenadas <b>x<sub>A'</sub></b> e <b>y<sub>A'</sub></b> que determinam a projeção do ponto <b>A'</b> em perspectiva, por meio dos segmentos paralelos aos eixos representados em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="636" name="sl">
+			   <label for="636"></label>
+			   <img src="modulo5/56_02_06.png" loading="lazy"/>
+			   <figcaption>Agora obtenha as coordenadas do ponto <b>C'</b> e transfira estas medidas para os eixos em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="637" name="sl">
+			   <label for="637"></label>
+			   <img src="modulo5/56_02_07.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>C'</b> da perspectiva em relação ao ponto <b>K</b> é a projeção da circunferência da base do cone em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="638" name="sl">
+			   <label for="638"></label>
+			   <img src="modulo5/56_02_08.png" loading="lazy"/>
+			   <figcaption>Construa a geratriz correspondente de <b>C'</b> na vista frontal do cilindro, definindo o segmento <b>VC</b> tal que <b>C</b> pertence ao segmento da base do triângulo isósceles. Defina o ponto correspondente de <b>K</b> na geratriz <b>VC</b>, tal que <b>BK // P'Q'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="639" name="sl">
+			   <label for="639"></label>
+			   <img src="modulo5/56_02_09.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B</b> em relação ao ponto <b>K</b> é a projeção frontal da hélice cônica. Obtenha a projeção superior do ponto <b>B</b> tal que <b>B' &isin; A'C'</b> e defina a medida da altura correspondente da hélice <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="640" name="sl">
+			   <label for="640"></label>
+			   <img src="modulo5/56_02_10.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B'</b> em relação ao ponto <b>K</b> é a projeção superior da hélice cônica. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="641" name="sl">
+			   <label for="641"></label>
+			   <img src="modulo5/56_02_11.png" loading="lazy"/>
+			   <figcaption>Obtenha as coordenadas do ponto <b>B'</b> na perspectiva. O lugar geométrico do ponto <b>B'</b> da perspectiva em relação ao ponto <b>K</b> é a projeção da hélice cônica em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="642" name="sl">
+			   <label for="642"></label>
+			   <img src="modulo5/56_02_12.png" loading="lazy"/>
+			   <figcaption>Transfira a medida <b>BD</b> para a perspectiva, tal que <b>BB' // z</b> e <b>BB' = BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="643" name="sl">
+			   <label for="643"></label>
+			   <img src="modulo5/56_02_13.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B</b> na perspectiva em relação ao ponto <b>K</b> é a projeção da hélice cônica na perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="644" name="sl">
+			   <label for="644"></label>
+			   <img src="modulo5/56_02_14.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices cônicas representadas em projeções e também em perspectiva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo5/apostila_nova_2022b-56b.png" loading="lazy"/>
    <img src="modulo5/apostila_nova_2022b-56c.png" loading="lazy"/>
    <img src="modulo5/apostila_nova_2022b-56d.png" loading="lazy"/>

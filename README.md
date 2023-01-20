@@ -4697,7 +4697,7 @@
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-56.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir uma hélice cilíndrica com projeções e também em perspectiva.</p>
+	<p>Vamos construir uma hélice cilíndrica em projeções ortogonais e também em perspectiva.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="621" name="sl">
@@ -4770,7 +4770,7 @@
   </details></div>
    <img src="modulo5/apostila_nova_2022b-56a.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir uma hélice cilíndrica com projeções e também em perspectiva.</p>
+	<p>Vamos construir uma hélice cônica em projeções ortogonais e também em perspectiva.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="632" name="sl">
@@ -4854,6 +4854,90 @@
 		<img src="modulo5/56_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-56b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hélice esférica em projeções ortogonais e também em perspectiva.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="645" name="sl">
+			   <label for="645"></label>
+			   <img src="modulo5/56_03_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>xOy</b>. Construa a projeção frontal da esfera: a circunferência de raio <b>QA = r</b>. Considere o segmento correspondente das projeções da esfera <b>QQ' // y</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="646" name="sl">
+			   <label for="646"></label>
+			   <img src="modulo5/56_03_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto limite <b>T</b> da projeção frontal a partir do diâmetro paralelo ao eixo <b>x</b>.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="647" name="sl">
+			   <label for="647"></label>
+			   <img src="modulo5/56_03_04.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>K &isin; QT</b>, e o ponto da projeção frontal <b>D</b> tal que <b>DE // QT</b> e <b>KD // P'Q'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="648" name="sl">
+			   <label for="648"></label>
+			   <img src="modulo5/56_03_05.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Usando uma regra de três, temos que o segmento <b>DE</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha; = P'A'C'</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot DE} \over {r} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="649" name="sl">
+			   <label for="649"></label>
+			   <img src="modulo5/56_03_06.png" loading="lazy"/>
+			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro da esfera <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice esférica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="650" name="sl">
+			   <label for="650"></label>
+			   <img src="modulo5/56_03_07.png" loading="lazy"/>
+			   <figcaption>O ponto correspondente de <b>R'</b> da projeção frontal é <b>R</b> tal que <b>RR' // QT</b> e <b>R &isin; KF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="651" name="sl">
+			   <label for="651"></label>
+			   <img src="modulo5/56_03_08.png" loading="lazy"/>
+			   <figcaption>Como a esfera é simétria em relação a qualquer seção que passa pelo centro, temos que os simétricos de <b>R</b> e de <b>R'</b> em relação a <b>PQ</b> e <b>P'Q'</b> pertencem à hélice esférica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="652" name="sl">
+			   <label for="652"></label>
+			   <img src="modulo5/56_03_09.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R</b> e <b>S</b> em relação ao ponto <b>K</b> definem a projeção frontal da hélice esférica. Os lugares geométricos dos pontos <b>R'</b> e <b>S'</b> em relação ao ponto <b>K</b> definem a projeção superior da hélice esférica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="653" name="sl">
+			   <label for="653"></label>
+			   <img src="modulo5/56_03_10.png" loading="lazy"/>
+			   <figcaption>Construa os eixos em perspectiva e defina as coordenadas e projeções dos pontos <b>R'</b> e <b>S'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="654" name="sl">
+			   <label for="654"></label>
+			   <img src="modulo5/56_03_11.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R'</b> e <b>S'</b> da perspectiva em relação ao ponto <b>K</b> definem a projeção da hélice esférica em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="655" name="sl">
+			   <label for="655"></label>
+			   <img src="modulo5/56_03_12.png" loading="lazy"/>
+			   <figcaption>Transfira as medidas <b>UR</b> e <b>US</b> para a perspectiva, tal que <b>RR' // z</b>, <b>RR' = UR + 1</b>, <b>SS' // z</b> e <b>SS' = US + 1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="656" name="sl">
+			   <label for="656"></label>
+			   <img src="modulo5/56_03_13.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R</b> e <b>S</b> na perspectiva em relação ao ponto <b>K</b> definem a projeção da hélice esférica na perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="657" name="sl">
+			   <label for="657"></label>
+			   <img src="modulo5/56_03_14.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices esféricas representadas em projeções e também em perspectiva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo5/apostila_nova_2022b-56c.png" loading="lazy"/>
    <img src="modulo5/apostila_nova_2022b-56d.png" loading="lazy"/>
    <img src="modulo5/apostila_nova_2022b-56e.png" loading="lazy"/>

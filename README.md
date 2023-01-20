@@ -4696,6 +4696,84 @@
    <img src="modulo5/apostila_nova_2022b-55b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-56.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hélice cilíndrica com projeções e também em perspectiva.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="621" name="sl">
+			   <label for="621"></label>
+			   <img src="modulo5/56_01_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>O</b>.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="622" name="sl">
+			   <label for="622"></label>
+			   <img src="modulo5/56_01_02.png" loading="lazy"/>
+			   <figcaption>Construa a projeção frontal do cilindro: o retângulo com um lado igual ao diâmetro da circunferência da base e o outro lado igual à altura <b>h</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="623" name="sl">
+			   <label for="623"></label>
+			   <img src="modulo5/56_01_03.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Considere o ponto <b>K &isin; QR</b>. Usando uma regra de três, temos que o segmento <b>KR</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha; = P'A'B'</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot KR} \over {h} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="624" name="sl">
+			   <label for="624"></label>
+			   <img src="modulo5/56_01_04.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos paralelos aos eixos que passam por <b>A'</b>, definindo as coordenadas deste ponto:  <b>x<sub>A'</sub></b> e <b>y<sub>A'</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="625" name="sl">
+			   <label for="625"></label>
+			   <img src="modulo5/56_01_05.png" loading="lazy"/>
+			   <figcaption>Construa os eixos em perspectiva e defina as coordenadas <b>x<sub>A'</sub></b> e <b>y<sub>A'</sub></b> que determinam a projeção do ponto <b>A'</b> em perspectiva, por meio dos segmentos paralelos aos eixos representados em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="626" name="sl">
+			   <label for="626"></label>
+			   <img src="modulo5/56_01_06.png" loading="lazy"/>
+			   <figcaption>Agora obtenha as coordenadas do ponto <b>B'</b> e transfira estas medidas para os eixos em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="627" name="sl">
+			   <label for="627"></label>
+			   <img src="modulo5/56_01_07.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B'</b> da perspectiva em relação ao ponto <b>K</b> é a projeção da circunferência da base do cilindro em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="628" name="sl">
+			   <label for="628"></label>
+			   <img src="modulo5/56_01_08.png" loading="lazy"/>
+			   <figcaption>Construa o segmento correspondente de <b>B'</b> na vista frontal do cilindro, definindo o segmento <b>BC</b> tal que <b>BC // QR</b> e <b>BK // P'Q'</b>. Transfira esta medida para a perspectiva, tal que <b>BB' // z</b> e <b>BB' = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="629" name="sl">
+			   <label for="629"></label>
+			   <img src="modulo5/56_01_09.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B</b> em relação ao ponto <b>K</b> é a projeção frontal da hélice cilíndrica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="630" name="sl">
+			   <label for="630"></label>
+			   <img src="modulo5/56_01_10.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>B</b> na perspectiva em relação ao ponto <b>K</b> é a projeção da hélice cilíndrica na perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="631" name="sl">
+			   <label for="631"></label>
+			   <img src="modulo5/56_01_11.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices cilíndricas representadas em projeções e também em perspectiva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-56a.png" loading="lazy"/>
+   <img src="modulo5/apostila_nova_2022b-56b.png" loading="lazy"/>
+   <img src="modulo5/apostila_nova_2022b-56c.png" loading="lazy"/>
+   <img src="modulo5/apostila_nova_2022b-56d.png" loading="lazy"/>
+   <img src="modulo5/apostila_nova_2022b-56e.png" loading="lazy"/>
+   <img src="modulo5/apostila_nova_2022b-56f.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-57.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

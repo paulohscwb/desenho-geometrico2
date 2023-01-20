@@ -4673,6 +4673,27 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-55.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar a translação para encontrar um ponto da reta <b>r</b> que enxerga o segmento <b>AB</b> segundo ângulo de 60&deg;.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="619" name="sl">
+			   <label for="619"></label>
+			   <img src="modulo5/55_01_01.png" loading="lazy"/>
+			   <figcaption>Contrua um ângulo <b>BC'A' = 60&deg;</b>. Agora precisamos fazer a translação do segmento <b>C'A'</b> até que os pontos <b>A</b> e <b>A'</b> fiquem coincidentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="620" name="sl">
+			   <label for="620"></label>
+			   <img src="modulo5/55_01_02.png" loading="lazy"/>
+			   <figcaption>Construindo a reta paralela a <b>A'C'</b> que passa por <b>A</b>, encontramos o ponto <b>C &isin; s</b> que enxerga <b>AB</b> segundo ângulo de 60&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/55_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-55a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.1</span></div>
+   <img src="modulo5/apostila_nova_2022b-55b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-56.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

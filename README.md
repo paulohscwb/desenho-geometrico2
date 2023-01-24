@@ -5181,13 +5181,13 @@
 			   <input type="radio" id="692" name="sl">
 			   <label for="692"></label>
 			   <img src="modulo5/57_02_02.png" loading="lazy"/>
-			   <figcaption>A curva Catenária pode ser definida a partir de um ponto <b>C &isin; a</b> tal que $\mathsf{ CP = cosh { {AC} \over {AB} } }$.</figcaption>
+			   <figcaption>A curva Catenária pode ser definida a partir de um ponto <b>C &isin; a</b> tal que $\mathsf{ CP = cosh \left( { {AC} \over {AB} } \right) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="693" name="sl">
 			   <label for="693"></label>
 			   <img src="modulo5/57_02_03.png" loading="lazy"/>
-			   <figcaption>A curva Catenária é o lugar geométrico de <b>P</b> em relação ao ponto <b>C</b>.</figcaption>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é a curva Catenária com parâmetro <b>a</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo5/57_02_00.png" class="fundo" loading="lazy"/>

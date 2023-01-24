@@ -5194,6 +5194,67 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-58.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Cassini a partir dos segmentos <b>AA'</b> e <b>FF'</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="694" name="sl">
+			   <label for="694"></label>
+			   <img src="modulo5/58_01_01.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>AA'</b> e encontre o ponto médio <b>O</b>, que será o centro da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="695" name="sl">
+			   <label for="695"></label>
+			   <img src="modulo5/58_01_02.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>F</b> e <b>F'</b>, simétricos em relação ao centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="696" name="sl">
+			   <label for="696"></label>
+			   <img src="modulo5/58_01_03.png" loading="lazy"/>
+			   <figcaption>Construa a <b>Cirunf(O, OF)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="697" name="sl">
+			   <label for="697"></label>
+			   <img src="modulo5/58_01_04.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da curva de Cassini tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B &middot; A'C = a&sup2;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="698" name="sl">
+			   <label for="698"></label>
+			   <img src="modulo5/58_01_05.png" loading="lazy"/>
+			   <figcaption>Para encontrar um ponto <b>P</b> da curva de Cassini, construa a <b>Circunf(F', A'C)</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="699" name="sl">
+			   <label for="699"></label>
+			   <img src="modulo5/58_01_06.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é a curva Catenária com parâmetro <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="700" name="sl">
+			   <label for="700"></label>
+			   <img src="modulo5/58_01_07.png" loading="lazy"/>
+			   <figcaption>Começamos construindo um segmento <b>AB</b> que será usado como parâmetro da curva. Defina o segmento <b>a  &perp; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701" name="sl">
+			   <label for="701"></label>
+			   <img src="modulo5/58_01_08.png" loading="lazy"/>
+			   <figcaption>A curva Catenária pode ser definida a partir de um ponto <b>C &isin; a</b> tal que $\mathsf{ CP = cosh \left( { {AC} \over {AB} } \right) }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702" name="sl">
+			   <label for="702"></label>
+			   <img src="modulo5/58_01_09.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é a curva Catenária com parâmetro <b>a</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/58_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-58a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-59.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

@@ -5664,7 +5664,7 @@
 			   <input type="radio" id="755" name="sl">
 			   <label for="755"></label>
 			   <img src="modulo5/61_01_01.png" loading="lazy"/>
-			   <figcaption>Determine os <b>OA</b> segmentos de controle <b>AB</b> e <b>CD</b>.</figcaption>
+			   <figcaption>Determine os segmentos de controle <b>AB</b> e <b>CD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="756" name="sl">

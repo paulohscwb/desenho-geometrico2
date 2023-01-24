@@ -5807,6 +5807,90 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-63.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva bicorne usando as três definições apresentadas nesta página.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="777" name="sl">
+			   <label for="777"></label>
+			   <img src="modulo5/63_01_01.png" loading="lazy"/>
+			   <figcaption><b>1&ordf; definição</b>: Construa as circunferências com raios iguais, tangentes no ponto <b>A</p>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="778" name="sl">
+			   <label for="778"></label>
+			   <img src="modulo5/63_01_02.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B &isin; &beta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="779" name="sl">
+			   <label for="779"></label>
+			   <img src="modulo5/63_01_03.png" loading="lazy"/>
+			   <figcaption>encontre a reta polar de <b>B</b> em relação a <b>&alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="780" name="sl">
+			   <label for="780"></label>
+			   <img src="modulo5/63_01_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>BP // OO'</b> tal que <b>P &isin; b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="781" name="sl">
+			   <label for="781"></label>
+			   <img src="modulo5/63_01_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>B</b> é uma curva bicorne.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="782" name="sl">
+			   <label for="782"></label>
+			   <img src="modulo5/63_01_06.png" loading="lazy"/>
+			   <figcaption><b>2&ordf; definição</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="783" name="sl">
+			   <label for="783"></label>
+			   <img src="modulo5/63_01_07.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>C</b> da circunferência e construa o triângulo <b>&#9651;AA'C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="784" name="sl">
+			   <label for="784"></label>
+			   <img src="modulo5/63_01_08.png" loading="lazy"/>
+			   <figcaption>Construa o ortocentro <b>H</b> do triângulo <b>&#9651;AA'C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="785" name="sl">
+			   <label for="785"></label>
+			   <img src="modulo5/63_01_09.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>H</b> em relação ao ponto <b>C</b> é uma curva bicorne.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="786" name="sl">
+			   <label for="786"></label>
+			   <img src="modulo5/63_01_10.png" loading="lazy"/>
+			   <figcaption><b>3&ordf; definição</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="787" name="sl">
+			   <label for="787"></label>
+			   <img src="modulo5/63_01_11.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>C</b> da circunferência e construa o diâmetro <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="788" name="sl">
+			   <label for="788"></label>
+			   <img src="modulo5/63_01_12.png" loading="lazy"/>
+			   <figcaption>Determine o ponto <b>P &equiv; AC &cap; A'D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="789" name="sl">
+			   <label for="789"></label>
+			   <img src="modulo5/63_01_13.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é uma curva bicorne.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/63_01_00.png" style="visibility:hidden;" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-64.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

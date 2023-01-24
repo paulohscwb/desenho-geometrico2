@@ -5650,13 +5650,68 @@
 			   <input type="radio" id="754" name="sl">
 			   <label for="754"></label>
 			   <img src="modulo5/60_08_05.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem uma curva chamada besácea.</figcaption>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo5/60_08_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-61.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma besácea com parâmetros <b>AB</b> e <b>AC</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="755" name="sl">
+			   <label for="755"></label>
+			   <img src="modulo5/61_01_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="756" name="sl">
+			   <label for="756"></label>
+			   <img src="modulo5/61_01_02.png" loading="lazy"/>
+			   <figcaption>Defina o diâmetro <b>AB</b> e um ponto <b>C</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="757" name="sl">
+			   <label for="757"></label>
+			   <img src="modulo5/61_01_03.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>E</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="758" name="sl">
+			   <label for="758"></label>
+			   <img src="modulo5/61_01_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>ED // BC</b> e encontre os pontos <b>P &isin; ED</b> e <b>Q &isin; ED</b> tais que <b>PD = QD = EC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="759" name="sl">
+			   <label for="759"></label>
+			   <img src="modulo5/61_01_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="760" name="sl">
+			   <label for="760"></label>
+			   <img src="modulo5/61_01_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="761" name="sl">
+			   <label for="761"></label>
+			   <img src="modulo5/61_01_07.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="762" name="sl">
+			   <label for="762"></label>
+			   <img src="modulo5/61_01_08.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/61_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-61a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-62.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

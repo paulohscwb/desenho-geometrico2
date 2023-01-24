@@ -5758,7 +5758,7 @@
 			   <input type="radio" id="769" name="sl">
 			   <label for="769"></label>
 			   <img src="modulo5/62_02_02.png" loading="lazy"/>
-			   <figcaption>Defina o ponto simétrico de <b>A &isin; &alpha;</b> em relação ao ponto <b>P</b> (pois <b>P</b> é o ponto médio de <b>AA''</b>.</figcaption>
+			   <figcaption>Defina o ponto simétrico de <b>A &isin; &alpha;</b> em relação ao ponto <b>P</b> (pois <b>P</b> é o ponto médio de <b>AA''</b>).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="770" name="sl">
@@ -5770,7 +5770,7 @@
 			   <input type="radio" id="771" name="sl">
 			   <label for="771"></label>
 			   <img src="modulo5/62_02_04.png" loading="lazy"/>
-			   <figcaption>Logo, a reta procurada é a mediatriz de <b>A'A'' </b> (pois <b>A'</b> e <b>A''</b> são simétricos em relação à reta <b>r</b>).</figcaption>
+			   <figcaption>Logo, a reta procurada é mediatriz de <b>A'A'' </b> (pois <b>A'</b> e <b>A''</b> são simétricos em relação à reta <b>r</b>).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="772" name="sl">
@@ -5814,7 +5814,7 @@
 			   <input type="radio" id="777" name="sl">
 			   <label for="777"></label>
 			   <img src="modulo5/63_01_01.png" loading="lazy"/>
-			   <figcaption><b>1&ordf; definição</b>: Construa as circunferências com raios iguais, tangentes no ponto <b>A</b>.</figcaption>
+			   <figcaption><b>Definição 1</b>: Construa as circunferências com raios iguais, tangentes no ponto <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="778" name="sl">
@@ -5844,7 +5844,7 @@
 			   <input type="radio" id="782" name="sl">
 			   <label for="782"></label>
 			   <img src="modulo5/63_01_06.png" loading="lazy"/>
-			   <figcaption><b>2&ordf; definição</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
+			   <figcaption><b>Definição 2</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="783" name="sl">
@@ -5868,7 +5868,7 @@
 			   <input type="radio" id="786" name="sl">
 			   <label for="786"></label>
 			   <img src="modulo5/63_01_10.png" loading="lazy"/>
-			   <figcaption><b>3&ordf; definição</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
+			   <figcaption><b>Definição 3</b>: Construa uma circunferência com raio <b>OE</b> e determine os pontos <b>A</b> e <b>A'</b> simétricos em relação a <b>OE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="787" name="sl">
@@ -5900,7 +5900,7 @@
 			   <input type="radio" id="791" name="sl">
 			   <label for="791"></label>
 			   <img src="modulo5/64_01_02.png" loading="lazy"/>
-			   <figcaption><b>1&ordf; definição</b>: Determine uma circunferência de raio <b>OA</b>, um ponto <b>B</b> desta circunferência e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
+			   <figcaption><b>Definição 1</b>: Determine uma circunferência de raio <b>OA</b>, um ponto <b>B</b> desta circunferência e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="792" name="sl">
@@ -5924,7 +5924,7 @@
 			   <input type="radio" id="795" name="sl">
 			   <label for="795"></label>
 			   <img src="modulo5/64_01_06.png" loading="lazy"/>
-			   <figcaption><b>2&ordf; definição</b>: Construa uma circunferência com raio <b>OA</b> e a circunferência tangente de diâmetro <b>OA</b>.</figcaption>
+			   <figcaption><b>Definição 2</b>: Construa uma circunferência com raio <b>OA</b> e a circunferência tangente de diâmetro <b>OA</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="796" name="sl">
@@ -5948,7 +5948,7 @@
 			   <input type="radio" id="799" name="sl">
 			   <label for="799"></label>
 			   <img src="modulo5/64_01_11.png" loading="lazy"/>
-			   <figcaption><b>3&ordf; definição</b>: Construa uma circunferência com diâmetro <b>AB</b> e determine um ponto <b>C &isin; AB</b>.</figcaption>
+			   <figcaption><b>Definição 3</b>: Construa uma circunferência com diâmetro <b>AB</b> e determine um ponto <b>C &isin; AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="801" name="sl">

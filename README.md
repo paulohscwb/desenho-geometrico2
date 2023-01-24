@@ -5219,7 +5219,7 @@
 			   <input type="radio" id="697" name="sl">
 			   <label for="697"></label>
 			   <img src="modulo5/58_01_04.png" loading="lazy"/>
-			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da curva de Cassini tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B &middot; A'C = a&sup2;</b>.</figcaption>
+			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da curva de Cassini tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B&middot;A'C = a&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="698" name="sl">
@@ -5280,7 +5280,7 @@
 			   <input type="radio" id="706" name="sl">
 			   <label for="706"></label>
 			   <img src="modulo5/58_02_04.png" loading="lazy"/>
-			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da lemniscata tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B &middot; A'C = a&sup2;</b>.</figcaption>
+			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da lemniscata tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B&middot;A'C = a&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="707" name="sl">
@@ -5658,55 +5658,55 @@
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-61.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir uma besácea com parâmetros <b>AB</b> e <b>AC</b>.</p>
+	<p>Vamos construir uma curva de Bézier dados os segmentos de controle <b>AB</b> e <b>CD</b>.</p>
 	  <ul class="slider">
 	  	   <li>
 			   <input type="radio" id="755" name="sl">
 			   <label for="755"></label>
 			   <img src="modulo5/61_01_01.png" loading="lazy"/>
-			   <figcaption>Construa uma circunferência de raio <b>OA</b>.</figcaption>
+			   <figcaption>Determine os <b>OA</b> segmentos de controle <b>AB</b> e <b>CD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="756" name="sl">
 			   <label for="756"></label>
 			   <img src="modulo5/61_01_02.png" loading="lazy"/>
-			   <figcaption>Defina o diâmetro <b>AB</b> e um ponto <b>C</b> da circunferência.</figcaption>
+			   <figcaption>Defina um ponto <b>E &isin; AB</b> e a razão relativa à medida <b>AB</b> $\mathsf{ c = { {AE} \over {AB} } }$. Usaremos este número para encontrar os pontos correspondentes nos outros segmentos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="757" name="sl">
 			   <label for="757"></label>
 			   <img src="modulo5/61_01_03.png" loading="lazy"/>
-			   <figcaption>Determine um ponto <b>E</b> da circunferência.</figcaption>
+			   <figcaption>Determine o ponto <b>F &isin; BC</b> tal que <b>F = B + c&middot;(C - B). Desta forma, temos o ponto <b>F</b> com a mesma razão de distâncias do ponto <b>E</b>, porém, em relação ao segmento <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="758" name="sl">
 			   <label for="758"></label>
 			   <img src="modulo5/61_01_04.png" loading="lazy"/>
-			   <figcaption>Construa a reta <b>ED // BC</b> e encontre os pontos <b>P &isin; ED</b> e <b>Q &isin; ED</b> tais que <b>PD = QD = EC</b>.</figcaption>
+			   <figcaption>Determine o ponto <b>G &isin; CD</b> tal que <b>G = C + c&middot;(D - C).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="759" name="sl">
 			   <label for="759"></label>
 			   <img src="modulo5/61_01_05.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+			   <figcaption>Determine o ponto <b>H &isin; EF</b> tal que <b>H = E + c&middot;(F - E).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="760" name="sl">
 			   <label for="760"></label>
 			   <img src="modulo5/61_01_06.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+			   <figcaption>Determine o ponto <b>I &isin; FG</b> tal que <b>I = F + c&middot;(G - F).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="761" name="sl">
 			   <label for="761"></label>
 			   <img src="modulo5/61_01_07.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+			   <figcaption>Para finalizar, determine o ponto <b>J &isin; HI</b> tal que <b>J = H + c&middot;(I - H).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="762" name="sl">
 			   <label for="762"></label>
 			   <img src="modulo5/61_01_08.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>E</b> definem uma curva chamada besácea.</figcaption>
+			   <figcaption>O lugar geométrico de <b>J</b> em relação ao ponto <b>E</b> define uma curva de Bézier.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo5/61_01_00.png" class="fundo" loading="lazy"/>

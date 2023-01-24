@@ -5143,6 +5143,55 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-57.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva logarítmica a partir dos eixos <b>x</b> e <b>y</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="688" name="sl">
+			   <label for="688"></label>
+			   <img src="modulo5/57_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo um segmento <b>AB &isin; y</b> que será usado como parâmetro da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="689" name="sl">
+			   <label for="689"></label>
+			   <img src="modulo5/57_01_02.png" loading="lazy"/>
+			   <figcaption>A curva logarítmica pode ser definida a partir de um ponto <b>C &isin; x</b> tal que $\mathsf{ CP = { {AB} \over {k \cdot AC} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="690" name="sl">
+			   <label for="690"></label>
+			   <img src="modulo5/57_01_03.png" loading="lazy"/>
+			   <figcaption>Se considerarmos <b>k = 1</b>, temos esta curva logarítmica como o lugar geométrico de <b>P</b> em relação ao ponto <b>C</b>. Escolha outros valores de <b>k</b> para construir outras curvas logarítmicas.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/57_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+  <img src="modulo5/apostila_nova_2022b-57a.png" loading="lazy"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva Catenária a partir de dois segmentos perpendiculares.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="691" name="sl">
+			   <label for="691"></label>
+			   <img src="modulo5/57_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo um segmento <b>AB</b> que será usado como parâmetro da curva. Defina o segmento <b>a  &perp; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="692" name="sl">
+			   <label for="692"></label>
+			   <img src="modulo5/57_02_02.png" loading="lazy"/>
+			   <figcaption>A curva Catenária pode ser definida a partir de um ponto <b>C &isin; a</b> tal que $\mathsf{ CP = cosh { {AC} \over {AB} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="693" name="sl">
+			   <label for="693"></label>
+			   <img src="modulo5/57_02_03.png" loading="lazy"/>
+			   <figcaption>A curva Catenária é o lugar geométrico de <b>P</b> em relação ao ponto <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/57_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-58.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

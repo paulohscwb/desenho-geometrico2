@@ -4897,7 +4897,7 @@
 			   <input type="radio" id="651" name="sl">
 			   <label for="651"></label>
 			   <img src="modulo5/56_03_08.png" loading="lazy"/>
-			   <figcaption>Como a esfera é simétria em relação a qualquer seção que passa pelo centro, temos que os simétricos de <b>R</b> e de <b>R'</b> em relação a <b>PQ</b> e <b>P'Q'</b> pertencem à hélice esférica.</figcaption>
+			   <figcaption>Como a esfera é simétrica em relação a qualquer seção que passa pelo centro, temos que os simétricos de <b>R</b> e de <b>R'</b> em relação a <b>PQ</b> e <b>P'Q'</b> pertencem à hélice esférica.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="652" name="sl">
@@ -4939,9 +4939,208 @@
 		<img src="modulo5/56_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-56c.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.2</span></div>
    <img src="modulo5/apostila_nova_2022b-56d.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hélice hiperbólica em projeções ortogonais e também em perspectiva. Vamos considerar a superfície de um hiperbolóide de revolução.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="658" name="sl">
+			   <label for="658"></label>
+			   <img src="modulo5/56_05_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>xOy</b>. Construa a projeção frontal da hipérbole com centro na mesma reta paralela ao eixo <b>y</b> que passa por <b>A'</b>. Considere o segmento <b>PQ // P'Q'</b> que passa por <b>A</b> e contém os focos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="659" name="sl">
+			   <label for="659"></label>
+			   <img src="modulo5/56_05_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto limite <b>T</b> da projeção frontal a partir do diâmetro paralelo ao eixo <b>x</b>.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="660" name="sl">
+			   <label for="660"></label>
+			   <img src="modulo5/56_05_04.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>K &isin; QT</b>, e o ponto da projeção frontal <b>D</b> tal que <b>DE // QT</b> e <b>KD // P'Q'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="661" name="sl">
+			   <label for="661"></label>
+			   <img src="modulo5/56_05_05.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Usando uma regra de três, temos que o segmento <b>DE</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha; = P'A'C'</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot DE} \over {r} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="662" name="sl">
+			   <label for="662"></label>
+			   <img src="modulo5/56_05_06.png" loading="lazy"/>
+			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do hiperbolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice hiperbólica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="663" name="sl">
+			   <label for="663"></label>
+			   <img src="modulo5/56_05_07.png" loading="lazy"/>
+			   <figcaption>O ponto correspondente de <b>R'</b> da projeção frontal é <b>R</b> tal que <b>RR' // QT</b> e <b>R &isin; KF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="664" name="sl">
+			   <label for="664"></label>
+			   <img src="modulo5/56_05_08.png" loading="lazy"/>
+			   <figcaption>Como o hiperbolóide é simétrico em relação a qualquer seção que passa pelo centro, temos que os simétricos de <b>R</b> e de <b>R'</b> em relação a <b>PQ</b> e <b>P'Q'</b> pertencem à hélice hiperbólica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="665" name="sl">
+			   <label for="665"></label>
+			   <img src="modulo5/56_05_09.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R</b> e <b>S</b> em relação ao ponto <b>K</b> definem a projeção frontal da hélice hiperbólica. Os lugares geométricos dos pontos <b>R'</b> e <b>S'</b> em relação ao ponto <b>K</b> definem a projeção superior da hélice hiperbólica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="666" name="sl">
+			   <label for="666"></label>
+			   <img src="modulo5/56_05_10.png" loading="lazy"/>
+			   <figcaption>Construa os eixos em perspectiva e defina as coordenadas e projeções dos pontos <b>R'</b> e <b>S'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="667" name="sl">
+			   <label for="667"></label>
+			   <img src="modulo5/56_05_11.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R'</b> e <b>S'</b> da perspectiva em relação ao ponto <b>K</b> definem a projeção da hélice hiperbólica em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="668" name="sl">
+			   <label for="668"></label>
+			   <img src="modulo5/56_05_12.png" loading="lazy"/>
+			   <figcaption>Transfira as medidas <b>UR</b> e <b>US</b> para a perspectiva, tal que <b>RR' // z</b>, <b>RR' = UR + 1</b>, <b>SS' // z</b> e <b>SS' = US + 1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="669" name="sl">
+			   <label for="669"></label>
+			   <img src="modulo5/56_05_13.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos dos pontos <b>R</b> e <b>S</b> na perspectiva em relação ao ponto <b>K</b> definem a projeção da hélice hiperbólica na perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="670" name="sl">
+			   <label for="670"></label>
+			   <img src="modulo5/56_05_14.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices hiperbólicas representadas em projeções e também em perspectiva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_05_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo5/apostila_nova_2022b-56e.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma hélice parabólica em projeções ortogonais e também em perspectiva. Vamos considerar a superfície de um parabolóide de revolução.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="671" name="sl">
+			   <label for="671"></label>
+			   <img src="modulo5/56_06_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de centro <b>A'</b> e raio <b>r</b> e os eixos perpendiculares <b>x</b> e <b>y</b> com origem do sistema de coordenadas <b>xOy</b>. Construa a projeção frontal da parábola com o vértice na mesma reta paralela ao eixo <b>y</b> que passa por <b>A'</b>. Considere o segmento <b>PQ // P'Q' // &gamma;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="672" name="sl">
+			   <label for="672"></label>
+			   <img src="modulo5/56_06_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto limite <b>T</b> da projeção frontal que pertence à reta paralela ao eixo <b>x</b> que passa pelo vértice da parábola.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="673" name="sl">
+			   <label for="673"></label>
+			   <img src="modulo5/56_06_04.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>K &isin; QT</b>, e o ponto da projeção frontal <b>D</b> tal que <b>DE // QT</b> e <b>KD // P'Q'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="674" name="sl">
+			   <label for="674"></label>
+			   <img src="modulo5/56_06_05.png" loading="lazy"/>
+			   <figcaption>Considere um número chamado <b>voltas</b>, que será usado para controlar o número de voltas da hélice. Usando uma regra de três, temos que o segmento <b>DE</b> corresponde à altura relativa que define a medida do ângulo central da base <b>&alpha; = P'A'C'</b> por meio da seguinte expressão: $\mathsf{ \alpha = { {2\pi \cdot voltas \cdot DE} \over {r} } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="675" name="sl">
+			   <label for="675"></label>
+			   <img src="modulo5/56_06_06.png" loading="lazy"/>
+			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do parabolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice parabólica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="676" name="sl">
+			   <label for="676"></label>
+			   <img src="modulo5/56_06_07.png" loading="lazy"/>
+			   <figcaption>O ponto correspondente de <b>R'</b> da projeção frontal é <b>R</b> tal que <b>RR' // QT</b> e <b>R &isin; KF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="677" name="sl">
+			   <label for="677"></label>
+			   <img src="modulo5/56_06_08.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>R</b> em relação ao ponto <b>K</b> define a projeção frontal da hélice parabólica. O lugar geométrico do ponto <b>R'</b> em relação ao ponto <b>K</b> define a projeção superior da hélice parabólica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="678" name="sl">
+			   <label for="678"></label>
+			   <img src="modulo5/56_06_09.png" loading="lazy"/>
+			   <figcaption>Construa os eixos em perspectiva e defina as coordenadas e a projeção do ponto <b>R'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="679" name="sl">
+			   <label for="679"></label>
+			   <img src="modulo5/56_06_10.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>R'</b> da perspectiva em relação ao ponto <b>K</b> define a projeção da hélice parabólica em perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="680" name="sl">
+			   <label for="680"></label>
+			   <img src="modulo5/56_06_11.png" loading="lazy"/>
+			   <figcaption>Transfira a medida <b>UR</b> para a perspectiva, tal que <b>RR' // z</b> e <b>RR' = UR + 1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="681" name="sl">
+			   <label for="681"></label>
+			   <img src="modulo5/56_06_12.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>R</b> na perspectiva em relação ao ponto <b>K</b> define a projeção da hélice parabólica na perspectiva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="682" name="sl">
+			   <label for="682"></label>
+			   <img src="modulo5/56_06_13.png" loading="lazy"/>
+			   <figcaption>Modificando o valor do número <b>voltas</b>, temos outras hélices parabólicas representadas em projeções e também em perspectiva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_06_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo5/apostila_nova_2022b-56f.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Agnesi a partir de uma circunferência de centro <b>A</b> e raio <b>a</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="683" name="sl">
+			   <label for="683"></label>
+			   <img src="modulo5/56_07_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo um diâmetro <b>CT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="684" name="sl">
+			   <label for="684"></label>
+			   <img src="modulo5/56_07_02.png" loading="lazy"/>
+			   <figcaption>Na extremidade <b>T</b>, construa uma reta tangente <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="685" name="sl">
+			   <label for="685"></label>
+			   <img src="modulo5/56_07_03.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto qualquer <b>B &isin; t</b> e defina o segmento <b>BC</b>.</figcaption>
+		   </li>
+		    <li>
+			   <input type="radio" id="686" name="sl">
+			   <label for="686"></label>
+			   <img src="modulo5/56_07_04.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto da circunferência <b>D &isin; BC</b> e o ponto <b>P</b> tal que <b>PD // t</b> e <b>PB // CT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="687" name="sl">
+			   <label for="687"></label>
+			   <img src="modulo5/56_07_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico do ponto <b>P</b> em relação ao ponto <b>B</b> é a curva de Agnesi relativa à circunferência de centro <b>A</b> e raio <b>a</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/56_07_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-57.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

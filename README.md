@@ -5318,7 +5318,7 @@
 			   <input type="radio" id="711" name="sl">
 			   <label for="711"></label>
 			   <img src="modulo5/59_01_03.png" loading="lazy"/>
-			   <figcaption>Defina o ângulo $\mathsf{ \alpha; = { {AC \cdot \pi} \over {AB} } }$, ou seja, proporcional em relação ao ângulo de 180&deg; e do diâmetro <b>AB</b>.</figcaption>
+			   <figcaption>Defina o ângulo $\mathsf{ \alpha = { {AC \cdot \pi} \over {AB} } }$, ou seja, proporcional em relação ao ângulo de 180&deg; e ao diâmetro <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="712" name="sl">
@@ -5386,7 +5386,7 @@
 			   <input type="radio" id="719a" name="sl">
 			   <label for="719a"></label>
 			   <img src="modulo5/59_03_02.png" loading="lazy"/>
-			   <figcaption>Construa o diâmetro <b>AB &perp; c<sub>2</sub></b>.</figcaption>
+			   <figcaption>Construa o diâmetro <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="720" name="sl">

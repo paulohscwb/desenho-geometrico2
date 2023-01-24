@@ -5225,13 +5225,13 @@
 			   <input type="radio" id="698" name="sl">
 			   <label for="698"></label>
 			   <img src="modulo5/58_01_05.png" loading="lazy"/>
-			   <figcaption>Para encontrar um ponto <b>P</b> da curva de Cassini, construa a <b>Circunf(F', A'C)</b>...</figcaption>
+			   <figcaption>Para encontrar um ponto <b>P</b> da curva de Cassini, construa a <b>Circunf(F', A'B)</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="699" name="sl">
 			   <label for="699"></label>
 			   <img src="modulo5/58_01_06.png" loading="lazy"/>
-			   <figcaption>... e a <b>Circunf(F, A'B)</b>. A interseção destas duas circunferências define dois pontos da curva de Cassini, simétricos em relação ao diâmetro <b>AA'</b>.</figcaption>
+			   <figcaption>... e a <b>Circunf(F, A'C)</b>. A interseção destas duas circunferências define dois pontos da curva de Cassini, simétricos em relação ao diâmetro <b>AA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="700" name="sl">

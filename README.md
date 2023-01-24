@@ -5973,6 +5973,122 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-65.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva kappa, dados o ponto <b>O</b> e a reta <b>s</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="800" name="sl">
+			   <label for="800"></label>
+			   <img src="modulo5/65_01_01.png" loading="lazy"/>
+			   <figcaption>Determine uma reta <b>s</b> e um ponto <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="804" name="sl">
+			   <label for="804"></label>
+			   <img src="modulo5/65_01_02.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>A &isin; s</b> tal que <b>AO &perp; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="805" name="sl">
+			   <label for="805"></label>
+			   <img src="modulo5/65_01_03.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B &isin; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="806" name="sl">
+			   <label for="806"></label>
+			   <img src="modulo5/65_01_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>OB</b> e determine a medida <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="807" name="sl">
+			   <label for="807"></label>
+			   <img src="modulo5/65_01_05.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos <b>P &isin; OB</b> e <b>Q &isin; OB</b> tais que <b>OP = OQ = AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="808" name="sl">
+			   <label for="808"></label>
+			   <img src="modulo5/65_01_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> determinam uma curva kappa.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/65_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-65a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a reta <b>s</b> da curva kappa, dados o ponto <b>P</b> da curva, a reta que contém o ponto <b>A</b> e o ponto <b>O</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="809" name="sl">
+			   <label for="809"></label>
+			   <img src="modulo5/65_02_01.png" loading="lazy"/>
+			   <figcaption>Determine a distância <b>OP</b> e escolha um ponto <b>C &isin; q</b> para construir <b>CD &perp; q</b>. Esta é a distância do ponto <b>A</b> até o ponto <b>B</b> que define o ponto dado <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="810" name="sl">
+			   <label for="810"></label>
+			   <img src="modulo5/65_02_02.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>BD // q</b>, definindo o ponto <b>B</b> no prolongamento de <b>OP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="811" name="sl">
+			   <label for="811"></label>
+			   <img src="modulo5/65_02_03.png" loading="lazy"/>
+			   <figcaption>Logo, a reta <b>s</b> será perpendicular à reta <b>q</b> e passará no ponto <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="812" name="sl">
+			   <label for="812"></label>
+			   <img src="modulo5/65_02_04.png" loading="lazy"/>
+			   <figcaption>O simétrico de <b>P</b> em relação ao ponto <b>O</b> pertence à curva kappa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="813" name="sl">
+			   <label for="813"></label>
+			   <img src="modulo5/65_02_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> determinam uma curva kappa.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/65_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-65b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva quártica piriforme dados a circunferência, o ponto <b>A</b> e a reta <b>s</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="814" name="sl">
+			   <label for="814"></label>
+			   <img src="modulo5/65_03_01.png" loading="lazy"/>
+			   <figcaption>Determine circunferência de raio <b>OA</b> e a reta secante <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="815" name="sl">
+			   <label for="815"></label>
+			   <img src="modulo5/65_03_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>B</b> pertencente à circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="816" name="sl">
+			   <label for="816"></label>
+			   <img src="modulo5/65_03_03.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>BC &perp; s</b> tal que <b>C &isin; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="817" name="sl">
+			   <label for="817"></label>
+			   <img src="modulo5/65_03_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>AC</b> e encontre o ponto <b>P &isin; AC</b> tal que <b>BP // s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="818" name="sl">
+			   <label for="818"></label>
+			   <img src="modulo5/65_03_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>B</b> determina uma curva quártica piriforme.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/65_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
 </details>
 

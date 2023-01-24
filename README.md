@@ -5490,7 +5490,7 @@
 			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a cissóide das curvas <b>c<sub>1</sub></b> e <b>c<sub>2</sub></b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="modulo5/60_01_00.png" class="fundo" loading="lazy"/>
+		<img src="modulo5/60_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-60b.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5616,7 +5616,7 @@
 			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a conchóide da curva <b>c</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="modulo5/60_05_00.png" class="fundo" loading="lazy"/>
+		<img src="modulo5/60_07_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-60g.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5632,7 +5632,7 @@
 			   <input type="radio" id="751" name="sl">
 			   <label for="751"></label>
 			   <img src="modulo5/60_08_02.png" loading="lazy"/>
-			   <figcaption>Defina o diâmetro <b>AB</b> e o ponto <b>C</b> da circunferência.</figcaption>
+			   <figcaption>Defina o diâmetro <b>AB</b> e um ponto <b>C</b> da circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="752" name="sl">

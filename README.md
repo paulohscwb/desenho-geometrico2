@@ -5419,6 +5419,242 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.3</span></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-60.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma cissóide de uma elipse secante a uma reta.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="724" name="sl">
+			   <label for="724"></label>
+			   <img src="modulo5/60_01_01.png" loading="lazy"/>
+			   <figcaption>Construa uma elipse que contém um ponto <b>K</b> (curva <b>c<sub>1</sub></b>) e uma reta secante a esta elipse (curva <b>c<sub>2</sub></b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="725" name="sl">
+			   <label for="725"></label>
+			   <img src="modulo5/60_01_02.png" loading="lazy"/>
+			   <figcaption>Construa o diâmetro <b>AB &perp; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="726" name="sl">
+			   <label for="726"></label>
+			   <img src="modulo5/60_01_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="727" name="sl">
+			   <label for="727"></label>
+			   <img src="modulo5/60_01_04.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="728" name="sl">
+			   <label for="728"></label>
+			   <img src="modulo5/60_01_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a cissóide das curvas <b>c<sub>1</sub></b> e <b>c<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma cissóide de uma hipérbole secante a uma reta.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="729" name="sl">
+			   <label for="729"></label>
+			   <img src="modulo5/60_02_01.png" loading="lazy"/>
+			   <figcaption>Construa uma hipérbole que contém um ponto <b>K</b> (curva <b>c<sub>1</sub></b>) e uma reta secante a esta hipérbole (curva <b>c<sub>2</sub></b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="730" name="sl">
+			   <label for="730"></label>
+			   <img src="modulo5/60_02_02.png" loading="lazy"/>
+			   <figcaption>Construa o diâmetro <b>AB &perp; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="731" name="sl">
+			   <label for="731"></label>
+			   <img src="modulo5/60_02_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="732" name="sl">
+			   <label for="732"></label>
+			   <img src="modulo5/60_02_04.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="733" name="sl">
+			   <label for="733"></label>
+			   <img src="modulo5/60_02_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a cissóide das curvas <b>c<sub>1</sub></b> e <b>c<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma conchóide de uma circunferência com parâmetro <b>d</b> e pólo <b>A</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="734" name="sl">
+			   <label for="734"></label>
+			   <img src="modulo5/60_03_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>OA</b> (curva <b>c</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="735" name="sl">
+			   <label for="735"></label>
+			   <img src="modulo5/60_03_02.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="736" name="sl">
+			   <label for="736"></label>
+			   <img src="modulo5/60_03_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="737" name="sl">
+			   <label for="737"></label>
+			   <img src="modulo5/60_03_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a conchóide da curva <b>c</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60c.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma conchóide de uma circunferência com parâmetro igual ao diâmetro <b>d</b> e pólo <b>A</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="738" name="sl">
+			   <label for="738"></label>
+			   <img src="modulo5/60_04_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência com diâmetro <b>d</b> (curva <b>c</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="739" name="sl">
+			   <label for="739"></label>
+			   <img src="modulo5/60_04_02.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="740" name="sl">
+			   <label for="740"></label>
+			   <img src="modulo5/60_04_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="741" name="sl">
+			   <label for="741"></label>
+			   <img src="modulo5/60_04_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a conchóide da curva <b>c</b>. Este caso especial da conchóide chama-se cardióide.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_04_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60d.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma conchóide de uma reta com parâmetro <b>d</b> e pólo <b>A</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="742" name="sl">
+			   <label for="742"></label>
+			   <img src="modulo5/60_05_01.png" loading="lazy"/>
+			   <figcaption>Construa uma reta (curva <b>c</b>) e determine um ponto <b>A</b> exterior à reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="743" name="sl">
+			   <label for="743"></label>
+			   <img src="modulo5/60_05_02.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="744" name="sl">
+			   <label for="744"></label>
+			   <img src="modulo5/60_05_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="745" name="sl">
+			   <label for="745"></label>
+			   <img src="modulo5/60_05_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a conchóide da curva <b>c</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_05_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60e.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.4</span></div>
+   <img src="modulo5/apostila_nova_2022b-60f.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma conchóide de uma hipérbole com parâmetro <b>d</b> e pólo <b>A</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="746" name="sl">
+			   <label for="746"></label>
+			   <img src="modulo5/60_07_01.png" loading="lazy"/>
+			   <figcaption>Construa uma hipérbole que contém um ponto <b>K</b> (curva <b>c</b>) e determine um ponto <b>A</b> da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="747" name="sl">
+			   <label for="747"></label>
+			   <img src="modulo5/60_07_02.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="748" name="sl">
+			   <label for="748"></label>
+			   <img src="modulo5/60_07_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="749" name="sl">
+			   <label for="749"></label>
+			   <img src="modulo5/60_07_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a conchóide da curva <b>c</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_05_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-60g.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma besácea com parâmetros <b>AB</b> e <b>AC</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="750" name="sl">
+			   <label for="750"></label>
+			   <img src="modulo5/60_08_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="751" name="sl">
+			   <label for="751"></label>
+			   <img src="modulo5/60_08_02.png" loading="lazy"/>
+			   <figcaption>Defina o diâmetro <b>AB</b> e o ponto <b>C</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="752" name="sl">
+			   <label for="752"></label>
+			   <img src="modulo5/60_08_03.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>E</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="753" name="sl">
+			   <label for="753"></label>
+			   <img src="modulo5/60_08_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta <b>ED // BC</b> e encontre os pontos <b>P &isin; ED</b> e <b>Q &isin; ED</b> tais que <b>PD = QD = EC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="754" name="sl">
+			   <label for="754"></label>
+			   <img src="modulo5/60_08_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem uma curva chamada besácea.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/60_08_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-61.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

@@ -5299,6 +5299,124 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-59.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma quadratriz de Hippias a partir do segmento <b>AB</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="709" name="sl">
+			   <label for="709"></label>
+			   <img src="modulo5/59_01_01.png" loading="lazy"/>
+			   <figcaption>Construa a semicircunferência de diâmetro <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710" name="sl">
+			   <label for="710"></label>
+			   <img src="modulo5/59_01_02.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>C &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="711" name="sl">
+			   <label for="711"></label>
+			   <img src="modulo5/59_01_03.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo $\mathsf{ \alpha; = { {AC \cdot \pi} \over {AB} } }$, ou seja, proporcional em relação ao ângulo de 180&deg; e do diâmetro <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="712" name="sl">
+			   <label for="712"></label>
+			   <img src="modulo5/59_01_04.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>P</b> tal que <b>CP &perp; AB</b> e <b>P &isin; OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="713" name="sl">
+			   <label for="713"></label>
+			   <img src="modulo5/59_01_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> define a quadratriz de Hippias com diâmetro <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/59_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-59a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma cissóide de uma circunferência exterior a uma reta.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="714" name="sl">
+			   <label for="714"></label>
+			   <img src="modulo5/59_02_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>r</b> (curva <b>c<sub>1</sub></b>) e uma reta exterior a esta circunferência (curva <b>c<sub>2</sub></b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="715" name="sl">
+			   <label for="715"></label>
+			   <img src="modulo5/59_02_02.png" loading="lazy"/>
+			   <figcaption>Construa o diâmetro <b>AB &perp; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="716" name="sl">
+			   <label for="716"></label>
+			   <img src="modulo5/59_02_03.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="717" name="sl">
+			   <label for="717"></label>
+			   <img src="modulo5/59_02_04.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="718" name="sl">
+			   <label for="718"></label>
+			   <img src="modulo5/59_02_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a cissóide das curvas <b>c<sub>1</sub></b> e <b>c<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/59_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-59b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma cissóide de uma circunferência tangente a uma reta.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="719" name="sl">
+			   <label for="719"></label>
+			   <img src="modulo5/59_03_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>r</b> (curva <b>c<sub>1</sub></b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="719a" name="sl">
+			   <label for="719a"></label>
+			   <img src="modulo5/59_03_02.png" loading="lazy"/>
+			   <figcaption>Construa o diâmetro <b>AB &perp; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720" name="sl">
+			   <label for="720"></label>
+			   <img src="modulo5/59_03_03.png" loading="lazy"/>
+			   <figcaption>Construa a reta tangente à circunferência (curva <b>c<sub>2</sub></b>) pela extremidade <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="721" name="sl">
+			   <label for="721"></label>
+			   <img src="modulo5/59_03_04.png" loading="lazy"/>
+			   <figcaption>Defina o ponto <b>C &isin; c<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="722" name="sl">
+			   <label for="722"></label>
+			   <img src="modulo5/59_03_05.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P &isin; AC</b> e <b>Q &isin; AC</b> tais que <b>CP = CQ = AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="723" name="sl">
+			   <label for="723"></label>
+			   <img src="modulo5/59_03_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> definem a cissóide das curvas <b>c<sub>1</sub></b> e <b>c<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/59_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-59c.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.3</span></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-60.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

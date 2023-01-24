@@ -5231,30 +5231,72 @@
 			   <input type="radio" id="699" name="sl">
 			   <label for="699"></label>
 			   <img src="modulo5/58_01_06.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é a curva Catenária com parâmetro <b>a</b>.</figcaption>
+			   <figcaption>... e a <b>Circunf(F, A'B)</b>. A interseção destas duas circunferências define dois pontos da curva de Cassini, simétricos em relação ao diâmetro <b>AA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="700" name="sl">
 			   <label for="700"></label>
 			   <img src="modulo5/58_01_07.png" loading="lazy"/>
-			   <figcaption>Começamos construindo um segmento <b>AB</b> que será usado como parâmetro da curva. Defina o segmento <b>a  &perp; AB</b>.</figcaption>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>P'</b> em relação ao ponto <b>B</b> definem a curva de Cassini com parâmetros <b>AA'</b> e <b>FF'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="701" name="sl">
 			   <label for="701"></label>
 			   <img src="modulo5/58_01_08.png" loading="lazy"/>
-			   <figcaption>A curva Catenária pode ser definida a partir de um ponto <b>C &isin; a</b> tal que $\mathsf{ CP = cosh \left( { {AC} \over {AB} } \right) }$.</figcaption>
+			   <figcaption>Modificando o tamanho de <b>FF'</b>, temos outros formatos da curvas de Cassini.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="702" name="sl">
 			   <label for="702"></label>
 			   <img src="modulo5/58_01_09.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> é a curva Catenária com parâmetro <b>a</b>.</figcaption>
+			   <figcaption>Modificando o tamanho de <b>FF'</b>, temos outros formatos da curvas de Cassini.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo5/58_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo5/apostila_nova_2022b-58a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva lemniscata de Bernoulli a partir do segmento <b>FF'</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="703" name="sl">
+			   <label for="703"></label>
+			   <img src="modulo5/58_02_01.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>FF'</b> e encontre o ponto médio <b>O</b>, que será o centro da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704" name="sl">
+			   <label for="704"></label>
+			   <img src="modulo5/58_02_02.png" loading="lazy"/>
+			   <figcaption>Determine o ângulo central <b>F'OA'' = 45&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705" name="sl">
+			   <label for="705"></label>
+			   <img src="modulo5/58_02_03.png" loading="lazy"/>
+			   <figcaption>A lemniscata de Bernoulli é um caso especial da curva de Cassini, quando <b>a = OF</b>. Para determinar o ponto <b>A'</b>, basta construir o segmento <b>A''A'</b> tangente à circunferência. Logo, teremos que <b>A''A'&sup2; = a&sup2;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706" name="sl">
+			   <label for="706"></label>
+			   <img src="modulo5/58_02_04.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B</b> da circunferência e defina o segmento <b>A'C</b> tal que <b>B &isin; A'C</b>. Um ponto da lemniscata tem as distâncias aos focos com a potência de ponto fixa igual a <b>A'B &middot; A'C = a&sup2;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707" name="sl">
+			   <label for="707"></label>
+			   <img src="modulo5/58_02_05.png" loading="lazy"/>
+			   <figcaption>Para encontrar os pontos <b>P</b> e <b>P'</b> da lemniscata, construa as <b>Circunf(F', A'B)</b> e <b>Circunf(F, A'C)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708" name="sl">
+			   <label for="708"></label>
+			   <img src="modulo5/58_02_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>P'</b> em relação ao ponto <b>B</b> definem a lemniscata de Bernoulli com parâmetro <b>FF'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/58_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-59.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

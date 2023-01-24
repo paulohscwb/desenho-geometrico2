@@ -5714,6 +5714,97 @@
    <img src="modulo5/apostila_nova_2022b-61a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-62.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva aerofólio dadas as circunferências <b>&alpha;</b> e <b>&beta;</b> e a reta <b>r</b>.</p>
+	  <ul class="slider">
+	  	   <li>
+			   <input type="radio" id="763" name="sl">
+			   <label for="763"></label>
+			   <img src="modulo5/62_01_01.png" loading="lazy"/>
+			   <figcaption>Construa as circunferências secantes <b>&alpha;</b> e <b>&beta;</b> e a reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="764" name="sl">
+			   <label for="764"></label>
+			   <img src="modulo5/62_01_02.png" loading="lazy"/>
+			   <figcaption>Defina um ponto <b>A &isin; &alpha;</b> e construa o inverso de <b>A</b> em relação a <b>&beta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="765" name="sl">
+			   <label for="765"></label>
+			   <img src="modulo5/62_01_03.png" loading="lazy"/>
+			   <figcaption>Determine o ponto <b>A''</b> simétrico de <b>A'</b> em relação à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="766" name="sl">
+			   <label for="766"></label>
+			   <img src="modulo5/62_01_04.png" loading="lazy"/>
+			   <figcaption>Determine o ponto médio de <b>AA''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="767" name="sl">
+			   <label for="767"></label>
+			   <img src="modulo5/62_01_05.png" loading="lazy"/>
+			   <figcaption>A curva aerofólio é o lugar geométrico de <b>P</b> em relação ao ponto <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/62_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo5/apostila_nova_2022b-62a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos determinar a reta que define uma curva aerofólio que passa por <b>P</b>, dadas as circunferências <b>&alpha;</b> e <b>&beta;</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="769" name="sl">
+			   <label for="769"></label>
+			   <img src="modulo5/62_02_02.png" loading="lazy"/>
+			   <figcaption>Defina o ponto simétrico de <b>A &isin; &alpha;</b> em relação ao ponto <b>P</b> (pois <b>P</p> é o ponto médio de <b>AA''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="770" name="sl">
+			   <label for="770"></label>
+			   <img src="modulo5/62_02_03.png" loading="lazy"/>
+			   <figcaption>Determine o ponto <b>A'</b> inverso de <b>A</b> em relação a <b>&beta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="771" name="sl">
+			   <label for="771"></label>
+			   <img src="modulo5/62_02_04.png" loading="lazy"/>
+			   <figcaption>Logo, a reta procurada é a mediatriz de <b>A'A'' </b> (pois <b>A'</b> e <b>A''</b> são simétricos em relação à reta <b>r</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="772" name="sl">
+			   <label for="772"></label>
+			   <img src="modulo5/62_02_05.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B &isin; &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="773" name="sl">
+			   <label for="773"></label>
+			   <img src="modulo5/62_02_06.png" loading="lazy"/>
+			   <figcaption>Encontre o inverso de <b>B</b> em relação a <b>&beta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="774" name="sl">
+			   <label for="774"></label>
+			   <img src="modulo5/62_02_07.png" loading="lazy"/>
+			   <figcaption>Determine o simétrico de <b>B'</b> em relação à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="775" name="sl">
+			   <label for="775"></label>
+			   <img src="modulo5/62_02_08.png" loading="lazy"/>
+			   <figcaption>Construa o ponto médio de <b>BB''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="776" name="sl">
+			   <label for="776"></label>
+			   <img src="modulo5/62_02_09.png" loading="lazy"/>
+			   <figcaption>A curva aerofólio é o lugar geométrico de <b>P'</b> em relação ao ponto <b>B</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/62_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-63.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

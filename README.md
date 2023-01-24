@@ -5758,7 +5758,7 @@
 			   <input type="radio" id="769" name="sl">
 			   <label for="769"></label>
 			   <img src="modulo5/62_02_02.png" loading="lazy"/>
-			   <figcaption>Defina o ponto simétrico de <b>A &isin; &alpha;</b> em relação ao ponto <b>P</b> (pois <b>P</p> é o ponto médio de <b>AA''</b>.</figcaption>
+			   <figcaption>Defina o ponto simétrico de <b>A &isin; &alpha;</b> em relação ao ponto <b>P</b> (pois <b>P</b> é o ponto médio de <b>AA''</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="770" name="sl">

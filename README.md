@@ -5670,7 +5670,7 @@
 			   <input type="radio" id="756" name="sl">
 			   <label for="756"></label>
 			   <img src="modulo5/61_01_02.png" loading="lazy"/>
-			   <figcaption>Defina um ponto <b>E &isin; AB</b> e a razão relativa à medida <b>AB</b> $\mathsf{ c = { {AE} \over {AB} } }$. Usaremos este número para encontrar os pontos correspondentes nos outros segmentos.</figcaption>
+			   <figcaption>Defina um ponto <b>E &isin; AB</b> e a razão $\mathsf{ c = { {AE} \over {AB} } }$ relativa à medida <b>AB</b>. Usaremos este número para encontrar os pontos correspondentes nos outros segmentos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="757" name="sl">
@@ -5682,25 +5682,25 @@
 			   <input type="radio" id="758" name="sl">
 			   <label for="758"></label>
 			   <img src="modulo5/61_01_04.png" loading="lazy"/>
-			   <figcaption>Determine o ponto <b>G &isin; CD</b> tal que <b>G = C + c&middot;(D - C).</figcaption>
+			   <figcaption>Determine o ponto <b>G &isin; CD</b> tal que <b>G = C + c&middot;(D - C)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="759" name="sl">
 			   <label for="759"></label>
 			   <img src="modulo5/61_01_05.png" loading="lazy"/>
-			   <figcaption>Determine o ponto <b>H &isin; EF</b> tal que <b>H = E + c&middot;(F - E).</figcaption>
+			   <figcaption>Determine o ponto <b>H &isin; EF</b> tal que <b>H = E + c&middot;(F - E)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="760" name="sl">
 			   <label for="760"></label>
 			   <img src="modulo5/61_01_06.png" loading="lazy"/>
-			   <figcaption>Determine o ponto <b>I &isin; FG</b> tal que <b>I = F + c&middot;(G - F).</figcaption>
+			   <figcaption>Determine o ponto <b>I &isin; FG</b> tal que <b>I = F + c&middot;(G - F)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="761" name="sl">
 			   <label for="761"></label>
 			   <img src="modulo5/61_01_07.png" loading="lazy"/>
-			   <figcaption>Para finalizar, determine o ponto <b>J &isin; HI</b> tal que <b>J = H + c&middot;(I - H).</figcaption>
+			   <figcaption>Para finalizar, determine o ponto <b>J &isin; HI</b> tal que <b>J = H + c&middot;(I - H)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="762" name="sl">

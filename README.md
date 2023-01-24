@@ -5676,7 +5676,7 @@
 			   <input type="radio" id="757" name="sl">
 			   <label for="757"></label>
 			   <img src="modulo5/61_01_03.png" loading="lazy"/>
-			   <figcaption>Determine o ponto <b>F &isin; BC</b> tal que <b>F = B + c&middot;(C - B). Desta forma, temos o ponto <b>F</b> com a mesma razão de distâncias do ponto <b>E</b>, porém, em relação ao segmento <b>BC</b>.</figcaption>
+			   <figcaption>Determine o ponto <b>F &isin; BC</b> tal que <b>F = B + c&middot;(C - B)</b>. Desta forma, temos o ponto <b>F</b> com a mesma razão de distâncias do ponto <b>E</b>, porém, em relação ao segmento <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="758" name="sl">

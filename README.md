@@ -5814,7 +5814,7 @@
 			   <input type="radio" id="777" name="sl">
 			   <label for="777"></label>
 			   <img src="modulo5/63_01_01.png" loading="lazy"/>
-			   <figcaption><b>1&ordf; definição</b>: Construa as circunferências com raios iguais, tangentes no ponto <b>A</p>.</figcaption>
+			   <figcaption><b>1&ordf; definição</b>: Construa as circunferências com raios iguais, tangentes no ponto <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="778" name="sl">
@@ -5826,7 +5826,7 @@
 			   <input type="radio" id="779" name="sl">
 			   <label for="779"></label>
 			   <img src="modulo5/63_01_03.png" loading="lazy"/>
-			   <figcaption>encontre a reta polar de <b>B</b> em relação a <b>&alpha;</b>.</figcaption>
+			   <figcaption>Encontre a reta polar de <b>B</b> em relação a <b>&alpha;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="780" name="sl">
@@ -5893,6 +5893,84 @@
   </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-64.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva lemniscata de Gerono usando as três definições apresentadas nesta página.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="791" name="sl">
+			   <label for="791"></label>
+			   <img src="modulo5/64_01_02.png" loading="lazy"/>
+			   <figcaption><b>1&ordf; definição</b>: Determine uma circunferência de raio <b>OA</b>, um ponto <b>B</b> desta circunferência e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="792" name="sl">
+			   <label for="792"></label>
+			   <img src="modulo5/64_01_03.png" loading="lazy"/>
+			   <figcaption>Determine o segmento <b>BC &perp; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="793" name="sl">
+			   <label for="793"></label>
+			   <img src="modulo5/64_01_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>CD</b> que passa pelo centro <b>O</b>. Determine <b>P &isin; CD</b> tal que <b>BP // t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="794" name="sl">
+			   <label for="794"></label>
+			   <img src="modulo5/64_01_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>B</b> é uma lemniscata de Gerono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="795" name="sl">
+			   <label for="795"></label>
+			   <img src="modulo5/64_01_06.png" loading="lazy"/>
+			   <figcaption><b>2&ordf; definição</b>: Construa uma circunferência com raio <b>OA</b> e a circunferência tangente de diâmetro <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="796" name="sl">
+			   <label for="796"></label>
+			   <img src="modulo5/64_01_07.png" loading="lazy"/>
+			   <figcaption>Determine um ponto <b>B</b> da circunferência menor e construa o diâmetro da circunferência maior <b>CD</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="797" name="sl">
+			   <label for="797"></label>
+			   <img src="modulo5/64_01_08.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos <b>CQ // PD</b> tais que <b>CQ &perp; OA</b> e <b>B &isin; PQ</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="798" name="sl">
+			   <label for="798"></label>
+			   <img src="modulo5/64_01_09.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> determinam uma lemniscata de Gerono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="799" name="sl">
+			   <label for="799"></label>
+			   <img src="modulo5/64_01_11.png" loading="lazy"/>
+			   <figcaption><b>3&ordf; definição</b>: Construa uma circunferência com diâmetro <b>AB</b> e determine um ponto <b>C &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="801" name="sl">
+			   <label for="801"></label>
+			   <img src="modulo5/64_01_12.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos <b>CD &perp; AB</b> e <b>CE &perp; OD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="802" name="sl">
+			   <label for="802"></label>
+			   <img src="modulo5/64_01_13.png" loading="lazy"/>
+			   <figcaption>Determine os pontos <b>P</b> e <b>Q</b> pertencentes à reta <b>CD</b> tais que <b>CP = CQ = CE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="803" name="sl">
+			   <label for="803"></label>
+			   <img src="modulo5/64_01_14.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> determinam uma lemniscata de Gerono.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo5/64_01_00.png" style="visibility:hidden;" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-65.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

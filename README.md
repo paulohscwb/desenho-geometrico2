@@ -6465,6 +6465,134 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-69.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma crosscurve a partir de uma circunferência.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="873" name="sl">
+			   <label for="873"></label>
+			   <img src="modulo6/69_01_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="874" name="sl">
+			   <label for="874"></label>
+			   <img src="modulo6/69_01_02.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos perpendiculares que passam pelo centro <b>O</b> da circunferência. Escolha um ponto <b>A</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="875" name="sl">
+			   <label for="875"></label>
+			   <img src="modulo6/69_01_03.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos <b>AD</b> e <b>AB</b> tangentes à circunferência, onde <b>B</b> e <b>D</b> pertencem ao segmento perpendicular ao segmento que contém <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="876" name="sl">
+			   <label for="876"></label>
+			   <img src="modulo6/69_01_04.png" loading="lazy"/>
+			   <figcaption>Construa as retas perpendiculares a <b>BD</b> que passam por <b>B</b> e por <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="877" name="sl">
+			   <label for="877"></label>
+			   <img src="modulo6/69_01_05.png" loading="lazy"/>
+			   <figcaption>Construa a reta paralela a <b>BD</b> e encontre os pontos <b>C</b> e <b>E</b> nesta reta tais que <b>DE &perp; OD</b> e <b>BC &perp; OD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="878" name="sl">
+			   <label for="878"></label>
+			   <img src="modulo6/69_01_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>E</b> e de <b>C</b> em relação ao ponto <b>A</b> determinam uma crosscurve.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/69_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-69a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Watt a partir das circunferências com raios de medida <b>r</b> e uma distância <b>d</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="879" name="sl">
+			   <label for="879"></label>
+			   <img src="modulo6/69_02_01.png" loading="lazy"/>
+			   <figcaption>Construa as circunferências com raios iguais a <b>r</b> e defina uma distância <b>d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="880" name="sl">
+			   <label for="880"></label>
+			   <img src="modulo6/69_02_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A</b> da circunferência de centro <b>O</b> e encontre os pontos <b>B</b> e <b>C</b> da circunferência de centro <b>O'</b> tais que <b>AB = AC = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="881" name="sl">
+			   <label for="881"></label>
+			   <img src="modulo6/69_02_03.png" loading="lazy"/>
+			   <figcaption>Determine os pontos médios de <b>AB</b> e de <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="882" name="sl">
+			   <label for="882"></label>
+			   <img src="modulo6/69_02_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>D</b> e de <b>E</b> em relação ao ponto <b>A</b> determinam uma curva de Watt.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/69_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-69b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma trissetriz de Ceva a partir de um ponto fixo <b>O</b> e uma distância <b>d</b> e a semi-reta de origem <b>O</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="883" name="sl">
+			   <label for="883"></label>
+			   <img src="modulo6/69_03_01.png" loading="lazy"/>
+			   <figcaption>Construa a semi-reta de origem <b>O</b>, escolha um ponto <b>B</b> desta semi-reta e defina uma distância <b>d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="884" name="sl">
+			   <label for="884"></label>
+			   <img src="modulo6/69_03_02.png" loading="lazy"/>
+			   <figcaption>Encontre um ponto <b>A</b> tal que <b>OA = AB = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="885" name="sl">
+			   <label for="885"></label>
+			   <img src="modulo6/69_03_03.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>B'</b> da semi-reta tal que <b>BB' = d</b>. Defina o ângulo <b>&alpha; = OBA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="886" name="sl">
+			   <label for="886"></label>
+			   <img src="modulo6/69_03_04.png" loading="lazy"/>
+			   <figcaption>Determine o ângulo <b>&beta; = 3&middot;&alpha; = B'BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="887" name="sl">
+			   <label for="887"></label>
+			   <img src="modulo6/69_03_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>C</b> em relação ao ponto <b>B</b> determina uma parte da trissetriz de Ceva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="888" name="sl">
+			   <label for="888"></label>
+			   <img src="modulo6/69_03_06.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>C</b> em relação à semi-reta <b>OB</b>. O lugar geométrico de <b>C<sub>1</sub></b> em relação ao ponto <b>B</b> determina outra parte da trissetriz de Ceva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="889" name="sl">
+			   <label for="889"></label>
+			   <img src="modulo6/69_03_07.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico de <b>C</b> em relação ao ponto <b>O</b>. O lugar geométrico de <b>C<sub>2</sub></b> em relação ao ponto <b>B</b> determina outra parte da trissetriz de Ceva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="890" name="sl">
+			   <label for="890"></label>
+			   <img src="modulo6/69_03_08.png" loading="lazy"/>
+			   <figcaption>Finalmente, encontre o simétrico de <b>C<sub>1</sub></b> em relação ao ponto <b>O</b>. O lugar geométrico de <b>C<sub>3</sub></b> em relação ao ponto <b>B</b> determina outra parte da trissetriz de Ceva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/69_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-70.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

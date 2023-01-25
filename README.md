@@ -6478,7 +6478,7 @@
 			   <input type="radio" id="874" name="sl">
 			   <label for="874"></label>
 			   <img src="modulo6/69_01_02.png" loading="lazy"/>
-			   <figcaption>Construa os segmentos perpendiculares que passam pelo centro <b>O</b> da circunferência. Escolha um ponto <b>A</b> da circunferência.</figcaption>
+			   <figcaption>Construa os segmentos perpendiculares que passam pelo centro <b>O</b> da circunferência. Escolha um ponto <b>A</b> de um dos segmentos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="875" name="sl">

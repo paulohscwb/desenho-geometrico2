@@ -6114,7 +6114,7 @@
 			   <input type="radio" id="821" name="sl">
 			   <label for="821"></label>
 			   <img src="modulo6/66_01_03.png" loading="lazy"/>
-			   <figcaption>Construa os segmentos <b>BQ // OA</b> e <b>BP // OA</b> tais que <b>BP = BQ = OA</b>.</figcaption>
+			   <figcaption>Construa os segmentos <b>BQ // OA</b> e <b>BP // OA</b> tais que <b>BP = BQ = AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="822" name="sl">

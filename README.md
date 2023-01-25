@@ -6416,7 +6416,7 @@
 			   <input type="radio" id="866" name="sl">
 			   <label for="866"></label>
 			   <img src="modulo6/68_01_07.png" loading="lazy"/>
-			   <figcaption>Encontre os pontos de interseção das cônicas, pertencentes à reta que passa por <b>B</b>: <b>D</b>, <b>C</b> e <b>E</b>.</figcaption>
+			   <figcaption>Encontre os pontos de interseção das cônicas que pertencem à reta que passa por <b>B</b>: <b>D</b>, <b>C</b> e <b>E</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="867" name="sl">
@@ -6461,7 +6461,7 @@
 			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> determinam uma curva bifolium.</figcaption>
 		   </li>
 		</ul>
-		<img src="modulo6/68_01_00.png" class="fundo" loading="lazy"/>
+		<img src="modulo6/68_01_00.png" style="visibility:hidden;" class="fundo" loading="lazy"/>
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-69.png" loading="lazy"/>

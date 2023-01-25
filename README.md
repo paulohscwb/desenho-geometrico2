@@ -6207,6 +6207,176 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-67.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Talbot com as circunferências tangentes à elipse passando pelo centro da elipse.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="834" name="sl">
+			   <label for="834"></label>
+			   <img src="modulo6/67_02_01.png" loading="lazy"/>
+			   <figcaption>Construa uma elipse que contém um ponto <b>K</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="835" name="sl">
+			   <label for="835"></label>
+			   <img src="modulo6/67_02_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto da elipse <b>A</b>, e obtenha o simétrico do foco <b>F<sub>2</sub></b> em relação à reta tangente: <b>AF'<sub>2</sub> = AF<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="836" name="sl">
+			   <label for="836"></label>
+			   <img src="modulo6/67_02_03.png" loading="lazy"/>
+			   <figcaption>A reta tangente <b>t</b> é a mediatriz do segmento <b>F<sub>2</sub>F'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="837" name="sl">
+			   <label for="837"></label>
+			   <img src="modulo6/67_02_04.png" loading="lazy"/>
+			   <figcaption>Encontre o centro da cônica construindo a mediatriz do segmento que define os focos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="838" name="sl">
+			   <label for="838"></label>
+			   <img src="modulo6/67_02_05.png" loading="lazy"/>
+			   <figcaption>A circunferência tangente à elipse no ponto <b>A</b> tem o centro na mediatriz de <b>OA</b> (porque passa pelo centro da cônica). Como a circunferência fica tangente à elipse no ponto <b>A</b>, o centro pertence à reta <b>AP &perp; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="839" name="sl">
+			   <label for="839"></label>
+			   <img src="modulo6/67_02_06.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A</b> determina uma curva de Talbot. Construa uma curva de Talbot que passa pelo foco <b>F<sub>1</sub></b> ao invés de passar pelo centro da cônica.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/67_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-67a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir curvas rosáceas com <b>n</b> = 2, 3, 4, 5 e 6.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="840" name="sl">
+			   <label for="840"></label>
+			   <img src="modulo6/67_03_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="841" name="sl">
+			   <label for="841"></label>
+			   <img src="modulo6/67_03_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto da circunferência <b>A'</b> e defina o ângulo <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="842" name="sl">
+			   <label for="842"></label>
+			   <img src="modulo6/67_03_03.png" loading="lazy"/>
+			   <figcaption>Defina um número <b>n</b> e o ângulo <b>&beta; = n&middot;&alpha; = AOA''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="843" name="sl">
+			   <label for="843"></label>
+			   <img src="modulo6/67_03_04.png" loading="lazy"/>
+			   <figcaption>Construa a <b>Circunf(A'', A''O)</b> e determine o ponto <b>P</b> nesta circunferência tal que <b>P &isin; A'O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="844" name="sl">
+			   <label for="844"></label>
+			   <img src="modulo6/67_03_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A'</b> determina uma rosácea com <b>n = 3</b>: uma curva com 4 "pétalas".</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="845" name="sl">
+			   <label for="845"></label>
+			   <img src="modulo6/67_03_06.png" loading="lazy"/>
+			   <figcaption>Quando <b>n = 2</b>, a rosácea coincide com uma circunferência com raio <b>OA</b> e centro em <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="846" name="sl">
+			   <label for="846"></label>
+			   <img src="modulo6/67_03_07.png" loading="lazy"/>
+			   <figcaption>Quando <b>n = 4</b>, a rosácea contém 3 "pétalas".</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="847" name="sl">
+			   <label for="847"></label>
+			   <img src="modulo6/67_03_08.png" loading="lazy"/>
+			   <figcaption>Quando <b>n = 5</b>, a rosácea contém 8 "pétalas".</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="848" name="sl">
+			   <label for="848"></label>
+			   <img src="modulo6/67_03_09.png" loading="lazy"/>
+			   <figcaption>E quando <b>n = 6</b>, a rosácea contém 5 "pétalas".</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/67_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-67b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as ciclóides centradas usando os pontos médios dos segmentos <b>A'B'</b>, <b>B'P</b> e <b>PA'</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="849" name="sl">
+			   <label for="849"></label>
+			   <img src="modulo6/67_04_01.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="851" name="sl">
+			   <label for="851"></label>
+			   <img src="modulo6/67_04_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência de raio <b>O'B = OA</b>, onde os pontos <b>O</b>, <b>A</b>, <b>O'</b> e <b>B</b> estão alinhados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="852" name="sl">
+			   <label for="852"></label>
+			   <img src="modulo6/67_04_03.png" loading="lazy"/>
+			   <figcaption>Defina um número <b>n</b>, o ângulo <b>&theta;</b> e o ângulo <b>&alpha; = n&middot;&theta; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="853" name="sl">
+			   <label for="853"></label>
+			   <img src="modulo6/67_04_04.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>m</b> e o ângulo <b>&beta; = -m&middot;&theta; = BO'B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="854" name="sl">
+			   <label for="854"></label>
+			   <img src="modulo6/67_04_05.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto médio de <b>A'B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="855" name="sl">
+			   <label for="855"></label>
+			   <img src="modulo6/67_04_06.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&theta;</b> determina uma ciclóide centrada com <b>m = 2</b> e <b>n = 3</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="856" name="sl">
+			   <label for="856"></label>
+			   <img src="modulo6/67_04_07.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto médio de <b>A'P</b>. O lugar geométrico de <b>Q</b> em relação ao ângulo <b>&theta;</b> determina outra ciclóide centrada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="857" name="sl">
+			   <label for="857"></label>
+			   <img src="modulo6/67_04_08.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto médio de <b>B'P</b>. O lugar geométrico de <b>R</b> em relação ao ângulo <b>&theta;</b> determina outra ciclóide centrada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="850" name="sl">
+			   <label for="850"></label>
+			   <img src="modulo6/67_04_09.png" loading="lazy"/>
+			   <figcaption>Modifique os valores de <b>m</b> e de <b>n</b> para obter novas curvas. Neste exemplo, temos <b>m = 5</b> e <b>n = 2</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="858" name="sl">
+			   <label for="858"></label>
+			   <img src="modulo6/67_04_10.png" loading="lazy"/>
+			   <figcaption>Neste exemplo, temos <b>m = 7</b> e <b>n = 3</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/67_04_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-68.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

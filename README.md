@@ -6366,7 +6366,7 @@
 			   <input type="radio" id="850" name="sl">
 			   <label for="850"></label>
 			   <img src="modulo6/67_04_09.png" loading="lazy"/>
-			   <figcaption>Modifique os valores de <b>m</b> e de <b>n</b> para obter novas curvas. Neste exemplo, temos <b>m = 5</b> e <b>n = 2</b>.</figcaption>
+			   <figcaption>Modifique os valores de <b>m</b> e de <b>n</b> para obter novas curvas. Neste exemplo, temos <b>m = 5</b> e <b>n = 3</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="858" name="sl">
@@ -6379,6 +6379,90 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-68.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva bifolium usando as 3 definições mostradas nesta página.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="859" name="sl">
+			   <label for="859"></label>
+			   <img src="modulo6/68_01_01.png" loading="lazy"/>
+			   <figcaption><b>Definição 1</b>: Construa uma circunferência de raio <b>OA</b> e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="861" name="sl">
+			   <label for="861"></label>
+			   <img src="modulo6/68_01_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>B</b> da circunferência e construa a <b>Circunf(B, AB)</b>. Determine o diâmetro <b>PQ // t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="862" name="sl">
+			   <label for="862"></label>
+			   <img src="modulo6/68_01_03.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> definem uma curva bifolium.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="863" name="sl">
+			   <label for="863"></label>
+			   <img src="modulo6/68_01_04.png" loading="lazy"/>
+			   <figcaption><b>Definição 2</b>: Construa uma elipse que contém um ponto <b>K</b> e a reta <b>AF</b> que passa pelo centro da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="864" name="sl">
+			   <label for="864"></label>
+			   <img src="modulo6/68_01_06.png" loading="lazy"/>
+			   <figcaption>Construa uma parábola com vértice <b>A</b> e com a diretriz <b>r</b> que passa pelo simétrico de <b>F</b> em relação ao ponto <b>A</b>. Escolha um ponto <b>B</b> da elipse e construa uma reta paralela a <b>r</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="866" name="sl">
+			   <label for="866"></label>
+			   <img src="modulo6/68_01_07.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos de interseção das cônicas, pertencentes à reta que passa por <b>B</b>: <b>D</b>, <b>C</b> e <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="867" name="sl">
+			   <label for="867"></label>
+			   <img src="modulo6/68_01_08.png" loading="lazy"/>
+			   <figcaption>Encontre os pontos médios de <b>BD</b> e de <b>CE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="860" name="sl">
+			   <label for="860"></label>
+			   <img src="modulo6/68_01_09.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> determinam uma curva bifolium.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="868" name="sl">
+			   <label for="868"></label>
+			   <img src="modulo6/68_01_10.png" loading="lazy"/>
+			   <figcaption><b>Definição 3</b>: Construa uma circunferência com raio <b>OA</b>, e escolha um ponto <b>B</b> da circunferência. Defina a reta <b>AB</b> e escolha um ponto <b>C &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="869" name="sl">
+			   <label for="869"></label>
+			   <img src="modulo6/68_01_11.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>CD &perp; AB</b> e encontre a interseção deste segmento com a circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="870" name="sl">
+			   <label for="870"></label>
+			   <img src="modulo6/68_01_12.png" loading="lazy"/>
+			   <figcaption>Defina o segmento <b>BD</b> e construa <b>PC &perp; BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="871" name="sl">
+			   <label for="871"></label>
+			   <img src="modulo6/68_01_13.png" loading="lazy"/>
+			   <figcaption>Defina o segmento <b>BE</b> e construa <b>QC &perp; BE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="872" name="sl">
+			   <label for="872"></label>
+			   <img src="modulo6/68_01_14.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>C</b> determinam uma curva bifolium.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/68_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-69.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

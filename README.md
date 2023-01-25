@@ -6095,6 +6095,116 @@
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. Curvas paramétricas</summary>
   <p>Material da página 66 até a página 77.</p>
    <img src="modulo6/apostila_nova_2022b-66.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva torpedo dados a circunferência e o ponto fixo <b>A</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="819" name="sl">
+			   <label for="819"></label>
+			   <img src="modulo6/66_01_01.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência de raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="820" name="sl">
+			   <label for="820"></label>
+			   <img src="modulo6/66_01_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>B</b> pertencente à circunferência e determine a distância <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="821" name="sl">
+			   <label for="821"></label>
+			   <img src="modulo6/66_01_03.png" loading="lazy"/>
+			   <figcaption>Construa os segmentos <b>BQ // OA</b> e <b>BP // OA</b> tais que <b>BP = BQ = OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="822" name="sl">
+			   <label for="822"></label>
+			   <img src="modulo6/66_01_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>B</b> determinam uma curva torpedo.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/66_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-66a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva serpentina dados a circunferência, o ponto <b>A</b> e a reta <b>s</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="823" name="sl">
+			   <label for="823"></label>
+			   <img src="modulo6/66_02_01.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência de raio <b>OA</b> e a reta secante <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="824" name="sl">
+			   <label for="824"></label>
+			   <img src="modulo6/66_02_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>B</b> pertencente à reta <b>s</b> e construa a reta perpendicular a <b>s</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="825" name="sl">
+			   <label for="825"></label>
+			   <img src="modulo6/66_02_03.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto de interseção da reta <b>AB</b> com a circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="826" name="sl">
+			   <label for="826"></label>
+			   <img src="modulo6/66_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>CP // s</b> tal que <b>BP &perp; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="827" name="sl">
+			   <label for="827"></label>
+			   <img src="modulo6/66_02_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>B</b> determina uma curva serpentina.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/66_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-66b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos encontrar o ponto fixo que determine a curva serpentina, dados a circunferência, o ponto da curva <b>P</b> e a reta <b>s</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="828" name="sl">
+			   <label for="828"></label>
+			   <img src="modulo6/66_03_01.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>BP &perp; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="829" name="sl">
+			   <label for="829"></label>
+			   <img src="modulo6/66_03_02.png" loading="lazy"/>
+			   <figcaption>Determine o segmento <b>CP // s</b>, onde <b>C</b> pertence à circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="830" name="sl">
+			   <label for="830"></label>
+			   <img src="modulo6/66_03_03.png" loading="lazy"/>
+			   <figcaption>Determine o segmento <b>BC</b>: o ponto fixo da curva está na interseção de <b>BC</b> com a circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="831" name="sl">
+			   <label for="831"></label>
+			   <img src="modulo6/66_03_04.png" loading="lazy"/>
+			   <figcaption>Para encontrar mais um ponto da curva, escolha um ponto <b>B' &isin; s</b> e defina o segmento <b>B'C'</b> que contém o ponto fixo <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="832" name="sl">
+			   <label for="832"></label>
+			   <img src="modulo6/66_03_05.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>C'P' // s</b> tal que <b>B'P' &perp; s</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="833" name="sl">
+			   <label for="833"></label>
+			   <img src="modulo6/66_03_06.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P'</b> em relação ao ponto <b>B'</b> determina uma curva serpentina.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/66_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-67.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

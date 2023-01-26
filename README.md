@@ -6828,7 +6828,7 @@
 			   <input type="radio" id="921" name="sl">
 			   <label for="921"></label>
 			   <img src="modulo6/72_02_03.png" loading="lazy"/>
-			   <figcaption>Construa a reta com equação $\mathsf{ x = p \cdot \left( (cos(\alpha)+ln(tan \left( {\alpha} over {2} \right) \right) }$.</figcaption>
+			   <figcaption>Construa a reta com equação $\mathsf{ x = p \cdot \left( cos(\alpha)+ln(tan \left( {\alpha} \over {2} \right) \right) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="922" name="sl">

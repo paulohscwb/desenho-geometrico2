@@ -6664,7 +6664,7 @@
   </details></div>
    <img src="modulo6/apostila_nova_2022b-70b.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir uma curva de Cramer-Lacroix a partir de uma hipérbole  e de uma distância <b>d</b>.</p>
+	<p>Vamos construir uma curva de Cramer-Lacroix a partir de uma hipérbole e de uma distância <b>d</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="900" name="sl">
@@ -6709,8 +6709,76 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
-   
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral de Euler a partir de um ponto <b>A</b> sobre o eixo <b>x</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="906" name="sl">
+			   <label for="906"></label>
+			   <img src="modulo6/71_01_01.png" loading="lazy"/>
+			   <figcaption>Considere o sistema de coordenadas com os eixos <b>x</b> e <b>y</b>. Defina um segmento de medida <b>e</b> sobre o eixo <b>x</b> e um ponto <b>A &isin; e</b>. Determine a medida do segmento <b>&alpha;</b>, com uma extremidade na origem do sistema de coordenadas e a outra extremidade <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="907" name="sl">
+			   <label for="907"></label>
+			   <img src="modulo6/71_01_02.png" loading="lazy"/>
+			   <figcaption>Defina a reta com equação $\mathsf{ x = { \int_{0}^{\alpha} cos \left( {\pi} \over {2} x^2 \right) \,dx } }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="908" name="sl">
+			   <label for="908"></label>
+			   <img src="modulo6/71_01_03.png" loading="lazy"/>
+			   <figcaption>Defina a reta com equação $\mathsf{ y = { \int_{0}^{\alpha} sen \left( {\pi} \over {2} x^2 \right) \,dx } }$. Encontre o ponto <b>P</b> de interseção das retas construídas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="909" name="sl">
+			   <label for="909"></label>
+			   <img src="modulo6/71_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A</b> define a parte de coordenadas positivas da espiral de Euler.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="910" name="sl">
+			   <label for="910"></label>
+			   <img src="modulo6/71_01_05.png" loading="lazy"/>
+			   <figcaption>Encontre o simétrico do ponto <b>P</b> em relação à origem do sistema de coordenadas. O lugar geométrico de <b>P'</b> em relação ao ponto <b>A</b> define a parte de coordenadas negativas da espiral de Euler.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/71_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo6/apostila_nova_2022b-71a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span></div>
+   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
+   <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral curva usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="911" name="sl">
+			   <label for="911"></label>
+			   <img src="modulo6/71_02_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="912" name="sl">
+			   <label for="912"></label>
+			   <img src="modulo6/71_02_02.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo <b>&alpha;</b> e construa <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="913" name="sl">
+			   <label for="913"></label>
+			   <img src="modulo6/71_02_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ {p} \over {1 + e ^{m \cdot \alpha}} }$. Encontre a interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="914" name="sl">
+			   <label for="914"></label>
+			   <img src="modulo6/71_02_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&alpha;</b> define uma espiral curva de parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/71_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-72.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

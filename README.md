@@ -6778,6 +6778,80 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-72.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral cóclea usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="915" name="sl">
+			   <label for="915"></label>
+			   <img src="modulo6/72_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="916" name="sl">
+			   <label for="916"></label>
+			   <img src="modulo6/72_01_02.png" loading="lazy"/>
+			   <figcaption>Defina o ângulo <b>&alpha;</b> e construa <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="917" name="sl">
+			   <label for="917"></label>
+			   <img src="modulo6/72_01_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ {p \cdot sen(\alpha)} \over {\alpha} }$. Encontre a interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="918" name="sl">
+			   <label for="918"></label>
+			   <img src="modulo6/72_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&alpha;</b> define uma espiral cóclea de parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/72_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-72a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma tratriz usando sua equação com coordenadas cartersianas.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="919" name="sl">
+			   <label for="919"></label>
+			   <img src="modulo6/72_02_01.png" loading="lazy"/>
+			   <figcaption>Considere o sistema de coordenadas com os eixos <b>x</b> e <b>y</b>. Defina o parâmetro <b>OA = p</b> e a <b>Circunf(O, OA)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="920" name="sl">
+			   <label for="920"></label>
+			   <img src="modulo6/72_02_02.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo central da circunferência <b>&alpha; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="921" name="sl">
+			   <label for="921"></label>
+			   <img src="modulo6/72_02_03.png" loading="lazy"/>
+			   <figcaption>Construa a reta com equação $\mathsf{ x = p \cdot \left( (cos(\alpha)+ln(tan \left( {\alpha} over {2} \right) \right) }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="922" name="sl">
+			   <label for="922"></label>
+			   <img src="modulo6/72_02_04.png" loading="lazy"/>
+			   <figcaption>Construa a reta com equação $\mathsf{ y = p \cdot sen(\alpha) }$. Encontre a interseção <b>P</b> das retas construídas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="923" name="sl">
+			   <label for="923"></label>
+			   <img src="modulo6/72_02_05.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>B &isin; x</b> tal que <b>PB = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="924" name="sl">
+			   <label for="924"></label>
+			   <img src="modulo6/72_02_06.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A'</b> define uma tratriz com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/72_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-72b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-73.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

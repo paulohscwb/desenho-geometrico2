@@ -6854,6 +6854,122 @@
    <img src="modulo6/apostila_nova_2022b-72b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-73.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral tratriz usando suas equações com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="925" name="sl">
+			   <label for="925"></label>
+			   <img src="modulo6/73_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="926" name="sl">
+			   <label for="926"></label>
+			   <img src="modulo6/73_01_02.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo <b>&teta;</b> e construa o ângulo <b>AOA' = &alpha; = tan(&teta;) - &teta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="927" name="sl">
+			   <label for="927"></label>
+			   <img src="modulo6/73_01_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio <b>p&middot;cos(&teta;)</b> e encontre o ponto <b>P</b> de interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="928" name="sl">
+			   <label for="928"></label>
+			   <img src="modulo6/73_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&teta;</b> define uma espiral tratriz com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="929" name="sl">
+			   <label for="929"></label>
+			   <img src="modulo6/73_01_05.png" loading="lazy"/>
+			   <figcaption>Construa o segmento perpendicular a <b>OA'</b> que passa por <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="930" name="sl">
+			   <label for="930"></label>
+			   <img src="modulo6/73_01_06.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>B</b> tal que <b>BO = BP = p/2</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="931" name="sl">
+			   <label for="931"></label>
+			   <img src="modulo6/73_01_07.png" loading="lazy"/>
+			   <figcaption>Prolongue o segmento <b>BP</b> para encontrar o ponto <b>C</b> na reta perpendicular a <b>OA'</b>. Verifique qual é a medida do segmento <b>BC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/73_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-73a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva epi usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="932" name="sl">
+			   <label for="932"></label>
+			   <img src="modulo6/73_02_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="933" name="sl">
+			   <label for="933"></label>
+			   <img src="modulo6/73_02_02.png" loading="lazy"/>
+			   <figcaption>Construa uma circunferência com centro <b>O</b> e raio <b>OK</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="934" name="sl">
+			   <label for="934"></label>
+			   <img src="modulo6/73_02_03.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A'</b> pertencente à circunferência com raio menor e defina um ângulo central <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="935" name="sl">
+			   <label for="935"></label>
+			   <img src="modulo6/73_02_04.png" loading="lazy"/>
+			   <figcaption>Defina um número <b>n</b> e construa a circunferência com centro <b>O</b> e raio $\mathsf{ {p} \over {cos(n \cdot \alpha)} }$. Determine a interseção desta circunferência com o segmento <b>OB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="936" name="sl">
+			   <label for="936"></label>
+			   <img src="modulo6/73_02_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>B</b> define uma curva epi com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/73_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-73b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral de Fermat usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="937" name="sl">
+			   <label for="937"></label>
+			   <img src="modulo6/73_03_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="938" name="sl">
+			   <label for="938"></label>
+			   <img src="modulo6/73_03_02.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo <b>&alpha;</b> e construa o ângulo central <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="939" name="sl">
+			   <label for="939"></label>
+			   <img src="modulo6/73_03_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ p \sqrt{\alpha} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="940" name="sl">
+			   <label for="940"></label>
+			   <img src="modulo6/73_03_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&alpha;</b> define uma espiral de Fermat com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/73_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-74.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

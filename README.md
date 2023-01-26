@@ -6608,7 +6608,7 @@
 			   <input type="radio" id="892" name="sl">
 			   <label for="892"></label>
 			   <img src="modulo6/70_01_02.png" loading="lazy"/>
-			   <figcaption>Determine a reta <b>OO'</b> e um ponto <b>A &isin; &alpha;</b>.</figcaption>
+			   <figcaption>Determine a reta <b>OO'</b> e escolha um ponto <b>A &isin; &alpha;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="893" name="sl">
@@ -6633,13 +6633,13 @@
 			   <input type="radio" id="895" name="sl">
 			   <label for="895"></label>
 			   <img src="modulo6/70_02_01.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência de centro <b>O</b> e raio <b>r</b> e defina o ponto exterior à circunferência <b>A</b>.</figcaption>
+			   <figcaption>Construa a circunferência de centro <b>O</b> e raio <b>r</b> e defina o ponto <b>A</b> exterior à circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="896" name="sl">
 			   <label for="896"></label>
 			   <img src="modulo6/70_02_02.png" loading="lazy"/>
-			   <figcaption>Determine a reta <b>AO</b> e encontre o ponto de interseção desta reta com a circunferência <b>B</b>.</figcaption>
+			   <figcaption>Determine a reta <b>AO</b> e encontre o ponto <b>B</b> de interseção desta reta com a circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="897" name="sl">
@@ -6709,6 +6709,8 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
+   
+   <img src="modulo6/apostila_nova_2022b-71a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-72.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

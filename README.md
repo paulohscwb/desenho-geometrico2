@@ -6828,7 +6828,7 @@
 			   <input type="radio" id="921" name="sl">
 			   <label for="921"></label>
 			   <img src="modulo6/72_02_03.png" loading="lazy"/>
-			   <figcaption>Construa a reta com equação $\mathsf{ x = p \cdot \left( cos(\alpha)+ln(tan \left( {\alpha} \over {2} \right) \right) }$.</figcaption>
+			   <figcaption>Construa a reta com equação $\mathsf{ x = p \cdot \left( cos(\alpha)+ln(tan\left( {\alpha} \over {2} \right) \right) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="922" name="sl">
@@ -6867,19 +6867,19 @@
 			   <input type="radio" id="926" name="sl">
 			   <label for="926"></label>
 			   <img src="modulo6/73_01_02.png" loading="lazy"/>
-			   <figcaption>Defina um ângulo <b>&teta;</b> e construa o ângulo <b>AOA' = &alpha; = tan(&teta;) - &teta;</b>.</figcaption>
+			   <figcaption>Defina um ângulo <b>&theta;</b> e construa o ângulo <b>AOA' = &alpha; = tan(&theta;) - &theta;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="927" name="sl">
 			   <label for="927"></label>
 			   <img src="modulo6/73_01_03.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência com centro <b>O</b> e raio <b>p&middot;cos(&teta;)</b> e encontre o ponto <b>P</b> de interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio <b>p&middot;cos(&theta;)</b> e encontre o ponto <b>P</b> de interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="928" name="sl">
 			   <label for="928"></label>
 			   <img src="modulo6/73_01_04.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&teta;</b> define uma espiral tratriz com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&theta;</b> define uma espiral tratriz com parâmetro <b>p</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="929" name="sl">

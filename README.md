@@ -6722,13 +6722,13 @@
 			   <input type="radio" id="907" name="sl">
 			   <label for="907"></label>
 			   <img src="modulo6/71_01_02.png" loading="lazy"/>
-			   <figcaption>Defina a reta com equação $\mathsf{ x = { \int_{0}^{\alpha} cos \left( {\pi} \over {2} x^2 \right) \,dx } }$.</figcaption>
+			   <figcaption>Defina a reta com equação $\mathsf{ x = { \int_{0}^{\alpha} cos \left( { {\pi} \over {2} } x^2 \right) \,dx } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="908" name="sl">
 			   <label for="908"></label>
 			   <img src="modulo6/71_01_03.png" loading="lazy"/>
-			   <figcaption>Defina a reta com equação $\mathsf{ y = { \int_{0}^{\alpha} sen \left( {\pi} \over {2} x^2 \right) \,dx } }$. Encontre o ponto <b>P</b> de interseção das retas construídas.</figcaption>
+			   <figcaption>Defina a reta com equação $\mathsf{ y = { \int_{0}^{\alpha} sen \left( { {\pi} \over {2} } x^2 \right) \,dx } }$. Encontre o ponto <b>P</b> de interseção das retas construídas.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="909" name="sl">
@@ -6746,9 +6746,6 @@
 		<img src="modulo6/71_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo6/apostila_nova_2022b-71a.png" loading="lazy"/>
-   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span></div>
-   <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
-   <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos construir uma espiral curva usando sua equação com coordenadas polares.</p>
 	  <ul class="slider">
@@ -6768,7 +6765,7 @@
 			   <input type="radio" id="913" name="sl">
 			   <label for="913"></label>
 			   <img src="modulo6/71_02_03.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ {p} \over {1 + e ^{m \cdot \alpha}} }$. Encontre a interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
+			   <figcaption>Defina a medida <b>m</b> e construa a circunferência com centro <b>O</b> e raio $\mathsf{ {p} \over {1 + e ^{m \cdot \alpha}} }$. Encontre a interseção desta circunferência com o segmento <b>OA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="914" name="sl">

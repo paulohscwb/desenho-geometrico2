@@ -6595,6 +6595,118 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-70.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma oval de Hügelschäffer a partir das circunferências <b>&alpha;</b> e <b>&beta;</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="891" name="sl">
+			   <label for="891"></label>
+			   <img src="modulo6/70_01_01.png" loading="lazy"/>
+			   <figcaption>Construa as circunferências de centros <b>O</b> e <b>O'</b>, com raios de medidas <b>r</b> e <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="892" name="sl">
+			   <label for="892"></label>
+			   <img src="modulo6/70_01_02.png" loading="lazy"/>
+			   <figcaption>Determine a reta <b>OO'</b> e um ponto <b>A &isin; &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="893" name="sl">
+			   <label for="893"></label>
+			   <img src="modulo6/70_01_03.png" loading="lazy"/>
+			   <figcaption>Encontre o ponto <b>P</b> tal que <b>PB // OO'</b> e <b>PA &perp; OO'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="894" name="sl">
+			   <label for="894"></label>
+			   <img src="modulo6/70_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A</b> define uma oval de Hügelschäffer.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/70_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-70a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Rosillo a partir da circunferência <b>&alpha;</b> e de um ponto <b>A</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="895" name="sl">
+			   <label for="895"></label>
+			   <img src="modulo6/70_02_01.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência de centro <b>O</b> e raio <b>r</b> e defina o ponto exterior à circunferência <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="896" name="sl">
+			   <label for="896"></label>
+			   <img src="modulo6/70_02_02.png" loading="lazy"/>
+			   <figcaption>Determine a reta <b>AO</b> e encontre o ponto de interseção desta reta com a circunferência <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="897" name="sl">
+			   <label for="897"></label>
+			   <img src="modulo6/70_02_03.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>C &isin; &alpha;</b> e determine o segmento <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="898" name="sl">
+			   <label for="898"></label>
+			   <img src="modulo6/70_02_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>PC</b> tal que <b>PB // AC</b> e <b>PC &perp; AO</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="899" name="sl">
+			   <label for="899"></label>
+			   <img src="modulo6/70_02_05.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>C</b> define uma curva de Rosillo.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/70_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-70b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva de Cramer-Lacroix a partir de uma hipérbole  e de uma distância <b>d</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="900" name="sl">
+			   <label for="900"></label>
+			   <img src="modulo6/70_03_01.png" loading="lazy"/>
+			   <figcaption>Construa uma hipérbole que passa por um ponto <b>K</b> e defina o segmento de medida <b>d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="901" name="sl">
+			   <label for="901"></label>
+			   <img src="modulo6/70_03_02.png" loading="lazy"/>
+			   <figcaption>Encontre o centro <b>O</b> da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="902" name="sl">
+			   <label for="902"></label>
+			   <img src="modulo6/70_03_03.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A</b> da hipérbole e defina o segmento <b>AB = d</b> tal que <b>AB &perp; OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="903" name="sl">
+			   <label for="903"></label>
+			   <img src="modulo6/70_03_04.png" loading="lazy"/>
+			   <figcaption>Construa o segmento <b>OC &perp; OA</b> tal que <b>AC = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="904" name="sl">
+			   <label for="904"></label>
+			   <img src="modulo6/70_03_05.png" loading="lazy"/>
+			   <figcaption>Defina o segmento <b>BO</b>, e encontre o ponto <b>D &isin; OA</b> tal que <b>DO = BO</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="905" name="sl">
+			   <label for="905"></label>
+			   <img src="modulo6/70_03_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>C</b> e de <b>D</b> em relação ao ponto <b>A</b> definem uma curva de Cramer-Lacroix.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/70_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-70c.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-71.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

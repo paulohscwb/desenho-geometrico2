@@ -7116,7 +7116,7 @@
 			   <input type="radio" id="959" name="sl">
 			   <label for="959"></label>
 			   <img src="modulo6/75_02_03.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência com centro em <b>O</b> e raio com medida $\mathsf{ p \cdot { {\sqrt{|cos(2 \alpha)|} \over {cos(\alpha)^2} } }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+			   <figcaption>Construa a circunferência com centro em <b>O</b> e raio com medida $\mathsf{ p \cdot { { \sqrt{|cos(2 \alpha)|} \over {cos(\alpha)^2} } }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="960" name="sl">
@@ -7128,7 +7128,7 @@
 			   <input type="radio" id="961" name="sl">
 			   <label for="961"></label>
 			   <img src="modulo6/75_02_05.png" loading="lazy"/>
-			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + sen( { {\alpha)} \over {12} }^5 } }$, temos a segunda curva ornamental.</figcaption>
+			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + sen( { {\alpha)} \over {12}) }^5 }$, temos a segunda curva ornamental.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo6/75_02_00.png" class="fundo" loading="lazy"/>

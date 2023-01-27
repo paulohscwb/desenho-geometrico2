@@ -7053,7 +7053,7 @@
 			   <input type="radio" id="951" name="sl">
 			   <label for="951"></label>
 			   <img src="modulo6/74_03_03.png" loading="lazy"/>
-			   <figcaption>Defina o número <b>n</b> e construa a circunferência com centro <b>O</b> e raio $\mathsf{ \sqrt[n]{2 \cdot cos(n \cdot \alpha} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+			   <figcaption>Defina o número <b>n</b> e construa a circunferência com centro <b>O</b> e raio $\mathsf{ \sqrt[n]{2 \cdot cos(n \cdot \alpha)} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="952" name="sl">

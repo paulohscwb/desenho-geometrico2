@@ -7069,9 +7069,11 @@
    <img src="modulo6/apostila_nova_2022b-75a.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-76.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.2</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-77.png" loading="lazy"/>
    <img src="modulo6/apostila_nova_2022b-77a.png" loading="lazy"/>
+   <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.3</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
 </details>
 

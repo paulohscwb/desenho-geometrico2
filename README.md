@@ -7151,7 +7151,7 @@
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="modulo6/77_01_02.png" loading="lazy"/>
-			   <figcaption>Defina as funções: $\mathsf{ s(x) = -3 \sqrt{1 - { {x} \over {7} }^2 } \cdot t(x) \cdot (|x| - 4) }$ e $\mathsf{ t(x) = {\sqrt{|x|} \over {x} } }$</figcaption>.</figcaption>
+			   <figcaption>Defina as funções: $\mathsf{ s(x) = -3 \sqrt{1 - ({ {x} \over {7} })^2 } \cdot t(x) \cdot (|x| - 4) }$ e $\mathsf{ t(x) = {\sqrt{|x|} \over {x} } }$</figcaption>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">

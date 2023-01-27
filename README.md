@@ -6991,7 +6991,7 @@
 			   <input type="radio" id="943" name="sl">
 			   <label for="943"></label>
 			   <img src="modulo6/74_01_03.png" loading="lazy"/>
-			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ p \sqrt{{1} \over {\alpha}} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ p \sqrt{{{1} \over {\alpha}}} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="944" name="sl">

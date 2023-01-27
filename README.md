@@ -7151,13 +7151,13 @@
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="modulo6/77_01_02.png" loading="lazy"/>
-			   <figcaption>Defina as funções: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot t(x) \cdot (|x| - 4) }$ e $\mathsf{ t(x) = {\sqrt{|x|} \over {x} } }$</figcaption>.</figcaption>
+			   <figcaption>Defina as funções: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot t(x) \cdot (|x| - 4) }$ e $\mathsf{ t(x) = {\sqrt{|x|} \over {x} } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">
 			   <label for="965"></label>
 			   <img src="modulo6/77_01_03.png" loading="lazy"/>
-			   <figcaption>Defina os números <b>m</b> e <b>n</b> e construa as circunferências com centros em <b>O</b> e raios com medidas $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) - \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$ e $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) + \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$. Determine as interseções destas circunferências com a reta <b>OA'</b>.</figcaption>
+			   <figcaption>Agora defina a função: $\mathsf{ r(x) = 3\sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot t(x) \cdot (|x| - 3) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="966" name="sl">

@@ -7122,13 +7122,13 @@
 			   <input type="radio" id="960" name="sl">
 			   <label for="960"></label>
 			   <img src="modulo6/75_02_04.png" loading="lazy"/>
-			   <figcaption>O lugar geométrico de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> define a primeira curva ornamental com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A'</b> define a primeira curva ornamental com parâmetro <b>p</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="961" name="sl">
 			   <label for="961"></label>
 			   <img src="modulo6/75_02_05.png" loading="lazy"/>
-			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + (sen( { {\alpha} \over {12} } ))^5) }$, temos a segunda curva ornamental.</figcaption>
+			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2 \cdot cos(4 \alpha) + (sen( { {\alpha} \over {12} } ))^5) }$, temos a segunda curva ornamental.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo6/75_02_00.png" class="fundo" loading="lazy"/>
@@ -7138,6 +7138,78 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.2</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-77.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir a curva do Batman usando funções com coordenadas cartesianas.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="963" name="sl">
+			   <label for="963"></label>
+			   <img src="modulo6/77_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o sistema de coordenadas <b>x</b> e <b>y</b> com origem <b>O</b>. A primeira função tem a seguinte expressão:  $\mathsf{ | { {x} \over {2} } | - { {3 \sqrt{33} - 7} \over {122} } x^{2} - 3 + \sqrt{1 - (||x| - 2| - 1)^{2} - 0.1 }$</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="964" name="sl">
+			   <label for="964"></label>
+			   <img src="modulo6/77_01_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="965" name="sl">
+			   <label for="965"></label>
+			   <img src="modulo6/77_01_03.png" loading="lazy"/>
+			   <figcaption>Defina os números <b>m</b> e <b>n</b> e construa as circunferências com centros em <b>O</b> e raios com medidas $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) - \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$ e $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) + \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$. Determine as interseções destas circunferências com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="966" name="sl">
+			   <label for="966"></label>
+			   <img src="modulo6/77_01_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="962" name="sl">
+			   <label for="962"></label>
+			   <img src="modulo6/77_01_05.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="967" name="sl">
+			   <label for="967"></label>
+			   <img src="modulo6/77_01_06.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="968" name="sl">
+			   <label for="968"></label>
+			   <img src="modulo6/77_01_07.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="969" name="sl">
+			   <label for="969"></label>
+			   <img src="modulo6/77_01_08.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="970" name="sl">
+			   <label for="970"></label>
+			   <img src="modulo6/77_01_09.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="971" name="sl">
+			   <label for="971"></label>
+			   <img src="modulo6/77_01_10.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="972" name="sl">
+			   <label for="972"></label>
+			   <img src="modulo6/77_01_11.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/77_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo6/apostila_nova_2022b-77a.png" loading="lazy"/>
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.3</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

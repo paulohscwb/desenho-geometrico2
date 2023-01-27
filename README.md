@@ -7181,7 +7181,7 @@
 			   <input type="radio" id="968" name="sl">
 			   <label for="968"></label>
 			   <img src="modulo6/77_01_07.png" loading="lazy"/>
-			   <figcaption>A última função tem a seguinte expressão: $\mathsf{ p(x) = 2.25t(x) \cdot (-(x - 0.5)) \cdot (x + 0.5) }$.</figcaption>
+			   <figcaption>A última função tem a seguinte expressão: $\mathsf{ p(x) = 2.25t(x) \cdot (-(x - 0.5) \cdot (x + 0.5)) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="969" name="sl">

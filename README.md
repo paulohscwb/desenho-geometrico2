@@ -7163,7 +7163,7 @@
 			   <input type="radio" id="966" name="sl">
 			   <label for="966"></label>
 			   <img src="modulo6/77_01_04.png" loading="lazy"/>
-			   <figcaption>A próxima função tem a seguinte expressão: $\mathsf{ q(x) = { {6\sqrt{10} \over {7} } + (1.5 - 0.5|x|) \cdot t(x) \cdot { {6\sqrt{10} \over {14} } \sqrt{4 - (|x| - 1)^2 }$.</figcaption>
+			   <figcaption>A próxima função tem a seguinte expressão: $\mathsf{ q(x) = { {6\sqrt{10}} \over {7} } + (1.5 - 0.5|x|) \cdot t(x) \cdot { {6\sqrt{10}} \over {14} } \sqrt{4 - (|x| - 1)^2 } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="962" name="sl">

@@ -7175,7 +7175,7 @@
 			   <input type="radio" id="967" name="sl">
 			   <label for="967"></label>
 			   <img src="modulo6/77_01_06.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>A próxima função tem a seguinte expressão: $\mathsf{ h(x) = 3|x| - 0.75t(x) \cdot (|x| - 0.5) \cdot (|x| - 0.75) }$.</figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="968" name="sl">

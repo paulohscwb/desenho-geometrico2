@@ -7145,13 +7145,13 @@
 			   <input type="radio" id="963" name="sl">
 			   <label for="963"></label>
 			   <img src="modulo6/77_01_01.png" loading="lazy"/>
-			   <figcaption>Defina o sistema de coordenadas <b>x</b> e <b>y</b> com origem <b>O</b>. A primeira função tem a seguinte expressão:  $\mathsf{ | { {x} \over {2} } | - { {3 \sqrt{33} - 7} \over {122} } x^{2} - 3 + \sqrt{1 - (||x| - 2| - 1)^{2} - 0.1 } }$</figcaption>
+			   <figcaption>Defina o sistema de coordenadas <b>x</b> e <b>y</b> com origem <b>O</b>. A primeira função tem a seguinte expressão: $\mathsf{  f(x) = | { {x} \over {2} } | - { {3 \sqrt{33} - 7} \over {122} } x^{2} - 3 + \sqrt{1 - (||x| - 2| - 1)^{2} } - 0.1 }$</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="modulo6/77_01_02.png" loading="lazy"/>
-			   <figcaption>Escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>.</figcaption>
+			   <figcaption>Defina as funções: $\mathsf{ s(x) = -3 \sqrt{1 - { {x} \over {7} }^2 } \cdot t(x) \cdot (|x| - 4) }$ e $\mathsf{ t(x) = {\sqrt{|x|} \over {x} } }$</figcaption>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">

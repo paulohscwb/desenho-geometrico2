@@ -7169,7 +7169,7 @@
 			   <input type="radio" id="962" name="sl">
 			   <label for="962"></label>
 			   <img src="modulo6/77_01_05.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>Agora defina a função: $\mathsf{ g(x) = -9t(x) \cdot (|x| - 1) \cdot (|x| - 0.75) - 8|x| }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="967" name="sl">

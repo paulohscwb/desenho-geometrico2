@@ -7175,37 +7175,37 @@
 			   <input type="radio" id="967" name="sl">
 			   <label for="967"></label>
 			   <img src="modulo6/77_01_06.png" loading="lazy"/>
-			   <figcaption>A próxima função tem a seguinte expressão: $\mathsf{ h(x) = 3|x| - 0.75t(x) \cdot (|x| - 0.5) \cdot (|x| - 0.75) }$.</figcaption></figcaption>
+			   <figcaption>A próxima função tem a seguinte expressão: $\mathsf{ h(x) = 3|x| - 0.75t(x) \cdot (|x| - 0.5) \cdot (|x| - 0.75) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="968" name="sl">
 			   <label for="968"></label>
 			   <img src="modulo6/77_01_07.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>A última função tem a seguinte expressão: $\mathsf{ p(x) = 2.25t(x) \cdot (-(x - 0.5)) \cdot (x + 0.5) }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="969" name="sl">
 			   <label for="969"></label>
 			   <img src="modulo6/77_01_08.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>Para definir a região que será pintada de amarelo, usamos as inequações em função da variável <b>y</b> da seguinte maneira: as funções com coordenadas negativas de <b>y</b> definem as regiões do semi-plano superior relativo às funções: <b>y > s(x) &or; y > f(x)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="970" name="sl">
 			   <label for="970"></label>
 			   <img src="modulo6/77_01_09.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>As funções com coordenadas positivas de <b>y</b> definem as regiões do semi-plano inferior relativo às funções: <b>y < g(x) &or; y < p(x) &or; y < h(x) &or; y < r(x) &or; y < q(x)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="971" name="sl">
 			   <label for="971"></label>
 			   <img src="modulo6/77_01_10.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>Agora basta fazer a união destas regiões usando a seguinte expressão: <b>(y > s(x) &or; y > f(x)) &and; (y < g(x) &or; y < p(x) &or; y < h(x) &or; y < r(x) &or; y < q(x))</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="972" name="sl">
 			   <label for="972"></label>
 			   <img src="modulo6/77_01_11.png" loading="lazy"/>
-			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+			   <figcaption>Construindo um retângulo preto no fundo, temos o símbolo do Batman completo.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo6/77_01_00.png" class="fundo" loading="lazy"/>

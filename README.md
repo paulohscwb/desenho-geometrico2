@@ -6972,6 +6972,98 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-74.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral Lituus usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="941" name="sl">
+			   <label for="941"></label>
+			   <img src="modulo6/74_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="942" name="sl">
+			   <label for="942"></label>
+			   <img src="modulo6/74_01_02.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo <b>&alpha;</b> e construa o ângulo central <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="943" name="sl">
+			   <label for="943"></label>
+			   <img src="modulo6/74_01_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro <b>O</b> e raio $\mathsf{ p \sqrt{{1} \over {\alpha}} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="944" name="sl">
+			   <label for="944"></label>
+			   <img src="modulo6/74_01_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ângulo <b>&alpha;</b> define uma espiral Lituus com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/74_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-74a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma espiral parabólica usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="945" name="sl">
+			   <label for="945"></label>
+			   <img src="modulo6/74_02_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="946" name="sl">
+			   <label for="946"></label>
+			   <img src="modulo6/74_02_02.png" loading="lazy"/>
+			   <figcaption>Defina um ângulo <b>&alpha;</b> e construa o ângulo central <b>AOA' = &alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="947" name="sl">
+			   <label for="947"></label>
+			   <img src="modulo6/74_02_03.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>b</b> e construa as circunferências com centros em <b>O</b> e raios $\mathsf{ p + \sqrt{2p \cdot \alpha \cdot b} }$ e $\mathsf{ p - \sqrt{2p \cdot \alpha \cdot b} }$. Determine as interseções destas circunferências com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="948" name="sl">
+			   <label for="948"></label>
+			   <img src="modulo6/74_02_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ângulo <b>&alpha;</b> definem uma espiral parabólica com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/74_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo6/apostila_nova_2022b-74b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva sinusoidal usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="949" name="sl">
+			   <label for="949"></label>
+			   <img src="modulo6/74_03_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="950" name="sl">
+			   <label for="950"></label>
+			   <img src="modulo6/74_03_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="951" name="sl">
+			   <label for="951"></label>
+			   <img src="modulo6/74_03_03.png" loading="lazy"/>
+			   <figcaption>Defina o número <b>n</b> e construa a circunferência com centro <b>O</b> e raio $\mathsf{ \sqrt[n]{2 \cdot cos(n \cdot \alpha} }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="952" name="sl">
+			   <label for="952"></label>
+			   <img src="modulo6/74_03_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> em relação ao ponto <b>A'</b> define uma curva sinusoidal com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/74_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-75.png" loading="lazy"/>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>

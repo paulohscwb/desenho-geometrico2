@@ -7128,7 +7128,7 @@
 			   <input type="radio" id="961" name="sl">
 			   <label for="961"></label>
 			   <img src="modulo6/75_02_05.png" loading="lazy"/>
-			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + sen( { {\alpha)} \over {12} } ))^5) }$, temos a segunda curva ornamental.</figcaption>
+			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + (sen( { {\alpha} \over {12} } ))^5) }$, temos a segunda curva ornamental.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo6/75_02_00.png" class="fundo" loading="lazy"/>

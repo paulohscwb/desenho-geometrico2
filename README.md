@@ -7066,7 +7066,73 @@
   </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-75.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir uma curva folióide usando sua equação com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="953" name="sl">
+			   <label for="953"></label>
+			   <img src="modulo6/75_01_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="954" name="sl">
+			   <label for="954"></label>
+			   <img src="modulo6/75_01_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="955" name="sl">
+			   <label for="955"></label>
+			   <img src="modulo6/75_01_03.png" loading="lazy"/>
+			   <figcaption>Defina os números <b>m</b> e <b>n</b> e construa as circunferências com centros em <b>O</b> e raios com medidas $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) - \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$ e $\mathsf{ p \cdot(m \cdot cos(n \cdot \alpha) + \sqrt{1 - (m \cdot sen(n \cdot \alpha))^2} }$. Determine as interseções destas circunferências com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="956" name="sl">
+			   <label for="956"></label>
+			   <img src="modulo6/75_01_04.png" loading="lazy"/>
+			   <figcaption>Os lugares geométricos de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> definem uma curva folióide com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/75_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo6/apostila_nova_2022b-75a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir curvas ornamentais usando suas equações com coordenadas polares.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="957" name="sl">
+			   <label for="957"></label>
+			   <img src="modulo6/75_02_01.png" loading="lazy"/>
+			   <figcaption>Defina o parâmetro <b>OA = p</b> da curva.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="958" name="sl">
+			   <label for="958"></label>
+			   <img src="modulo6/75_02_02.png" loading="lazy"/>
+			   <figcaption>Escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="959" name="sl">
+			   <label for="959"></label>
+			   <img src="modulo6/75_02_03.png" loading="lazy"/>
+			   <figcaption>Construa a circunferência com centro em <b>O</b> e raio com medida $\mathsf{ p \cdot { {\sqrt{|cos(2 \alpha)|} \over {cos(\alpha)^2} } }$. Determine a interseção desta circunferência com a reta <b>OA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="960" name="sl">
+			   <label for="960"></label>
+			   <img src="modulo6/75_02_04.png" loading="lazy"/>
+			   <figcaption>O lugar geométrico de <b>P</b> e de <b>Q</b> em relação ao ponto <b>A'</b> define a primeira curva ornamental com parâmetro <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="961" name="sl">
+			   <label for="961"></label>
+			   <img src="modulo6/75_02_05.png" loading="lazy"/>
+			   <figcaption>Se utilizarmos o raio da circunferência com medida $\mathsf{ p \cdot (e^{cos(\alpha)} - 2cos(4 \alpha) + sen( { {\alpha)} \over {12} }^5 } }$, temos a segunda curva ornamental.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo6/75_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
    <img src="modulo6/apostila_nova_2022b-76.png" loading="lazy"/>
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.2</span></div>

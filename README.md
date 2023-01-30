@@ -3114,7 +3114,7 @@
 			   <input type="radio" id="404" name="sl">
 			   <label for="404"></label>
 			   <img src="modulo3/40_01_02.png" loading="lazy"/>
-			   <figcaption>Encontre a mediatriz de <b>F<sub>2</sub>S'<sub>2</sub></b> para achar o vértice da parábola.</figcaption>
+			   <figcaption>Construa a mediatriz de <b>F<sub>2</sub>S'<sub>2</sub></b> para achar o vértice da parábola.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="405" name="sl">

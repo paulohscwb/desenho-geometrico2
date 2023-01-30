@@ -43,7 +43,7 @@
 			   <input type="radio" id="005p" name="sl">
 			   <label for="005p"></label>
 			   <img src="27_03_05.png"/>
-			   <figcaption>A <b>Circunf(O<sub>1</sub>, c)</b> determina os focos <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> na mediatriz de <b>B<sub>1</sub>B<sub>2</sub></b>.</figcaption>
+			   <figcaption>A <b>Circunf(O, c)</b> determina os focos <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b> na mediatriz de <b>B<sub>1</sub>B<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="006p" name="sl">
@@ -92,8 +92,8 @@
 		</ul>
 		<img src="36_03_00.png" class="fundo"/>
   </details></div></details>
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Exercício Proposto 2.3: exercício 3 da pág. 25</summary>
-  <img src="../../modulo2/apostila_nova_2022b-25b.png" />
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Exercício Proposto 2.3: exercício 2 da pág. 40</summary>
+  <img src="../../modulo3/apostila_nova_2022b-40a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos construir a reta tangente à parábola paralela à reta <b>r</b>.</p>
 	  <ul class="slider">

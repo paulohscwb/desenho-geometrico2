@@ -445,7 +445,7 @@
 			   <input type="radio" id="031" name="sl">
 			   <label for="031"></label>
 			   <img src="modulo1/04_01_04.png" loading="lazy"/>
-			   <figcaption>Unindo os pontos <b>X<sub>1</sub></b> com <b>Q'</b> temos o ponto <b>X<sub>2</sub></b> da trajetória que a bola fará ao sair da posição <b>X<sub>1</sub></b> com tabela <b>BC</b>. Como o ângulo de incidência é igual ao ângulo de reflexão de cada tabela, a bola que estava na posição <b>P</b> atinge a bola que está na posição <b>Q</b> depois de fazer as tabelas <b>AB</b> e <b>BC</b> solicitadas.</figcaption>
+			   <figcaption>Unindo os pontos <b>X<sub>1</sub></b> e <b>Q'</b> temos o ponto <b>X<sub>2</sub></b> da trajetória que a bola fará ao sair da posição <b>X<sub>1</sub></b> com tabela <b>BC</b>. Como o ângulo de incidência é igual ao ângulo de reflexão de cada tabela, a bola que estava na posição <b>P</b> atinge a bola que está na posição <b>Q</b> depois de fazer as tabelas <b>AB</b> e <b>BC</b> solicitadas.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo1/04_01_00.png" class="fundo" loading="lazy"/>
@@ -2157,7 +2157,7 @@
 			   <input type="radio" id="275" name="sl">
 			   <label for="275"></label>
 			   <img src="modulo2/22_02_04.png" loading="lazy"/>
-			   <figcaption>Determine os vértices <b>B<sub>1</sub></b>  e <b>B<sub>2</sub></b>, sabendo-se que <b>B<sub>1</sub>B<sub>2</sub> &perp; F<sub>1</sub>F<sub>2</sub></b> e <b>B<sub>1</sub>F<sub>2</sub> = B<sub>2</sub>F<sub>2</sub>= a</b>.</figcaption>
+			   <figcaption>Determine os vértices <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, sabendo-se que <b>B<sub>1</sub>B<sub>2</sub> &perp; F<sub>1</sub>F<sub>2</sub></b> e <b>B<sub>1</sub>F<sub>2</sub> = B<sub>2</sub>F<sub>2</sub> = a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="276" name="sl">

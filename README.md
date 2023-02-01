@@ -5601,7 +5601,7 @@
 			   <input type="radio" id="747" name="sl">
 			   <label for="747"></label>
 			   <img src="modulo5/60_07_02.png" loading="lazy"/>
-			   <figcaption>Defina o ponto <b>C &isin; c</b>.</figcaption>
+			   <figcaption>Escolha um ponto <b>C &isin; c</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="748" name="sl">

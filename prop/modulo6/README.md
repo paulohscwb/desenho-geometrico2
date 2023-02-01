@@ -57,7 +57,7 @@
   <details open><summary>Exercício Proposto 6.2: pág. 76</summary>
   <img src="../../modulo6/apostila_nova_2022b-76.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir curvas ornamentais usando suas equações com coordenadas polares. Defina o parâmetro <b>OA = p</b> da curva, escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>. Construa a circunferência com centro em <b>O</b> e raio com medida com a medida indicada da equação polar em função do ângulo <b>&alpha;</b>.</p>
+	<p>Vamos construir curvas ornamentais usando suas equações com coordenadas polares. Defina o parâmetro <b>OA = p</b> da curva, escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>. Construa a circunferência com centro em <b>O</b> e raio com a medida indicada da equação polar em função do ângulo <b>&alpha;</b>.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="008p" name="sl">
@@ -89,7 +89,7 @@
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Exercício Proposto 6.3: pág. 77</summary>
   <img src="../../modulo6/apostila_nova_2022b-77a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos construir curvas ornamentais usando suas equações com coordenadas polares. Defina o parâmetro <b>OA = p</b> da curva, escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>. Construa a circunferência com centro em <b>O</b> e raio com medida com a medida indicada da equação polar em função do ângulo <b>&alpha;</b>.</p>
+	<p>Vamos construir curvas ornamentais usando suas equações com coordenadas polares. Defina o parâmetro <b>OA = p</b> da curva, escolha um ponto <b>A'</b> da circunferência e defina um ângulo <b>&alpha; = AOA'</b>. Construa a circunferência com centro em <b>O</b> e raio com a medida indicada da equação polar em função do ângulo <b>&alpha;</b>.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="025p" name="sl">

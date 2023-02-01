@@ -4053,19 +4053,19 @@
 			   <input type="radio" id="535" name="sl">
 			   <label for="535"></label>
 			   <img src="modulo4/50_02_03.png" loading="lazy"/>
-			   <figcaption>Defina o ângulo $\mathsf{ \alpha = { {AA'} \over {OA} } }$ .</figcaption>
+			   <figcaption>Defina o ângulo $\mathsf{ \alpha = { {AA'} \over {OA} } }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="536" name="sl">
 			   <label for="536"></label>
 			   <img src="modulo4/50_02_04.png" loading="lazy"/>
-			   <figcaption>Defina a rotação do ponto <b>P'</b> feita por meio do ângulo de amplitude fixa <b>&alpha;</b> e vértice <b>O'</b></figcaption>
+			   <figcaption>Defina a rotação do ponto <b>P'</b> feita por meio do ângulo de amplitude fixa <b>&alpha;</b> e vértice <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="537" name="sl">
 			   <label for="537"></label>
 			   <img src="modulo4/50_02_05.png" loading="lazy"/>
-			   <figcaption>A ciclóide é o lugar geométrico da extremidade do ângulo <b>&alpha;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
+			   <figcaption>A ciclóide encurtada é o lugar geométrico da extremidade do ângulo <b>&alpha;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo4/50_02_00.png" class="fundo" loading="lazy"/>

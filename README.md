@@ -4885,7 +4885,7 @@
 			   <input type="radio" id="649" name="sl">
 			   <label for="649"></label>
 			   <img src="modulo5/56_03_06.png" loading="lazy"/>
-			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro da esfera <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice esférica.</figcaption>
+			   <figcaption>Construa a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro da esfera <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice esférica.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="650" name="sl">
@@ -4972,7 +4972,7 @@
 			   <input type="radio" id="662" name="sl">
 			   <label for="662"></label>
 			   <img src="modulo5/56_05_06.png" loading="lazy"/>
-			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do hiperbolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice hiperbólica.</figcaption>
+			   <figcaption>Construa a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do hiperbolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice hiperbólica.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="663" name="sl">
@@ -5057,7 +5057,7 @@
 			   <input type="radio" id="675" name="sl">
 			   <label for="675"></label>
 			   <img src="modulo5/56_06_06.png" loading="lazy"/>
-			   <figcaption>Defina a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do parabolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice parabólica.</figcaption>
+			   <figcaption>Construa a <b>Circunf(A, DF)</b>, correspondente à seção paralela ao diâmetro do parabolóide <b>P'Q'</b> da vista frontal. O ponto <b>R' &isin; A'C'</b> pertence à hélice parabólica.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="676" name="sl">

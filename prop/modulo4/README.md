@@ -11,7 +11,7 @@
 <h2 id="inicio">Exercícios Propostos do Módulo 4</h2>
 <h3>Homotetia, Rotação e curvas</h3> 
   <details open><summary>Exercício Proposto 4.1: exercício 9 da pág. 46</summary>
-  <img src="../../modulo4/apostila_nova_2022b-46.png.png" />
+  <img src="../../modulo4/apostila_nova_2022b-46.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Usaremos a Homotetia para construir um retângulo inscrito no semicírculo dado.</p>
 	  <ul class="slider">

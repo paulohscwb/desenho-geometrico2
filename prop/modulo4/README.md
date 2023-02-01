@@ -25,7 +25,7 @@
 			   <input type="radio" id="002p" name="sl">
 			   <label for="002p"></label>
 			   <img src="46_01_02.png"/>
-			   <figcaption>Defina o segmento <b>O2 = 2\middotO1</b>. Desta forma, temos o retângulo semelhante à solução inscrita que vamos construir: <b>O2X'3</b>.</figcaption>
+			   <figcaption>Defina o segmento <b>O2 = 2&middot;O1</b>. Desta forma, temos o retângulo semelhante à solução inscrita que vamos construir: <b>O2X'3</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="003p" name="sl">
@@ -90,7 +90,7 @@
 			   <figcaption>A ciclóide alongada é o lugar geométrico da extremidade do ângulo <b>&alpha;</b>, ou seja, do ponto <b>P''</b>, em relação ao ponto <b>A'</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="36_03_00.png" class="fundo"/>
+		<img src="50_03_00.png" class="fundo"/>
   </details></div></details>
   <details open><summary>Exercício Proposto 4.3: exercício 3 da pág. 51</summary>
   <img src="../../modulo4/apostila_nova_2022b-51b.png" />

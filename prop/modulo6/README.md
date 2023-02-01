@@ -68,7 +68,7 @@
 		   <li>
 			   <input type="radio" id="009p" name="sl">
 			   <label for="009p"></label>
-			   <img src="76_01_02.png"/>
+			   <img src="76_01_01.png"/>
 			   <figcaption>Defina o número <b>n</b>. O lugar geométrico de <b>P</b> em relação ao ponto <b>A'</b> define uma curva ornamental com parâmetro <b>p</b>.</figcaption>
 		   </li>
 		   <li>

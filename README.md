@@ -1666,13 +1666,13 @@
 			   <input type="radio" id="206n" name="sl">
 			   <label for="206n"></label>
 			   <img src="modulo2/14_02_000.png" loading="lazy"/>
-			   <figcaption>O triângulo áureo é isósceles, conhecido também pelo nome de "triângulo sublime" pois apresenta as propriedades estéticas do retângulo áureo. Uma das formas de construí-lo utiliza a interseção de três diagonais de um pentagrama regular.</figcaption>
+			   <figcaption>O triângulo áureo é isósceles, conhecido também pelo nome de "triângulo sublime", pois apresenta as propriedades estéticas do retângulo áureo. Uma das formas de construí-lo utiliza três lados adjacentes de um pentagrama regular.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="206" name="sl">
 			   <label for="206"></label>
 			   <img src="modulo2/14_02_03.png" loading="lazy"/>
-			   <figcaption>Construa o segmento áureo <b>EB</b> de <b>AB</b>.</figcaption>
+			   <figcaption>Outra maneira de construir o triângulo áureo é parecida com a construção que vimos do retângulo áureo. Construa o segmento áureo <b>EB</b> de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="207" name="sl">

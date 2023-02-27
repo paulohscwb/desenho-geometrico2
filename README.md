@@ -1663,8 +1663,8 @@
 	<p>Vamos construir a espiral de ouro começando pela construção do triângulo áureo.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="206" name="sl">
-			   <label for="206"></label>
+			   <input type="radio" id="206n" name="sl">
+			   <label for="206n"></label>
 			   <img src="modulo2/14_02_000.png" loading="lazy"/>
 			   <figcaption>O triângulo áureo é isósceles, conhecido também pelo nome de "triângulo sublime" pois apresenta as propriedades estéticas do retângulo áureo. Uma das formas de construí-lo utiliza a interseção de três diagonais de um pentagrama regular.</figcaption>
 		   </li>

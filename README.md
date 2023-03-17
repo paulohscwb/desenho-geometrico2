@@ -472,7 +472,7 @@
 	<figcaption>Desta forma, temos que a trajetória da fonte de luz saindo de <b>F</b>, atingindo o espelho <b>r</b> em <b>X<sub>2</sub></b>, depois atingindo o espelho <b>s</b> em <b>X<sub>1</sub></b> para finalmente atingir o objeto em <b>O</b>.</figcaption>
   </details></div>
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
-   <img src="modulo1/apostila_nova_2022b-06.png" loading="lazy"/>
+   <img id="s1p2" src="modulo1/apostila_nova_2022b-06.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
 	<p>Considere o arco de ferradura mostrado nesta página. Vamos analisar quais são os elementos de um arco arquitetônico.</p>
 	  <ul class="slider">

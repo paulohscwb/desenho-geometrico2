@@ -208,7 +208,7 @@
   <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
+<details open><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="modulo1/apostila_nova_2022b-01.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>

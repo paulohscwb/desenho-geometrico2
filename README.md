@@ -208,7 +208,7 @@
   <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
+<details><summary id="modulo1">1. Simetria Axial, Arcos e Ovais</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="modulo1/apostila_nova_2022b-01.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -1428,7 +1428,7 @@
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo2">2. Espirais e elipses</summary>
+<details open><summary id="modulo2">2. Espirais e elipses</summary>
   <p>Material da página 12 até a página 25.</p>
    <img src="modulo2/apostila_nova_2022b-12.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -2014,7 +2014,7 @@
 		<img src="modulo2/18_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
-   <img src="modulo2/apostila_nova_2022b-19.png" loading="lazy"/>
+   <img id="s2p2" src="modulo2/apostila_nova_2022b-19.png" loading="lazy"/>
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
    <img src="modulo2/apostila_nova_2022b-20.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>

@@ -1428,7 +1428,7 @@
    <p class="topop"><a href="#modulo1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="modulo2">2. Espirais e elipses</summary>
+<details><summary id="modulo2">2. Espirais e elipses</summary>
   <p>Material da página 12 até a página 25.</p>
    <img src="modulo2/apostila_nova_2022b-12.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -2364,7 +2364,7 @@
    <p class="topop"><a href="#modulo2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo3">3. Hipérboles e parábolas</summary>
+<details open><summary id="modulo3">3. Hipérboles e parábolas</summary>
   <p>Material da página 26 até a página 41.</p>
    <img src="modulo3/apostila_nova_2022b-26.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -2941,7 +2941,7 @@
    <img src="modulo3/apostila_nova_2022b-36b.png" loading="lazy"/>
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
-   <img src="modulo3/apostila_nova_2022b-37.png" loading="lazy"/>
+   <img id="s3p2" src="modulo3/apostila_nova_2022b-37.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
 	<p>Vamos acompanhar a demonstração do teorema de Apollonius para o caso de uma parábola. Considere a esfera inscrita na superfície cônica e tangente ao plano de seção.</p>
 	  <ul class="slider">

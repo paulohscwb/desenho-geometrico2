@@ -2755,6 +2755,148 @@
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-32.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
+   <img src="modulo3/apostila_nova_2022b-32a.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir as assíntotas da hipérbole, dada pelos focos e pelo diâmetro principal <b>2a</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="349a" name="sl">
+			   <label for="349a"></label>
+			   <img src="modulo3/32a_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo a circunferência diretriz <b>&gamma;<sub>1</sub></b> com centro em <b>F<sub>1</sub></b> e raio <b>2a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="350a" name="sl">
+			   <label for="350a"></label>
+			   <img src="modulo3/32a_01_02.png" loading="lazy"/>
+			   <figcaption>Construa a mediatriz de <b>F<sub>1</sub>F<sub>2</sub></b> para encontrar o centro da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="351a" name="sl">
+			   <label for="351a"></label>
+			   <img src="modulo3/32a_01_03.png" loading="lazy"/>
+			   <figcaption>As retas tangentes à diretriz que passam por <b>F<sub>2</sub></b> determinam os simétricos do foco <b>F<sub>2</sub></b> em relação às assíntotas. Logo, podemos construir o arco capaz de 90&deg; em relação a <b>F<sub>1</sub>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="352a" name="sl">
+			   <label for="352a"></label>
+			   <img src="modulo3/32a_01_04.png" loading="lazy"/>
+			   <figcaption>As mediatrizes de <b>F<sub>2</sub>F'<sub>2</sub></b> e de <b>F<sub>2</sub>F''<sub>2</sub></b> são as assíntotas da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="353a" name="sl">
+			   <label for="353a"></label>
+			   <img src="modulo3/32a_01_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre e determinar os elementos principais da curva.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/32a_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-32b.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos encontrar os elementos principais da hipérbole, dada por um foco, o centro e uma reta tangente. Além disso, vamos encontrar os elementos principais da hipérbole conjugada desta hipérbole.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="349b" name="sl">
+			   <label for="349b"></label>
+			   <img src="modulo3/32a_02_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo o símetrico do foco <b>F<sub>2</sub></b> em relação à reta tangente <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="350b" name="sl">
+			   <label for="350b"></label>
+			   <img src="modulo3/32a_02_02.png" loading="lazy"/>
+			   <figcaption>Construa o simétrico de <b>F<sub>2</sub></b> em relação ao centro <b>O</b>. Logo, temos a circunferência diretriz <b>&gamma;<sub>1</sub></b> com centro em <b>F<sub>1</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="351b" name="sl">
+			   <label for="351b"></label>
+			   <img src="modulo3/32a_02_03.png" loading="lazy"/>
+			   <figcaption>... e raio <b>F<sub>1</sub>F'<sub>2</sub> = 2a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="352b" name="sl">
+			   <label for="352b"></label>
+			   <img src="modulo3/32a_02_04.png" loading="lazy"/>
+			   <figcaption>Determine a medida do segmento <b>F<sub>1</sub>M = a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="353b" name="sl">
+			   <label for="353b"></label>
+			   <img src="modulo3/32a_02_05.png" loading="lazy"/>
+			   <figcaption>Encontre os vértices da hipérbole construindo a circunferência de centro <b>O</b> e raio <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="354b" name="sl">
+			   <label for="354b"></label>
+			   <img src="modulo3/32a_02_06.png" loading="lazy"/>
+			   <figcaption>Encontre as extremidades do diâmetro imaginário da hipérbole construindo a circunferência de centro <b>A<sub>1</sub></b> e raio <b>c</b> e a reta perpendicular ao diâmetro real que passa por <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="355b" name="sl">
+			   <label for="355b"></label>
+			   <img src="modulo3/32a_02_07.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre. Agora vamos encontrar os elementos da hipérbole conjugada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="356b" name="sl">
+			   <label for="356b"></label>
+			   <img src="modulo3/32a_02_08.png" loading="lazy"/>
+			   <figcaption>Duas hipérboles são conjugadas quando os diâmetros real e imaginário de uma são os diâmetros imaginário e real da outra (respectivamente).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="357b" name="sl">
+			   <label for="357b"></label>
+			   <img src="modulo3/32a_02_09.png" loading="lazy"/>
+			   <figcaption>Para encontrar os focos da hipérbole conjugada, basta construir a circunferência de centro <b>O</b> e raio <b>c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="358b" name="sl">
+			   <label for="358b"></label>
+			   <img src="modulo3/32a_02_10.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole conjugada à mão livre. Uma propriedade importante é que as hipérboles conjugadas compartilham das mesmas assíntotas.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/32a_02_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <img src="modulo3/apostila_nova_2022b-32c.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma hipérbole equilátera, dada pelo diâmetro principal <b>2a</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="349c" name="sl">
+			   <label for="349c"></label>
+			   <img src="modulo3/32a_03_01.png" loading="lazy"/>
+			   <figcaption>Começamos construindo a mediatriz de <b>A<sub>1</sub>A<sub>2</sub></b> para encontrar o centro da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="350c" name="sl">
+			   <label for="350c"></label>
+			   <img src="modulo3/32a_03_02.png" loading="lazy"/>
+			   <figcaption>Na hipérbole equilátera, temos que <b>A<sub>1</sub>A<sub>2</sub> = B<sub>1</sub>B<sub>2</sub></b>. Logo, podemos construir a circunferência de centro <b>O</b> e raio <b>a</b> para encontrar o diâmetro imaginário da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="351c" name="sl">
+			   <label for="351c"></label>
+			   <img src="modulo3/32a_03_03.png" loading="lazy"/>
+			   <figcaption>A distância focal <b>c</b> tem medida <b>B<sub>1</sub>A<sub>2</sub></b>. Logo, podemos construir a circunferência de centro <b>O</b> e raio <b>c</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="352c" name="sl">
+			   <label for="352c"></label>
+			   <img src="modulo3/32a_03_04.png" loading="lazy"/>
+			   <figcaption>... para encontrar os focos da hipérbole.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="353c" name="sl">
+			   <label for="353c"></label>
+			   <img src="modulo3/32a_03_05.png" loading="lazy"/>
+			   <figcaption>Para finalizar, basta construir a hipérbole à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/32a_03_00.png" class="fundo" loading="lazy"/>
+  </details></div>
+   <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-33.png" loading="lazy"/>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-34.png" loading="lazy"/>

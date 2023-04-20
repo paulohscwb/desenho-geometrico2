@@ -2794,7 +2794,7 @@
   </details></div>
    <img src="modulo3/apostila_nova_2022b-32b.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos encontrar os elementos principais da hipérbole, dada por um foco, o centro e uma reta tangente. Além disso, vamos encontrar os elementos principais da hipérbole conjugada desta hipérbole.</p>
+	<p>Vamos encontrar os elementos principais da hipérbole, dada por um foco, o centro e uma reta tangente. Além disso, vamos encontrar os elementos principais da hipérbole conjugada desta cônica.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="349b" name="sl">
@@ -2848,7 +2848,7 @@
 			   <input type="radio" id="357b" name="sl">
 			   <label for="357b"></label>
 			   <img src="modulo3/32a_02_09.png" loading="lazy"/>
-			   <figcaption>Para encontrar os focos da hipérbole conjugada, basta construir a circunferência de centro <b>O</b> e raio <b>c</b>.</figcaption>
+			   <figcaption>Para encontrar os focos da hipérbole conjugada, basta construir a circunferência de centro <b>O</b> e raio <b>c = A<sub>1</sub>B<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="358b" name="sl">

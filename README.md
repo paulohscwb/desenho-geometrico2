@@ -3418,41 +3418,41 @@
 		   <li>
 			   <input type="radio" id="409nc" name="sl">
 			   <label for="409nc"></label>
-			   <img src="modulo3/40a_01_01.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_01.png" loading="lazy"/>
 			   <figcaption>Começamos a construção determinando os segmentos dados colineares <b>TI</b> e <b>IN</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="410nc" name="sl">
 			   <label for="410nc"></label>
-			   <img src="modulo3/40a_01_02.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_02.png" loading="lazy"/>
 			   <figcaption>Para encontrar o ponto que determina os segmentos dados, construimos a média geométrica entre <b>TI</b> e <b>IN</b>. Começamos com o arco capaz de 90&deg; em relação ao segmento <b>TN</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="411nc" name="sl">
 			   <label for="411nc"></label>
-			   <img src="modulo3/40a_01_03.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_03.png" loading="lazy"/>
 			   <figcaption>A média geométrica está no encontro do arco capaz de 90&deg; com a reta perpendicular ao eixo que passa por <b>I</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="412nc" name="sl">
 			   <label for="412nc"></label>
-			   <img src="modulo3/40a_01_04.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_04.png" loading="lazy"/>
 			   <figcaption>Podemos construir o segmento <b>LA<sub>2</sub> &perp; e</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="413nc" name="sl">
 			   <label for="413nc"></label>
-			   <img src="modulo3/40a_01_05.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_05.png" loading="lazy"/>
 			   <figcaption>Determine o simétrico do foco em relação ao vértice <b>A<sub>2</sub></b>, e a diretriz <b>&gamma;</b> passa por <b>F'<sub>2</sub></b> perpendicularmente ao eixo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="414nc" name="sl">
 			   <label for="414nc"></label>
-			   <img src="modulo3/40a_01_06.png" loading="lazy"/>
+			   <img src="modulo3/40a_02_06.png" loading="lazy"/>
 			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
 		   </li>
 		</ul>
-		<img src="modulo3/40a_01_00.png" class="fundo" loading="lazy"/>
+		<img src="modulo3/40a_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-41.png" loading="lazy"/>

@@ -3369,7 +3369,91 @@
 		<img src="modulo3/40a_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
    <img src="modulo3/apostila_nova_2022b-40nb.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma parábola dada pelo eixo, uma reta tangente e um ponto da parábola pertencente à reta tangente.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="409nb" name="sl">
+			   <label for="409nb"></label>
+			   <img src="modulo3/40a_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos a construção determinando a reta normal à parábola que passa pelo ponto <b>P</b>. Logo, encontramos o ponto <b>N</b> do eixo da cônica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="410nb" name="sl">
+			   <label for="410nb"></label>
+			   <img src="modulo3/40a_01_02.png" loading="lazy"/>
+			   <figcaption>A mediatriz do segmento <b>PT</b> determina o ponto <b>L</b> da reta tangente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="411nb" name="sl">
+			   <label for="411nb"></label>
+			   <img src="modulo3/40a_01_03.png" loading="lazy"/>
+			   <figcaption>Podemos construir os segmentos <b>LA<sub>2</sub> &perp; e</b> e <b>PI &perp; e</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="412nb" name="sl">
+			   <label for="412nb"></label>
+			   <img src="modulo3/40a_01_04.png" loading="lazy"/>
+			   <figcaption>A mediatriz de <b>PT</b> determina o foco <b>F<sub>2</sub></b> sobre o eixo. Logo, podemos encontrar o simétrico do foco em relação ao vértice <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="413nb" name="sl">
+			   <label for="413nb"></label>
+			   <img src="modulo3/40a_01_05.png" loading="lazy"/>
+			   <figcaption>A diretriz <b>&gamma;</b> passa por <b>F'<sub>2</sub></b> perpendicularmente ao eixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="414nb" name="sl">
+			   <label for="414nb"></label>
+			   <img src="modulo3/40a_01_06.png" loading="lazy"/>
+			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/40a_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <img src="modulo3/apostila_nova_2022b-40nc.png" loading="lazy"/>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos construir os elementos principais de uma parábola dada pelos segmentos sub-tangente e sub-normal.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="409nb" name="sl">
+			   <label for="409nb"></label>
+			   <img src="modulo3/40a_01_01.png" loading="lazy"/>
+			   <figcaption>Começamos a construção determinando os segmentos dados colineares <b>TI</b> e <b>IN</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="410nb" name="sl">
+			   <label for="410nb"></label>
+			   <img src="modulo3/40a_01_02.png" loading="lazy"/>
+			   <figcaption>Para encontrar o ponto que determina os segmentos dados, construimos a média geométrica entre <b>TI</b> e <b>IN</b>. Começamos com o arco capaz de 90&deg; em relação ao segmento <b>TN</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="411nb" name="sl">
+			   <label for="411nb"></label>
+			   <img src="modulo3/40a_01_03.png" loading="lazy"/>
+			   <figcaption>A média geométrica está no encontro do arco capaz de 90&deg; com a reta perpendicular ao eixo que passa por <b>I</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="412nb" name="sl">
+			   <label for="412nb"></label>
+			   <img src="modulo3/40a_01_04.png" loading="lazy"/>
+			   <figcaption>Podemos construir o segmento <b>LA<sub>2</sub> &perp; e</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="413nb" name="sl">
+			   <label for="413nb"></label>
+			   <img src="modulo3/40a_01_05.png" loading="lazy"/>
+			   <figcaption>Determine o simétrico do foco em relação ao vértice <b>A<sub>2</sub></b>, e a diretriz <b>&gamma;</b> passa por <b>F'<sub>2</sub></b> perpendicularmente ao eixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="414nb" name="sl">
+			   <label for="414nb"></label>
+			   <img src="modulo3/40a_01_06.png" loading="lazy"/>
+			   <figcaption>Para concluir, basta construir a parábola à mão livre.</figcaption>
+		   </li>
+		</ul>
+		<img src="modulo3/40a_01_00.png" class="fundo" loading="lazy"/>
+  </details></div>
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
    <img src="modulo3/apostila_nova_2022b-41.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>

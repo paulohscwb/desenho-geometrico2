@@ -3345,13 +3345,13 @@
 			   <input type="radio" id="404na" name="sl">
 			   <label for="404na"></label>
 			   <img src="modulo3/40a_03_02.png" loading="lazy"/>
-			   <figcaption>O quadrilátero <b>F'<sub>2</sub>PNF<sub>2</sub></b> é paralelogramo, pois <b>F'<sub>2</sub>P</b> // <b>Fsub>2</sub>N</b> e <b>PN</b> // <b>F'<sub>2</sub>F<sub>2</sub></b>. Logo <b>F'<sub>2</sub>PNF<sub>2</sub></b> tem todas as propriedades de um paralelogramo.</figcaption>
+			   <figcaption>O quadrilátero <b>F'<sub>2</sub>PNF<sub>2</sub></b> é paralelogramo, pois <b>F'<sub>2</sub>P</b> // <b>F<sub>2</sub>N</b> e <b>PN</b> // <b>F'<sub>2</sub>F<sub>2</sub></b>. Logo <b>F'<sub>2</sub>PNF<sub>2</sub></b> tem todas as propriedades de um paralelogramo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="405na" name="sl">
 			   <label for="405na"></label>
 			   <img src="modulo3/40a_03_03.png" loading="lazy"/>
-			   <figcaption>Temos que os triângulos retângulos <b>&#9651;PIN</b> e <b>F'<sub>2</sub>MF<sub>2</sub></b> têm um par de catetos e um par de ângulos iguais. Logo, são triângulos congruentes e temos que <b>IN</b> = <b>MF<sub>2</sub></b> = <b>2p</b>.</figcaption>
+			   <figcaption>Temos que os triângulos retângulos <b>&#9651;PIN</b> e <b>&#9651;F'<sub>2</sub>MF<sub>2</sub></b> têm um par de catetos e um par de ângulos iguais. Logo, são triângulos congruentes e temos que <b>IN</b> = <b>MF<sub>2</sub></b> = <b>2p</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="406na" name="sl">
@@ -3363,7 +3363,7 @@
 			   <input type="radio" id="407na" name="sl">
 			   <label for="407na"></label>
 			   <img src="modulo3/40a_03_05.png" loading="lazy"/>
-			   <figcaption>Temos no <b>&#9651;TPN</b>, retângulo em <b>P</b>, que <b>PI<sup>2</sup></b> = <b>TI &cdot; IN</b>, ou seja, <b>y<sup>2</sup></b> = <b>2x &cdot; 2p</b>. De acordo com o teorema de Tales, podemos concluir que <b>A<sub>2</sub></b> é o ponto médio de <b>TI</b>, ou seja, <b>TI</b> = <b>2A<sub>2</sub>I</b> = <b>2x</b> = <b>4px</b>, que é a equação da parábola.</figcaption>
+			   <figcaption>Temos no <b>&#9651;TPN</b>, retângulo em <b>P</b>, que <b>PI<sup>2</sup></b> = <b>TI&middot;IN</b>, ou seja, <b>y<sup>2</sup></b> = <b>2x&middot;2p</b>. De acordo com o teorema de Tales, podemos concluir que <b>A<sub>2</sub></b> é o ponto médio de <b>TI</b>, ou seja, <b>TI</b> = <b>2A<sub>2</sub>I</b> = <b>2x</b> = <b>4px</b>, que é a equação da parábola.</figcaption>
 		   </li>
 		</ul>
 		<img src="modulo3/40a_03_00.png" class="fundo" loading="lazy"/>

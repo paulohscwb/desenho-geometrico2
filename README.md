@@ -3519,7 +3519,7 @@
    <p class="topop"><a href="#modulo3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo4">4. Homotetia, Rotação e curvas</summary>
+<details open><summary id="modulo4">4. Homotetia, Rotação e curvas</summary>
   <p>Material da página 42 até a página 52.</p>
    <img src="modulo4/apostila_nova_2022b-42.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
@@ -4260,7 +4260,7 @@
 		</ul>
 		<img src="modulo4/49_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-   <img src="modulo4/apostila_nova_2022b-49b.png" loading="lazy"/>
+   <img id="m4p2" src="modulo4/apostila_nova_2022b-49b.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-50.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>

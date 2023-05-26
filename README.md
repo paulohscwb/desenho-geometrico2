@@ -4747,7 +4747,7 @@
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="modulo5">5. Translação, Inversão e curvas</summary>
+<details open><summary id="modulo5">5. Translação, Inversão e curvas</summary>
   <p>Material da página 52 até a página 65.</p>
    <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>

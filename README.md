@@ -4747,7 +4747,7 @@
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="modulo5">5. Translação, Inversão e curvas</summary>
+<details><summary id="modulo5">5. Translação, Inversão e curvas</summary>
   <p>Material da página 52 até a página 65.</p>
    <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
@@ -6394,7 +6394,7 @@
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. Curvas paramétricas</summary>
+<details open style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. Curvas paramétricas</summary>
   <p>Material da página 66 até a página 77.</p>
    <img src="modulo6/apostila_nova_2022b-66.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>

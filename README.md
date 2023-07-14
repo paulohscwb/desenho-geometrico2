@@ -3520,7 +3520,7 @@
 </details>
 
 <details><summary id="modulo4">4. Homotetia, Rotação e curvas</summary>
-  <p>Material da página 42 até a página 52.</p>
+  <p>Material da página 44 até a página 54.</p>
    <img src="modulo4/apostila_nova_2022b-42.png" loading="lazy"/>
    <p class="topop"><a href="#modulo4" class="topo">voltar ao topo</a></p>
    <img src="modulo4/apostila_nova_2022b-43.png" loading="lazy"/>
@@ -4748,7 +4748,7 @@
 </details>
 
 <details><summary id="modulo5">5. Translação, Inversão e curvas</summary>
-  <p>Material da página 52 até a página 65.</p>
+  <p>Material da página 54 até a página 67.</p>
    <img src="modulo5/apostila_nova_2022b-52.png" loading="lazy"/>
    <p class="topop"><a href="#modulo5" class="topo">voltar ao topo</a></p>
    <img src="modulo5/apostila_nova_2022b-53.png" loading="lazy"/>

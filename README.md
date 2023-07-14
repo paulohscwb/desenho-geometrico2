@@ -7453,7 +7453,7 @@
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="modulo6/77_01_02.png" loading="lazy"/>
-			   <figcaption>Defina a função: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \sqrt{{||x| - 3|} \over {|x| - 4} }}$.</figcaption>
+			   <figcaption>Defina a função: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot \sqrt{ {||x| - 3|} \over {|x| - 4} }}$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">

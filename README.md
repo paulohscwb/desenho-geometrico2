@@ -2365,7 +2365,7 @@
 </details>
 
 <details><summary id="modulo3">3. Hipérboles e parábolas</summary>
-  <p>Material da página 26 até a página 41.</p>
+  <p>Material da página 26 até a página 43.</p>
    <img src="modulo3/apostila_nova_2022b-26.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
 	<p>Vamos acompanhar a demonstração do teorema de Apollonius para o caso de uma hipérbole. Considere as esferas inscritas na superfície cônica e tangentes ao plano de seção.</p>

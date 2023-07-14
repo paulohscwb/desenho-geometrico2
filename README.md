@@ -6395,7 +6395,7 @@
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="modulo6">6. Curvas paramétricas</summary>
-  <p>Material da página 66 até a página 77.</p>
+  <p>Material da página 68 até a página 79.</p>
    <img src="modulo6/apostila_nova_2022b-66.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos construir a curva torpedo dados a circunferência e o ponto fixo <b>A</b>.</p>
@@ -7453,7 +7453,7 @@
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="modulo6/77_01_02.png" loading="lazy"/>
-			   <figcaption>Defina a função: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot \sqrt{ {||x| - 3|} \over {|x| - 4} }}$.</figcaption>
+			   <figcaption>Defina a função: $\mathsf{ s(x) = -3 \sqrt{1 - \left( { {x} \over {7} } \right)^{2} } \cdot \sqrt{ {||x| - 4|} \over {|x| - 4} }}$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">

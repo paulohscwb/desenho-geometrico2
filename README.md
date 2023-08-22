@@ -7528,6 +7528,8 @@
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., "Desenho Geométrico 2". Disponível em: <https://paulohscwb.github.io/desenho-geometrico2/>, Dezembro de 2022.</p>
 
+<br><a href="https://doi.org/10.5281/zenodo.8271441"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271441.svg" alt="DOI"></a>
+
 <h4>Referências:</h4>
 <ol>
 	<li>Carvalho, B.A. Desenho Geométrico. Imperial Novo Milênio, 2008.</li>

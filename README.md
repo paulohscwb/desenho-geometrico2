@@ -10,7 +10,7 @@
 
 <h2 id="inicio">Construções Geométricas</h2>
 
-<p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
+<p>Esta página contém definições, propriedades e os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico II.</p>
 <p>A apostila está disponível no link: <a href="basico/Apostila_DG2_2022.pdf" target="_blank">apostila de Desenho Geométrico 2</a></p>
 
 <details><summary id="basico">Uso dos materiais básicos de Desenho</summary>

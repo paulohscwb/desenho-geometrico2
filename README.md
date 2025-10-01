@@ -7516,7 +7516,7 @@
    <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.3</span></div>
    <p class="topop"><a href="#modulo6" class="topo">voltar ao topo</a></p>
 </details>
-<div><img align="right" src="../imagens/qr.png"/></div>
+<div><img align="right" src="imagens/qr.png"/></div>
 <h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
 <p><b>contato:</b> paulohscwb@gmail.com </p>
